@@ -1,0 +1,54 @@
+{
+  "category": "9",
+  "subcategory": "C",
+  "name": "Baltic Porter",
+  "overallImpression": "Een krachtig, donker, moutig bier met verschillende interpretaties binnen de Baltische regio. Glad, verwarmend en rijk moutig, met complexe donkere fruitsmaken en een geroosterde smaak zonder verbrande tonen.",
+  "aroma": "Rijke moutigheid die vaak karamel, toffee, noten, diepe toast of drop bevat. Complex alcohol- en esterprofiel van gematigde sterkte, doet denken aan pruimen, gedroogde pruimen, rozijnen, kersen of krenten, af en toe met een wijnachtige port-kwaliteit. Diepe moutaccenten van pure chocolade, koffie of melasse, maar nooit verbrand. Geen hop. Geen zuurheid. Gladde, niet scherpe indruk.",
+  "appearance": "Donker roodachtig-koper tot ondoorzichtig donkerbruin, maar niet zwart. Dik, persistent tankleurig schuim. Helder, hoewel donkerdere versies ondoorzichtig kunnen zijn.",
+  "flavor": "Net als bij het aroma, heeft een rijke moutigheid met een complexe mengeling van diepe mout, gedroogde fruitesters en alcohol. De mout kan karamel, toffee, noot, melasse of drop-complexiteit hebben. Prominente maar gladde Schwarzbier-achtige geroosterde smaak die net voor verbrand stopt. Lichte hints van zwarte bessen en donker gedroogd fruit. Glad gehemelte en volle afdronk. Begint moutig-zoet maar donkere moutsmaken domineren snel en blijven hangen door de droogachtige afdronk, waarbij een hint van geroosterde koffie of drop en gedroogd fruit in de nasmaak achterblijft. Gemiddeld-lage tot gemiddelde bitterheid, net genoeg voor balans om te voorkomen dat het kleverig lijkt. Hopsmaak van licht kruidig hop varieert van geen tot gemiddeld-laag. Schoon gistingsprofiel.",
+  "mouthfeel": "Over het algemeen behoorlijk vol en glad, met een goed gerijpte alcoholwarmte die bedrieglijk kan zijn. Gemiddeld tot gemiddeld-hoog koolzuur, waardoor het nog mondvullender lijkt. Niet zwaar op de tong door het koolzuurniveau.",
+  "comments": "De meeste commerciële versies vallen in het 7-8,5% ABV bereik. De beste voorbeelden hebben een bedrieglijke sterkte die ze gevaarlijk makkelijk drinkbaar maakt. Het karakter van deze bieren varieert per land van oorsprong, dus wees voorzichtig met generaliseren op basis van één voorbeeld. Sommige bieren zijn meer trouw aan hun Engelse wortels, terwijl andere meer van de stijl zijn die voor het eerst populair werd in Polen.",
+  "history": "Ontwikkeld inheems (en onafhankelijk) in verschillende landen rond de Baltische Zee nadat de import van populaire Engelse porters en stouts werd onderbroken in het begin van de 1800e eeuw. Historisch bovengegist, pasten veel brouwerijen de recepten aan voor ondergistend gist samen met de rest van hun productie. De naam Baltic Porter is recent (sinds de jaren 1990) en beschrijft de moderne collectie bieren met een enigszins vergelijkbaar profiel uit deze landen, niet historische versies.",
+  "characteristicIngredients": "Over het algemeen lagergist (koud gegist bij gebruik van ale-gist, zoals vereist bij brouwen in Rusland). Ontbitterde donkere mout. München of Weense basismout. Continentale hop. Kan kristalmout of toevoegingen bevatten. Bruine of ambermout gebruikelijk in historische recepten. Als collectie van regionale bieren worden verschillende formuleringen verwacht.",
+  "styleComparison": "Combineert de body, moutigheid, rijkdom en gladheid van een Doppelbock, het donkerdere moutkarakter van een Engelse Porter, de roostsmaak van een Schwarzbier, en alcohol en fruitigheid van een Old Ale. Veel minder geroosterd en vaak lager in alcohol dan een Imperial Stout.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.06,
+      "max": 1.09
+    },
+    "fg": {
+      "min": 1.016,
+      "max": 1.024
+    },
+    "ibu": {
+      "min": 20,
+      "max": 40
+    },
+    "srm": {
+      "min": 17.0,
+      "max": 30.0
+    },
+    "abv": {
+      "min": 6.5,
+      "max": 9.5
+    }
+  },
+  "commercialExamples": [
+    "Aldaris Mežpils Porteris",
+    "Baltika 6 Porter",
+    "Devils Backbone Danzig",
+    "Okocim Mistrzowski Porter",
+    "Sinebrychoff Porter",
+    "Zywiec Porter"
+  ],
+  "tags": [
+    "high-strength",
+    "dark-color",
+    "any-fermentation",
+    "lagered",
+    "eastern-europe",
+    "traditional-style",
+    "porter-family",
+    "malty BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

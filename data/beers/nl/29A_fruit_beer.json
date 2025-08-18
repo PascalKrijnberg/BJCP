@@ -1,0 +1,25 @@
+{
+  "category": "29",
+  "subcategory": "A",
+  "name": "Fruitbier",
+  "overallImpression": "Een aangename integratie van fruit met bier, maar nog steeds herkenbaar als bier. Het fruitkarakter moet duidelijk aanwezig zijn maar in balans met het bier, niet zo prominent dat het een kunstmatig product suggereert.",
+  "aroma": "Varieert per basisstijl. Het fruitkarakter moet merkbaar zijn in het aroma; echter, sommige vruchten (bijv. frambozen, kersen) hebben sterkere aroma's en zijn meer onderscheidend dan andere (bijv. bosbessen, aardbeien) – sta een bereik van fruitkarakter en intensiteiten toe van subtiel tot agressief. Hoparoma mag lager zijn dan in de basisstijl om het fruitkarakter beter te tonen. Het fruit moet extra complexiteit toevoegen, maar niet zo prominent zijn dat het de resulterende presentatie uit balans brengt.",
+  "appearance": "Varieert per basisstijl en speciale ingrediënten. Lichter gekleurd bier moet onderscheidende ingrediëntkleuren tonen, inclusief in de schuimkraag. De kleur van fruit in bier is vaak lichter dan het vruchtvlees van het fruit zelf en kan enigszins verschillende tinten aannemen. Variabele helderheid, hoewel troebeling over het algemeen ongewenst is. Sommige ingrediënten kunnen de schuimretentie beïnvloeden.",
+  "flavor": "Varieert per basisstijl. Net als bij het aroma moeten onderscheidende fruitsmaken merkbaar zijn, en kunnen in intensiteit variëren van subtiel tot agressief, maar het fruitkarakter mag niet zo kunstmatig of ongepast overweldigend zijn dat het een 'vruchtensapdrank' suggereert. Bitterheid, hop- en moutsmaken, alcoholgehalte en fermentatiebijproducten, zoals esters, moeten geschikt zijn voor de basisstijl, maar harmonieus en gebalanceerd zijn met de onderscheidende fruitsmaken die aanwezig zijn. Fruit voegt over het algemeen smaak toe en geen zoetheid, omdat fruitsuikers gewoonlijk volledig gisten, waardoor de smaak lichter wordt en de afdronk uitdroogt. Echter, resterende zoetheid is niet noodzakelijkerwijs een negatieve eigenschap tenzij het een rauwe, ongegiste kwaliteit heeft. Sommige vruchten kunnen zuurheid, bitterheid en tannines toevoegen, die gebalanceerd moeten zijn in het resulterende smaakprofiel.",
+  "mouthfeel": "Varieert per basisstijl. Fruit vermindert vaak de body en laat het bier lichter aanvoelen op het gehemelte. Sommige kleinere en donkere vruchten kunnen een tannine diepte toevoegen, maar deze wrangheid mag het basisbier niet overweldigen.",
+  "comments": "De beschrijving van het bier is cruciaal voor evaluatie; juryleden moeten meer denken aan het gedeclareerde concept dan proberen elk individueel ingrediënt te detecteren. Balans, drinkbaarheid en uitvoering van het thema zijn de belangrijkste beslissende factoren. Het fruit moet de oorspronkelijke stijl aanvullen en niet overweldigen. Basisstijlkenmerken zullen anders zijn na toevoeging van fruit; verwacht niet dat het bier identiek smaakt aan de onvervalste basisstijl. Fruitbieren gebaseerd op een Klassieke Stijl moeten in deze stijl worden ingeschreven, behalve Lambiek – er is een speciale stijl voor Fruitlambiek (23F). Fruitige zure of gemengde fermentatiebieren zonder een Klassieke Stijl basis moeten worden ingeschreven in 28C Wild Specialty Beer. Fruitige versies van zure Klassieke Stijlbieren (bijv. Vlaams Rood, Oud Bruin, Gose, Berliner Weisse) moeten worden ingeschreven in 29A Fruitbier. Op fruit gebaseerde versies van Klassieke Stijlen waar kruiden een inherent onderdeel zijn van de definitie van de Klassieke Stijl (bijv. Witbier, Gose) tellen niet als een Kruidenbier voor inschrijvingsdoeleinden.",
+  "entryInstructions": "De inzender moet het type/de types van gebruikte vruchten specificeren. Inzender moet een beschrijving van het bier specificeren, waarbij ofwel een Basisstijl wordt geïdentificeerd of de ingrediënten, specificaties of doelkarakter van het bier. Een algemene beschrijving van de speciale aard van het bier kan alle vereiste items dekken.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "21st Amendment Hell or High Watermelon",
+    "Anderson Valley Blood Orange Gose",
+    "Avery Liliko'i Kepolo",
+    "Ballast Point Grapefruit Sculpin",
+    "Bell's Cherry Stout",
+    "Founders Rübæus"
+  ],
+  "tags": [
+    "specialty-beer",
+    "fruit"
+  ]
+}

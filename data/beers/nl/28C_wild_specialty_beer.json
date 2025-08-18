@@ -1,0 +1,32 @@
+{
+  "category": "28",
+  "subcategory": "C",
+  "name": "Wild Specialty Beer",
+  "overallImpression": "Een American Wild Ale met fruit, kruiden, specerijen, of andere Specialty-Type ingrediënten.",
+  "aroma": "Variabel per basisstijl. De Specialty-Type ingrediënten moeten evident zijn, evenals de bepalende kenmerken van een wilde gisting volgens de basisstijl. De beste voorbeelden mengen de aromaten van de gisting met de speciale ingrediënten, wat een aroma creëert dat moeilijk precies toe te schrijven kan zijn.",
+  "appearance": "Variabel per basisstijl, toont over het algemeen een kleur, tint, of nuance van eventuele Specialty-Type ingrediënten (vooral bij gebruik van fruit) in zowel het bier als het schuim. Helderheid kan variabel zijn; enige troebeling is geen fout. Schuimretentie is vaak slecht.",
+  "flavor": "Variabel per basisstijl. De Specialty-Type ingrediënten moeten evident zijn, evenals de bepalende kenmerken van een wilde gisting volgens de basisstijl. Als fruit werd gegist, is de zoetheid over het algemeen verdwenen zodat alleen de fruitesters typisch overblijven. Fruit en andere Specialty-Type ingrediënten kunnen hun eigen zuurheid toevoegen; indien zo, kan de zuurheid prominent zijn, maar mag niet overweldigend zijn. De zuurgraad en tannines van eventueel fruit of andere Specialty-Type ingrediënten kunnen beide de droogheid van het bier versterken, dus moet er zorgvuldig gelet worden op de balans. De zuurgraad moet de perceptie van eventuele fruitsmaak versterken, er niet van afleiden. Houttoetsen, indien aanwezig, voegen smaak toe maar moeten gebalanceerd zijn.",
+  "mouthfeel": "Variabel per basisstijl. Heeft over het algemeen een lichte body, lichter dan wat verwacht zou kunnen worden van de basisstijl. Over het algemeen matig tot hoog koolzuur; koolzuur moet de basisstijl balanceren indien één gedeclareerd is. De aanwezigheid van tannines van sommige Specialty-Type ingrediënten (vaak fruit of hout) kan een lichte wrangheid geven, de body versterken, of het bier droger doen lijken dan het is.",
+  "comments": "Deze stijl is bedoeld voor gefruite (en andere toegevoegde Specialty-Type ingrediënt) versies van andere stijlen binnen Categorie 28, niet variaties van Europese wilde of zure Klassieke Stijlen. Gefruite versies van Lambic moeten worden ingeschreven in 23F Fruit Lambic. Gefruite versies van andere zure Klassieke Stijlen (bijv. Flanders Red, Oud Bruin, Gose, Berliner Weisse) moeten worden ingeschreven in 29A Fruit Beer. Bieren met suikers en ongegist fruit toegevoegd na gisting moeten worden ingeschreven in 29C Specialty Fruit Beer.",
+  "history": "Moderne Amerikaanse craft beer interpretaties van Belgische wilde ales, of experimenten geïnspireerd door Belgische wilde ales.",
+  "characteristicIngredients": "Vrijwel elke bierstijl. Elke combinatie van Sacch, Brett, Lacto, Pedio, of andere vergelijkbare gistmiddelen. Kan ook een blend van stijlen zijn. Hoewel kersen, frambozen en perziken het meest gebruikelijk zijn, kunnen ook andere vruchten worden gebruikt. Groenten met fruitachtige eigenschappen (bijv. chili, rabarber, pompoen) kunnen ook worden gebruikt. Hout- of vatrijping is zeer gebruikelijk, maar niet vereist. Hout met ongewone of unieke smaakkenmerken, of hout dat eerder in contact was met andere soorten alcohol is toegestaan.",
+  "styleComparison": "Als een fruit-, kruiden-, specerijen- of houtbier, maar zuur of funky.",
+  "entryInstructions": "Deelnemer moet elk gebruikt SpecialtyType ingrediënt specificeren (bijv. fruit, specerij, kruid, of hout). Deelnemer moet ofwel een beschrijving van het bier specificeren, waarbij gist of bacteriën gebruikt worden geïdentificeerd en ofwel een Basisstijl, of de ingrediënten, specificaties, of doelkarakter van het bier. Een algemene beschrijving van de speciale aard van het bier kan alle vereiste items dekken.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "Cascade Bourbonic Plague",
+    "Jester King Atrial Rubicite",
+    "New Belgium Dominga Mimosa Sour",
+    "New Glarus Wisconsin Belgian Red",
+    "Russian River Supplication",
+    "The Lost Abbey Cuvee de Tomme"
+  ],
+  "tags": [
+    "wild-fermentation",
+    "north-america",
+    "craft-style",
+    "specialtybeer",
+    "sour",
+    "fruit"
+  ]
+}

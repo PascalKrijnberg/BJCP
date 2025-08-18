@@ -1,0 +1,49 @@
+{
+  "category": "29",
+  "subcategory": "D",
+  "name": "Druivenbier",
+  "overallImpression": "Combineert het profiel van een mousserende wijn en een relatief neutrale basisbier, waardoor de aromatische kwaliteiten van de druif aangenaam mengen met hop- en gistaroma's. Kan variëren van verfrissend tot complex.",
+  "aroma": "Aromatische eigenschappen van de druivensoort zijn merkbaar maar mogen niet domineren. Het druivenkarakter moet goed mengen met het onderliggende basismoutkarakter. Hoewel hoparoma meestal ingetogen is, kan het variëren van middel-laag tot volledig afwezig. De gisting is meestal heel schoon maar kan delicate kruidigheid en fruitige esters hebben. Banaan, kauwgom en dergelijke worden als gebreken beschouwd.",
+  "appearance": "Kleur kan variëren van lichtgoud tot robijn, maar die met rode druiven neigen naar bordeaux. Deze donkerdere kleuren kunnen ook komen van gekookte of geconcentreerde druivenproducten, nooit van speciale donkere granen. Wit tot roodachtige schuim met over het algemeen een middel-lage houdbaarheid. Helderheid is over het algemeen goed. Nooit troebel.",
+  "flavor": "Net als bij het aroma kan het druivenkarakter variëren van subtiel tot middel-hoge intensiteit en het meest prominent zijn. Fruitsmaken (steenvrucht, tropisch, bessen, enz.) zoals passend bij de druivensoort. Donkerdere rode druiven kunnen meer rustieke smaken bijdragen (bijv. aards, tabak, leer). Het moutkarakter is ondersteunend, niet robuust en meestal van de lichte, licht gekilnde variëteiten. Zeer lage niveaus van lichte kristalmout zijn toegestaan, maar geroosterd of sterk chocoladekarakter is altijd ongepast. Bitterheid is over het algemeen laag en hopsmaken kunnen laag tot afwezig zijn. Milde zurige noten, vanwege de soort en hoeveelheid gebruikte druif, zijn gebruikelijk en kunnen helpen de verteerbaarheid te verbeteren, maar mogen niet de 'zure' drempel naderen. Complementair eikenhout is optioneel maar een funky Brett-karakter mag niet aanwezig zijn. Schone gisting.",
+  "mouthfeel": "Middel-hoog tot hoog koolzuur verbetert de waarneming van aroma. Body is over het algemeen van laag tot middel en enige zuurgraad kan bijdragen aan verhoogde waarneming van droogheid. Afdronk is buitengewoon droog en fris. Sterke voorbeelden kunnen enige warming tonen.",
+  "comments": "Sterkte kan zo laag zijn als 4,5% of zo hoog als 12,5%, maar meestal in het vermelde bereik. Waarneming van kleur varieert sterk gebaseerd op tint van toegevoegd fruit.",
+  "history": "Oorspronkelijk gebrouwen bij Birrificio Montegioco en Birrificio Barley in 2006-2007. Werd populairder nadat het werd gepubliceerd in de 2015 Guidelines als Italian Grape Ale (IGA), en inspireerde veel lokale variaties in andere landen.",
+  "characteristicIngredients": "Pils of lichte basismout, beperkte lichte kristal- of tarwemout. Druivenmost (rode of witte variëteiten, meestal verse most) is meestal 15-20% van het totale grist, maar kan 40% overschrijden. De most wordt gegist met het bier, niet een menging van wijn en bier. Fruitig-kruidige gisten zijn meest gebruikelijk maar neutrale variëteiten kunnen worden gebruikt. Hop moet worden geselecteerd om het totaalprofiel aan te vullen. Dit bier wordt niet dry-gehopt. Eikenhout is toegestaan maar niet vereist, en het mag niet overweldigend zijn of op sterkere niveaus dan gevonden in wijn.",
+  "styleComparison": "Vergelijkbare basis als verschillende Belgische stijlen, zoals Belgian Blonde, Saison en Belgian Single, maar met druiven. Sterkere voorbeelden zijn vergelijkbaar met Belgian Tripel of Belgian Golden Strong Ale, maar met druiven. Niet funky zoals Fruit Lambic.",
+  "entryInstructions": "De deelnemer moet het type gebruikte druif specificeren. De deelnemer mag aanvullende informatie verstrekken over de basisstijl of karakteristieke ingrediënten.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.059,
+      "max": 1.075
+    },
+    "fg": {
+      "min": 1.004,
+      "max": 1.013
+    },
+    "ibu": {
+      "min": 10,
+      "max": 30
+    },
+    "srm": {
+      "min": 4.0,
+      "max": 8.0
+    },
+    "abv": {
+      "min": 6.0,
+      "max": 8.5
+    }
+  },
+  "commercialExamples": [
+    "Montegioco Open Mind",
+    "Birrificio del Forte Il Tralcio",
+    "Luppolajo Mons Rubus",
+    "Firestone Walker Feral Vinifera",
+    "pFriem Family Brewers Druif",
+    "4 Árvores Abbondanza"
+  ],
+  "tags": [
+    "specialty-beer",
+    "fruit BJCP Beer Style Guidelines – 2021 Edition 67"
+  ]
+}

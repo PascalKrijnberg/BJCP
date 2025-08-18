@@ -1,0 +1,56 @@
+{
+  "category": "24",
+  "subcategory": "C",
+  "name": "Bière de Garde",
+  "overallImpression": "Een familie van gladde, redelijk sterke, moutige, gelagerde artisanale Franse bieren met een scala aan moutsmaken passend bij de blonde, amber of bruine kleur. Alle zijn moutig maar droog, met schone smaken. Donkerdere versies hebben meer moutkarakter, terwijl blekere versies meer hop kunnen hebben maar nog steeds moutgerichte bieren blijven.",
+  "aroma": "Prominente moutige rijkheid, vaak met een complex, licht tot matig intensief, geroosterd en broodachtig karakter. Lage tot matige esters. Lage kruidig, peperig of kruidige hop optioneel. Over het algemeen vrij schoon, hoewel sterkere versies een lichte, kruidig alcoholnoot kunnen hebben wanneer ze opwarmen. Blekere versies zijn nog steeds moutig maar missen rijkere, diepere aromatieken en kunnen iets meer hop hebben.",
+  "appearance": "Blonde, amber en bruine variaties bestaan, waarbij de kleur dienovereenkomstig varieert: goudblond tot roodachtig-brons tot kastanjebruin. Helderheid is briljant tot redelijk, maar enige troebeling is toegestaan. Goed gevormde schuimkraag, over het algemeen wit tot gebroken wit (variërend met bierkleur), gemiddelde persistentie.",
+  "flavor": "Matige tot hoge moutige rijkheid, vaak met een geroosterd, biscuitachtig, toffee of licht karamelkarakter. Lage tot matige esters en alcoholsmaken. Matig lage hopbitterheid, wat een moutige balans geeft aan het gehemelte en de afdronk. Matig droge tot droge afdronk, niet zoet, kleverig of zwaar. Lage kruidig, peperig of kruidige hopsmaak optioneel. Moutsmaak, diepte, rijkheid, intensiteit en complexiteit neemt toe met bierkleur. Donkerdere versies zullen meer van een initiële rijke moutige indruk hebben dan blekere versies maar mogen niet geroosterd lijken. Blekere versies kunnen iets meer hopsmaak hebben.",
+  "mouthfeel": "Matige tot matig lichte body, vaak met een glad, romig-zijdeachtig karakter. Matig tot hoog koolzuur. Matige alcoholverwarming, maar mag nooit heet zijn.",
+  "comments": "Kelder-, muf-, schimmel- of rustiek karakter dat vaak wordt genoemd in literatuur zijn tekenen van verkeerd behandelde import, niet verse, authentieke producten. Leeftijd en oxidatie kunnen ook fruitigheid en karamelsmaken verhogen, maar verhogen ook de scherpte. Hoewel karamel en fruit deel kunnen uitmaken van de stijl, verwar het oxidatiekarakter niet met het juiste basisbier.",
+  "history": "Naam betekent ongeveer bier om te bewaren. Een traditioneel boerderij artisanaal bier uit het gebied rond Lille in Noord-Frankrijk, historisch gebrouwen in het vroege voorjaar en bewaard in koude kelders voor consumptie in warmer weer. Hoewel gedocumenteerd om te bestaan in de 1800s, is Jenlain de prototypische moderne amber lager versie die voor het eerst werd gebotteld in de jaren 1940.",
+  "characteristicIngredients": "Basismout varieert per bierkleur, maar omvat meestal bleke, Weense en Münchener types. Kristalmout van verschillende kleuren. Suiker toevoegingen kunnen worden gebruikt. Lager- of biergist gefermenteerd op koele biergist temperaturen, gevolgd door lange koude conditioning. Continentale hop.",
+  "styleComparison": "Dit een boerderijbier noemen nodigt uit tot vergelijkingen met Saison, die een compleet andere balans heeft - Bière de Garde is moutig en glad, terwijl Saison hoppig en bitter is. Heeft eigenlijk meer gelijkenis in moutprofiel met een Bock.",
+  "entryInstructions": "Deelnemer moet blonde, amber of bruine Bière de Garde specificeren. Als geen kleur wordt gespecificeerd, moet de jurylid proberen te beoordelen op basis van initiële observatie, verwachtend een moutsmaak en balans die overeenkomt met de kleur.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.06,
+      "max": 1.08
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.016
+    },
+    "ibu": {
+      "min": 18,
+      "max": 28
+    },
+    "srm": {
+      "min": 6.0,
+      "max": 19.0
+    },
+    "abv": {
+      "min": 6.0,
+      "max": 8.5
+    }
+  },
+  "commercialExamples": [
+    "Ch'Ti Blonde",
+    "Jenlain Ambrée",
+    "La Choulette Brune",
+    "Russian River Perdition",
+    "Saint Sylvestre 3 Monts Blonde",
+    "Two Brothers Domaine Dupage"
+  ],
+  "tags": [
+    "high-strength",
+    "pale-color",
+    "amber-color",
+    "anyfermentation",
+    "lagered",
+    "western-europe",
+    "traditional-style",
+    "amber-ale-family",
+    "malty BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

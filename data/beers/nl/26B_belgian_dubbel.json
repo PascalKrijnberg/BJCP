@@ -1,0 +1,52 @@
+{
+  "category": "26",
+  "subcategory": "B",
+  "name": "Belgian Dubbel",
+  "overallImpression": "Een diepe roodkoper, matig sterke, moutige, complexe Belgische ale met rijke moutsmaak, donkere of gedroogde fruitesters, en lichte alcohol samengesmolten in een moutige presentatie die nog vrij droog afrondt.",
+  "aroma": "Matig tot matig sterk, rijk moutaroma, met hints van chocolade, gekarameliseerde suiker, of toast. Nooit geroosterd of verbrand. Matige fruitige esters, vaak donker of gedroogd fruit, vooral rozijnen en pruimen, soms steenvruchten of banaan. Laag tot matig kruidig, peperig fenolen. Hop typisch afwezig, maar kan een laag kruidig, kruiden, of bloemig karakter hebben. De mout is het sterkst in de balans, met esters en kruiden die complexiteit toevoegen. Lage zachte, parfumachtige alcohol optioneel.",
+  "appearance": "Donker amber tot koper van kleur, met een aantrekkelijke roodachtige kleurdiepte. Over het algemeen helder. Grote, dichte, en langdurige romige gebroken witte schuimkraag.",
+  "flavor": "Smaakprofiel vergelijkbaar met aroma (dezelfde beschrijvingen en intensiteiten gelden) voor mout, esters, fenolen, alcohol, en hop. Middel-laag tot middel bitterheid, maar mout is altijd het meest prominent in de balans. De esters en fenolen voegen complexiteit en interesse toe aan de mout, alcohol typisch niet proefbaar. Mout-rijke, soms zoete smaak, die matig droog afrondt met een moutige afdronk geaccentueerd door gistesters en fenolen.",
+  "mouthfeel": "Glad, middel tot middel-vol lichaam. Middel-hoog koolzuur, wat de perceptie van body kan beïnvloeden. Lage alcoholwarmte optioneel, nooit heet of oplosmiddelachtig.",
+  "comments": "De meeste commerciële voorbeelden zitten in het 6,5 – 7% ABV bereik. Kan enigszins zoet smaken vanwege ingetoomde bitterheid, maar de bieren zijn eigenlijk vrij droog.",
+  "history": "Hoewel donkere en sterke bieren al lang geproduceerd werden, gaat de moderne Dubbel terug naar het dubbele bruine of sterke bier dat eerst geproduceerd werd bij Westmalle in 1922 toen de brouwerij heropgericht werd na de Eerste Wereldoorlog. Andere voorbeelden dateren van na de Tweede Wereldoorlog.",
+  "characteristicIngredients": "Kruidig-esterige Belgische gist. Indruk van een complex graanrecept, hoewel veel traditionele versies vrij eenvoudig zijn, met gekarameliseerde suikersiroop of ongeraffineerde suikers en gist die veel van de complexiteit leveren. Continentale hop. Kruiden niet typisch; indien aanwezig, zouden subtiel moeten zijn.",
+  "styleComparison": "Misschien vergelijkbaar met een Dunkles Bock maar met een Belgisch gist- en suikerkarakter. Vergelijkbaar in sterkte en balans met een Belgian Blond Ale, maar met een rijker mout- en esterprofiel. Minder sterk en intens dan een Belgian Dark Strong Ale.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.062,
+      "max": 1.075
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.018
+    },
+    "ibu": {
+      "min": 15,
+      "max": 25
+    },
+    "srm": {
+      "min": 10.0,
+      "max": 17.0
+    },
+    "abv": {
+      "min": 6.0,
+      "max": 7.6
+    }
+  },
+  "commercialExamples": [
+    "Chimay Red",
+    "Corsendonk Bruin",
+    "La Trappe Dubbel",
+    "Rochefort 6",
+    "St. Bernardus Pater 6",
+    "Westmalle Dubbel"
+  ],
+  "tags": [
+    "high-strength",
+    "amber-color",
+    "top-fermented",
+    "westerneurope",
+    "traditional-style",
+    "malty"
+  ]
+}

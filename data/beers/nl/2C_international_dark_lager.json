@@ -1,0 +1,53 @@
+{
+  "category": "2",
+  "subcategory": "C",
+  "name": "International Dark Lager",
+  "overallImpression": "Een donkerdere, rijkere en enigszins zoetere versie van international pale lager met iets meer body en smaak, maar even terughoudend in bitterheid. De lage bitterheid laat de mout als primaire smaakelement over, en de lage hopniveaus bieden zeer weinig wat betreft balans.",
+  "aroma": "Zwak moutaroma. Medium-laag geroosterd en karamelmoutaroma optioneel. Licht kruidig, kruidachtig of bloemig hoparoma optioneel. Schoon fermentatieprofiel.",
+  "appearance": "Diep amber tot zeer donkerbruin met heldere helderheid en robijnrode accenten. Schuimkraag houdt mogelijk niet lang stand en is beige tot lichtbruin van kleur.",
+  "flavor": "Lage tot medium zoete moutsmaak. Medium-lage karamel- of geroosterde moutsmaken optioneel, mogelijk met hints van koffie, melasse, bruine suiker of cacao. Lage bloemige, kruidige of kruidachtige hopsmaak optioneel. Lage tot medium bitterheid. Kan een zeer lichte fruitigheid hebben. Matig frisse afdronk. De balans is doorgaans enigszins moutig. Verbrande of matig sterke geroosterde moutsmaken zijn ongepast.",
+  "mouthfeel": "Lichte tot medium-lichte body. Glad met een lichte romigheid. Medium tot hoog koolzuur.",
+  "comments": "Een breed scala aan internationale lagers die donkerder zijn dan lichte, en niet nadrukkelijk bitter of geroosterd.",
+  "history": "Donkerdere versies van International Pale Lagers, vaak gecreëerd door dezelfde grote, industriële brouwerijen en bedoeld om een breed publiek aan te spreken. Vaak een gekleurde of gezoete aanpassing van de standaard lichte industriële lager, of een meer breed toegankelijke (en goedkopere) versie van meer traditionele donkere lagers.",
+  "characteristicIngredients": "Twee- of zesrijige gerst met maïs, rijst of suiker als hulpstoffen. Licht gebruik van karamel en donkerdere geroosterde mouten. Commerciële versies kunnen kleurmiddelen gebruiken.",
+  "styleComparison": "Minder smaak en rijkdom dan Munich Dunkel, Schwarzbier of andere donkere lagers. Gebruikt vaak hulpstoffen, zoals typisch is voor andere International Lagers.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.056
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 8,
+      "max": 20
+    },
+    "srm": {
+      "min": 14.0,
+      "max": 30.0
+    },
+    "abv": {
+      "min": 4.2,
+      "max": 6.0
+    }
+  },
+  "commercialExamples": [
+    "Baltika #4 Original",
+    "Dixie Blackened Voodoo",
+    "Heineken Dark Lager",
+    "Saint Pauli Girl Special Dark",
+    "San Miguel Dark",
+    "Shiner Bock"
+  ],
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "dark-lager-family",
+    "malty"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "category": "3",
+  "subcategory": "B",
+  "name": "Tsjechische Premium Pale Lager",
+  "overallImpression": "Een verfrissend bleek Tsjechisch lager met aanzienlijk mout- en hopkarakter en een lange afdronk. De moutsmaak is complex voor een Pilsner-type bier. De bitterheid is sterk en zuiver maar mist scherpte, wat een goed uitgebalanceerde, ronde smaakimpressie geeft die de drinkbaarheid versterkt.",
+  "aroma": "Medium tot medium-hoge broodrijke mout en medium-lage tot medium-hoge kruidige, bloemige of kruiderachtige hopgeur; hoewel de balans tussen mout en hop kan variëren, is het samenspel rijk en complex. Lichte diacetyl of zeer lage fruitige esters zijn optioneel. Esters hebben de neiging toe te nemen met het soortelijk gewicht.",
+  "appearance": "Middelgele tot diepgouden kleur. Briljante tot zeer heldere helderheid. Dichte, langaanhoudende, romige witte schuimkraag.",
+  "flavor": "Rijke, complexe, broodachtige moutsmaak gecombineerd met een uitgesproken maar zachte en ronde bitterheid en bloemige en kruidachtige hopsmaak. Mout- en hopsmaken zijn medium tot medium-hoog, en de mout kan een lichte indruk van karamel bevatten. Bitterheid is prominent maar nooit scherp. De lange afdronk kan naar hop of mout neigen maar is nooit agressief in een van beide richtingen. Lichte tot matig-lage diacetyl en lage hop-afgeleide esters zijn acceptabel, maar hoeven niet aanwezig te zijn.",
+  "mouthfeel": "Medium body. Matige tot lage koolzuur.",
+  "comments": "Over het algemeen een groep van pivo Plzeňského typu, of bieren van het Pilsner-type. Deze stijl is een combinatie van de Tsjechische stijlen světlý ležák (11–12,9 °P) en světlé speciální pivo (13–14,9 °P). In de Tsjechische Republiek worden alleen Pilsner Urquell en Gambrinus Pilsner genoemd, ondanks de wereldwijde verspreiding van deze naam. Buiten de Tsjechische Republiek worden soms de termen Czech Pilsner of Bohemian Pilsner gebruikt om het bier te onderscheiden van andere bieren van het Pilsner-type. Kvasnicové (\"gistbier\") versies zijn populair in de Tsjechische Republiek en kunnen ofwel gekräusend zijn met gegiste wort of een verse dosis zuivere gist krijgen na de vergisting. Deze bieren zijn soms troebel, met subtiele gistachtigheid en versterkt hopkarakter. Moderne voorbeelden variëren in hun mout-hop balans en velen zijn niet zo hop-gedreven als Pilsner Urquell.",
+  "history": "Gewoonlijk geassocieerd met Pilsner Urquell, die voor het eerst werd gebrouwen in 1842 na de bouw van een nieuwe brouwerij door burgers die ontevreden waren met de kwaliteit van het bier dat in Plzeň werd gebrouwen. De Beierse brouwer Josef Groll wordt gecrediteerd als de eerste die dit bier brouwde, hoewel er mogelijk eerder pale lagers in Bohemen waren. Net zo belangrijk als de lagergist was het gebruik van Engelse mouterij technieken.",
+  "characteristicIngredients": "Traditionele Tsjechische hop. Tsjechische mout. Tsjechische lagergist. Water met een laag sulfaat- en carbonaatgehalte zorgt voor een onderscheidend zacht, rond hopprofiel ondanks hoge hopgiften. Het bitterheidsgehalte van sommige grotere commerciële voorbeelden is de afgelopen jaren gedaald, hoewel niet zo veel als bij veel hedendaagse Duitse voorbeelden.",
+  "styleComparison": "Meer kleur, moutrijkdom en body dan een German Pils, met een vollere afdronk en een schonere, zachtere indruk. Sterker dan een Czech Pale Lager.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.06
+    },
+    "fg": {
+      "min": 1.013,
+      "max": 1.017
+    },
+    "ibu": {
+      "min": 30,
+      "max": 45
+    },
+    "srm": {
+      "min": 3.5,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 4.2,
+      "max": 5.8
+    }
+  },
+  "commercialExamples": [
+    "Bernard světlé ležák 12°",
+    "Budvar 33 světlý ležák",
+    "Pilsner Urquell",
+    "Pivovar Jihlava Ježek 11%",
+    "Primátor Premium lager",
+    "Radegast Ryze hořká 12",
+    "Únětická pivo 12°"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pilsner-family",
+    "balanced",
+    "hoppy"
+  ]
+}

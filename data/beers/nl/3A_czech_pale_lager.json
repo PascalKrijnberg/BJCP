@@ -1,0 +1,55 @@
+{
+  "category": "3",
+  "subcategory": "A",
+  "name": "Tsjechisch Licht Lager",
+  "overallImpression": "Een lichter gebouwd, rijk, verfrissend, hoppig, bitter licht Tsjechisch lager met de vertrouwde smaken van het sterkere Tsjechisch Premium Licht Lager (Pilsner-type) bier, maar in een lager alcohol, lichter gebouwd en iets minder intense vorm.",
+  "aroma": "Licht tot matig broodachtig-rijk mout gecombineerd met licht tot matig kruidig of kruiden hopboeket; de balans tussen mout en hop kan variëren. Een vage hint van karamel is acceptabel. Lichte (maar nooit opdringerige) diacetyl en lichte, fruitige esters zijn optioneel. Geen zwavel.",
+  "appearance": "Lichtgeel tot diep gouden kleur. Helder tot zeer helder, met een langdurig, romig wit schuim.",
+  "flavor": "Matig-lage tot matige broodachtig-rijke moutsmaak met een afgeronde, hoppige afdronk. Lage tot matig-hoge kruidige of kruiden hopsmaak. Bitterheid is prominent maar nooit scherp. Smaakrijk en verfrissend. Lage diacetyl of fruitige esters zijn optioneel, maar mogen nooit overheersend zijn.",
+  "mouthfeel": "Matig-lichte tot matige body. Matig koolzuur.",
+  "comments": "De Tsjechische naam van de stijl is světlé výčepní pivo.",
+  "history": "Josef Groll brouwde aanvankelijk twee soorten licht bier in 1842-3, een výčepní en een ležák, waarbij het kleinere bier twee keer zoveel productie had; Evan Rail speculeert dat dit waarschijnlijk 10 °P en 12 °P bieren waren, maar dat de výčepní zwakker had kunnen zijn. Dit is het meest geconsumeerde type bier in de Tsjechische Republiek op dit moment.",
+  "characteristicIngredients": "Zacht water met laag sulfaat- en carbonaatgehalte. Traditionele Tsjechische hop. Tsjechische Pilsner mout. Tsjechische lagergist. Water met lage ionen zorgt voor een kenmerkend zacht, afgerond hopprofiel ondanks hoge hoppingratio's.",
+  "styleComparison": "Een lichter gebouwde, lagere intensiteit, verfrissende, dagelijkse versie van Tsjechisch Premium Licht Lager. BJCP Beer Style Guidelines – 2021 Edition Vital Statistics: OG: 1.028 – 1.044 IBUs: 20 – 35 FG: 1.008 – 1.014 SRM: 3 – 6 ABV: 3.0 – 4.1%",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.028,
+      "max": 1.044
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 20,
+      "max": 35
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 3.0,
+      "max": 4.1
+    }
+  },
+  "commercialExamples": [
+    "Bernard světlé pivo 10",
+    "Březňák světlé výčepní pivo",
+    "Notch Session Pils",
+    "Primátor Antonín světlé výčepní",
+    "Radegast Rázna 10",
+    "Únětické pivo 10°"
+  ],
+  "tags": [
+    "session-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-lager-family",
+    "bitter",
+    "hoppy"
+  ]
+}

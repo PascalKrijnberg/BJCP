@@ -1,0 +1,55 @@
+{
+  "category": "5",
+  "subcategory": "B",
+  "name": "Kölsch",
+  "overallImpression": "Een subtiel, briljant helder, licht bier met een delicate balans van mout-, fruit- en hopkarakter, matige bitterheid en een goed uitgegiste maar zachte afdronk. Versheid maakt een enorm verschil bij dit bier, omdat het delicate karakter snel kan vervagen met de leeftijd.",
+  "aroma": "Laag tot zeer laag graanachtig-zoet moutaroma. Een subtiel fruitaroma (appel, peer, of soms kers) is optioneel, maar welkom. Laag bloemig, kruidig of kruidachtig hoparoma optioneel. De intensiteit van aromaten is vrij subtiel maar over het algemeen gebalanceerd, schoon, fris en aangenaam.",
+  "appearance": "Medium geel tot lichtgoud. Briljante helderheid. Heeft een delicaat wit schuim dat mogelijk niet blijft bestaan.",
+  "flavor": "Een delicate smaakbalans tussen mout, fruitigheid, bitterheid en hop, met een schone, goed uitgegiste afdronk. De medium tot medium-lage graanachtige moutsmaak kan zeer lichte broodachtige of honigtonen hebben. De fruitigheid kan een bijna onmerkbare zoetheid hebben. Medium-lage tot medium bitterheid. Lage tot matig hoge bloemige, kruidige of kruidachtige hopsmaak; de meeste zijn medium-laag tot medium. Kan een neutraal-graanachtige tot licht moutig zoete indruk hebben aan het begin. Zachte, ronde smaak. Afdronk is zacht, droog en licht fris, niet scherp of bijtend. Geen merkbare restzoetheid. Hoewel de balans tussen de smaakcomponenten kan variëren, zijn ze nooit sterk.",
+  "mouthfeel": "Medium-licht tot medium body; de meeste zijn medium-licht. Medium tot medium-hoog koolzuur. Glad en zacht, maar goed uitgegist en niet zwaar. Niet hard.",
+  "comments": "Een traditioneel bovengegist, gelagerd bier uit Keulen, Duitsland (Köln). Kölner brouwerijen onderscheiden zich door balans, dus sta een reeks variaties binnen de stijl toe bij het beoordelen. Drogere versies kunnen hoppiger of bitterder lijken dan de IBU-niveaus zouden kunnen suggereren. Het delicate smaakprofiel veroudert niet goed, dus wees alert op oxidatiegebreken. Geserveerd in Köln in een hoog, smal 20cl glas genaamd een Stange.",
+  "history": "Köln heeft een bovengistende brouwtraditie sinds de Middeleeuwen, maar het bier dat nu bekend staat als Kölsch werd ontwikkeld in de late jaren 1800 als alternatief voor lichte lagers. Ondergisting was eigenlijk verboden in Keulen. Kölsch is een appellation beschermd door de Kölsch Konvention (1986), en is beperkt tot brouwerijen in en rond Köln. De Konvention definieert het bier simpelweg als een 'licht, sterk uitgegist, hop-geaccentueerd, helder, bovengegist Vollbier.'",
+  "characteristicIngredients": "Traditionele Duitse hop. Duits Pils, Pale of Vienna mout. Vergistend, schoon Duits ale-gist. Af en toe klein gebruik van tarwemout. Huidige commerciële praktijk is om rond 15°C te gisten, koud conditioneren nabij het vriespunt tot een maand, en vers serveren.",
+  "styleComparison": "Kan worden aangezien voor een Cream Ale of enigszins subtiele Duitse Pils.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.05
+    },
+    "fg": {
+      "min": 1.007,
+      "max": 1.011
+    },
+    "ibu": {
+      "min": 18,
+      "max": 30
+    },
+    "srm": {
+      "min": 3.5,
+      "max": 5.0
+    },
+    "abv": {
+      "min": 4.4,
+      "max": 5.2
+    }
+  },
+  "commercialExamples": [
+    "Früh Kölsch",
+    "Gaffel Kölsch",
+    "Mühlen Kölsch",
+    "Päffgen Kolsch",
+    "Reissdorf Kölsch",
+    "Sion Kölsch",
+    "Sünner Kölsch"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-ale-family",
+    "balanced BJCP Beer Style Guidelines – 2021 Edition 9"
+  ]
+}

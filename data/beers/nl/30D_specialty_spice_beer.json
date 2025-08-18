@@ -1,0 +1,21 @@
+{
+  "category": "30",
+  "subcategory": "D",
+  "name": "Speciale Kruidenbier",
+  "overallImpression": "Een aantrekkelijke combinatie van kruiden, specerijen of groenten (KSG), suikers en bier, maar nog steeds herkenbaar als bier. Het KSG- en suikerkarakter moeten beide duidelijk aanwezig zijn maar in balans met het bier, niet zo op de voorgrond dat het een kunstmatig product suggereert.",
+  "aroma": "Hetzelfde als KSG-bier, behalve dat sommige extra vergistbare stoffen (bijv. honing, melasse) een aromacomponent kunnen toevoegen. Welke extra aromacomponent ook aanwezig is, deze moet in balans zijn met de KSG en de biercomponenten, en een aangename combinatie vormen.",
+  "appearance": "Hetzelfde als Kruiden-, Specerijen- of Groentenbier.",
+  "flavor": "Hetzelfde als KSG-bier, behalve dat sommige extra vergistbare stoffen (bijv. honing, melasse) een smaakcomponent kunnen toevoegen. Welke extra smaakcomponent ook aanwezig is, deze moet in balans zijn met de KSG en de biercomponenten, en een aangename combinatie vormen. Toegevoegde suikers mogen geen rauwe, ongegiste smaak hebben. Sommige toegevoegde suikers hebben ongegistbare elementen die een vollere en zoetere afdronk kunnen geven; volledig vergistbare suikers kunnen de afdronk verdunnen.",
+  "mouthfeel": "Hetzelfde als KSG-bier, hoewel dit afhankelijk van het type toegevoegde suiker de body kan vergroten of verkleinen.",
+  "comments": "Als de extra vergistbare stoffen of processen geen onderscheidend karakter aan het bier toevoegen, plaats het dan in één van de andere (niet-Speciale) Gekruide Bierstijlen en laat een beschrijving van de extra ingrediënten of processen weg.",
+  "entryInstructions": "De deelnemer moet het type gebruikte KSG specificeren, maar individuele ingrediënten hoeven niet gespecificeerd te worden als een bekende kruidenmix wordt gebruikt (bijv. appeltaartspecerijen, kerriepoeders, chilipoeders). De deelnemer moet het type extra ingrediënt (volgens de inleiding) of het toegepaste speciale proces specificeren. Deelnemer moet een beschrijving van het bier geven, waarbij ofwel een Basisstijl wordt geïdentificeerd of de ingrediënten, specificaties of gewenste karakter van het bier. Een algemene beschrijving van de speciale aard van het bier kan alle vereiste items dekken.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "New Belgium Honey Orange Tripel",
+    "Westbrook It's Tiki Time"
+  ],
+  "tags": [
+    "specialty-beer",
+    "spice BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

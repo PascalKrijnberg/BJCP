@@ -1,0 +1,54 @@
+{
+  "category": "8",
+  "subcategory": "A",
+  "name": "Munich Dunkel",
+  "overallImpression": "Een traditioneel moutig bruin lagerbrouwsel uit Beieren. Diep geroosterde, brodige moutsmaken zonder geroosterde of verbrande smaken. Soepel en rijk, met een beheerste bitterheid en een relatief droge afdronk die toelaat om in hoeveelheid te drinken.",
+  "aroma": "Gematigd tot hoog moutrijk aroma, zoals geroosterde broodkorsten met hints van chocolade, noten, karamel of toffee. Verse traditionele versies tonen vaak hogere niveaus van chocolade. Het moutkarakter is meer moutig-rijk dan suikerig of karamelachtig zoet. Schoon gistingsprofiel. Een licht kruidig, bloemig of kruidachtig hoparoma is optioneel.",
+  "appearance": "Diep koper tot donkerbruin, vaak met een rode of granaatrode tint. Romige, lichte tot medium tangueurige schuimkraag. Gewoonlijk helder.",
+  "flavor": "Rijke moutsmaken vergelijkbaar met het aroma (dezelfde moutbeschrijvingen gelden), gematigd tot hoog. Beheerste bitterheid, gematigd-laag tot gematigd, wat een algehele moutige balans geeft. Moutig en zacht op het gehemelte zonder overdreven zoet te zijn, en gematigd droog in de afdronk met een moutige nasmaak. Geen geroosterde, verbrande of bittere moutsmaken, geroosterde smaken zouden geen ruwe graanachtige droogheid moeten hebben, en karamelsmaken zouden niet zoet moeten zijn. Lage kruidige, kruidachtige of bloemige hopsmaak optioneel. Schoon gistingsprofiel.",
+  "mouthfeel": "Gematigd tot gematigd-vol lichaam, wat een zacht en dextrineus mondgevoel biedt zonder zwaar of kleverig te zijn. Gematigd koolzuur. Soepel lagerkarakter. Geen ruwe of bijtende samentrekking. Niet opwarmend.",
+  "comments": "Een traditionele Münchener stijl, de donkere metgezel van Helles. Frankische versies zijn bitterder dan die uit München.",
+  "history": "Ontwikkeld bij Spaten in de jaren 1830 na de ontwikkeling van München mout, en gezien als opvolger van donkere regionale bieren van die tijd. Hoewel ontstaan in München, werd de stijl populair door heel Beieren (vooral Franken).",
+  "characteristicIngredients": "Traditioneel München mouten, maar Pils en Vienna kunnen ook gebruikt worden. Licht gebruik van specialiteitsmouten voor kleur en diepte. Decoctiebeslag traditioneel. Duitse hop en lagergist.",
+  "styleComparison": "Niet zo intens in moutigheid of zo sterk als een Dunkles Bock. Mist de meer geroosterde smaken en vaak de hopbitterheid van een Schwarzbier. Rijker, meer mout-centrisch en minder hoppig dan een Tsjechische Donkere Lager.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.056
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.016
+    },
+    "ibu": {
+      "min": 18,
+      "max": 28
+    },
+    "srm": {
+      "min": 17.0,
+      "max": 28.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 5.6
+    }
+  },
+  "commercialExamples": [
+    "Ayinger Altbairisch Dunkel",
+    "Ettaler Kloster-Dunkel",
+    "Eittinger Urtyp Dunkel",
+    "Hacker-Pschorr Münchner Dunkel",
+    "Hofbräuhaus Dunkel",
+    "Weltenburger Kloster Barock-Dunkel"
+  ],
+  "tags": [
+    "standaard-sterkte",
+    "donkere-kleur",
+    "ondergegist",
+    "gelagerd",
+    "centraal-europa",
+    "traditionele-stijl",
+    "moutig",
+    "donkere-lager-familie"
+  ]
+}

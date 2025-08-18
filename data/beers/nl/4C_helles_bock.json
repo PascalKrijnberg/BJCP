@@ -1,0 +1,54 @@
+{
+  "category": "4",
+  "subcategory": "C",
+  "name": "Helles Bock",
+  "overallImpression": "Een relatief licht, sterk, moutig Duits lagerbier met een goed vergiste afdronk die de drinkbaarheid verhoogt. Het hopkarakter is over het algemeen meer aanwezig en het moutkarakter minder diep rijk dan in andere Bocks.",
+  "aroma": "Matig tot sterk graanachtig-zoet moutaroma, vaak met een licht geroosterde kwaliteit en lage Maillard-producten. Matig-laag kruidig, kruidachtig of bloemig hoparoma optioneel. Schoon gistingsprofiel. Lage fruitige esters optioneel. Zeer lichte alcohol optioneel.",
+  "appearance": "Diep goud tot licht amber van kleur. Helder tot duidelijke helderheid. Groot, romig, blijvend, wit schuim.",
+  "flavor": "Matig tot matig sterk graanachtig-zoet, deegachtig, broodachtig of licht geroosterd moutsmaak domineert met enkele rijke Maillard-producten die extra interesse bieden. Weinig karamelsmaak optioneel. Laag tot matig kruidig, kruidachtig, bloemig, peperig hopsmaak optioneel, maar aanwezig in de beste voorbeelden. Matige hopbitterheid, meer in de balans dan in andere Bocks. Schoon gistingsprofiel. Goed vergist, niet kleverig, met een matig-droge afdronk die zowel mout als hop kan smaken.",
+  "mouthfeel": "Medium body. Matig tot matig-hoog koolzuur. Glad en schoon zonder hardheid of samentrekkendheid, ondanks de verhoogde hopbitterheid. Lichte alcoholverwarming optioneel.",
+  "comments": "Ook bekend als Maibock. Vergeleken met donkere Bockbieren compenseren de hop voor het lagere niveau van Maillard-producten in de balans.",
+  "history": "Een vrij recente ontwikkeling in vergelijking met de andere leden van de bockfamilie. Het serveren van Maibock is een seizoensaanbod geassocieerd met de lente en de maand mei, en kan een breder kleur- en hopbereik bevatten dan te zien is in geëxporteerde producten.",
+  "characteristicIngredients": "Een mix van Pils-, Weens en Münchener mout. Geen hulpstoffen. Licht gebruik van lichte kristaltype mouten mogelijk. Traditionele Duitse hop. Schone lagergist. Decoctiebeslag is traditioneel, maar koken is minder dan in Dunkles Bock om kleurontwikkeling te beperken. Zacht water.",
+  "styleComparison": "Kan gezien worden als een lichte versie van een Dunkles Bock, of een Munich Helles of Festbier gebrouwen tot bocksterkte. Hoewel behoorlijk moutig, heeft dit bier doorgaans minder donkere en rijke moutsmaken, en kan droger, hoppiger en bitterder zijn dan een Dunkles Bock. Minder sterk dan een lichte Doppelbock, maar met vergelijkbare smaken.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.064,
+      "max": 1.072
+    },
+    "fg": {
+      "min": 1.011,
+      "max": 1.018
+    },
+    "ibu": {
+      "min": 23,
+      "max": 35
+    },
+    "srm": {
+      "min": 6.0,
+      "max": 9.0
+    },
+    "abv": {
+      "min": 6.3,
+      "max": 7.4
+    }
+  },
+  "commercialExamples": [
+    "Altenmünster Maibock",
+    "Ayinger Maibock",
+    "Chuckanut Maibock",
+    "Einbecker Mai-Ur-Bock",
+    "Hofbräu Maibock",
+    "Mahr's Heller Bock"
+  ],
+  "tags": [
+    "high-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "bock-family",
+    "malty BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

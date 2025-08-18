@@ -1,0 +1,20 @@
+{
+  "category": "34",
+  "subcategory": "A",
+  "name": "Commercieel Speciaal Bier",
+  "overallImpression": "Gebaseerd op aangegeven bier.",
+  "aroma": "Gebaseerd op aangegeven bier.",
+  "appearance": "Gebaseerd op aangegeven bier.",
+  "flavor": "Gebaseerd op aangegeven bier.",
+  "mouthfeel": "Gebaseerd op aangegeven bier.",
+  "comments": "Bedoeld als verzamelcategorie voor specifieke bieren die gebaseerd zijn op unieke commerciële voorbeelden die niet in bestaande stijlen passen. Eerdere versies van de Stijlrichtlijnen bevatten een Belgische Speciale Ale stijl; deze stijl vult dat algemene doel, evenals het toestaan van niet-Belgische inzendingen met soortgelijke intentie.",
+  "entryInstructions": "De deelnemer moet de naam van het commerciële bier specificeren, specificaties (vitale statistieken) voor het bier, en ofwel een korte sensorische beschrijving of een lijst van ingrediënten gebruikt bij het maken van het bier. Zonder deze informatie hebben juryleden die onbekend zijn met het bier geen basis voor vergelijking.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "Orval",
+    "La Chouffe"
+  ],
+  "tags": [
+    "specialty-beer"
+  ]
+}

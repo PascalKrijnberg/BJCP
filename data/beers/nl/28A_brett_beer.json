@@ -1,0 +1,30 @@
+{
+  "category": "28",
+  "subcategory": "A",
+  "name": "Brett Bier",
+  "overallImpression": "Meestal droger en fruitiger dan de basisstijl suggereert. Fruitige of funky tonen variëren van laag tot hoog, afhankelijk van de leeftijd van het bier en de gebruikte Brett-stammen. Kan een lichte niet-melkzure zuurgraad bezitten.",
+  "aroma": "Variabel per basisstijl. Jonge Brett-bieren zullen meer fruitige tonen bezitten (bijv. tropisch fruit, steenfruit of citrus), maar dit varieert per gebruikte Brett-stammen. Oudere Brett-bieren kunnen wat funk beginnen te ontwikkelen (bijv. boerenerftonen, nat hooi, of licht aardse of rokerige tonen), maar dit karakter mag niet domineren.",
+  "appearance": "Variabel per basisstijl. Helderheid kan variabel zijn en hangt af van de basisstijl en gebruikte ingrediënten. Enige troebeling is niet noodzakelijkerwijs een fout.",
+  "flavor": "Variabel per basisstijl. Brett-karakter kan variëren van minimaal tot agressief. Kan behoorlijk fruitig zijn (bijv. tropisch fruit, bes, steenfruit, citrus), of wat rokerige, aardse of boerenerf-karakteristieken hebben. Mag niet onaangenaam funky zijn, zoals pleister, rottend, nagellakremover, kaas, enz. Altijd fruitiger wanneer jong, krijgt meer funk met de leeftijd. Hoeft niet melkzuur te zijn. Moutsmaken zijn vaak minder uitgesproken dan in de basisstijl, wat een bier oplevert dat meestal droog en fris is door hoge vergisting door de Brett.",
+  "mouthfeel": "Variabel per basisstijl. Heeft over het algemeen een licht lichaam, lichter dan wat verwacht zou kunnen worden van de basisstijl, maar een overdreven dun lichaam is een fout. Over het algemeen matig tot hoog koolzuur. Schuimretentie is variabel, maar vaak minder dan de basisstijl.",
+  "comments": "De basisstijl beschrijft het meeste karakter van deze bieren, maar de toevoeging van Brett zorgt voor een droger, dunner, en vaak fruitiger en funkier product. Jongere versies zijn helderder en fruitiger, terwijl oudere meer diepte van funk bezitten en meer van het basisstijlkarakter kunnen verliezen. Het Brett-karakter moet altijd versmelten met de stijl; deze bieren mogen nooit een 'Brett-bom' zijn. Hoewel Brett lage niveaus van organische zuren kan produceren, is het geen primaire bierzuurmethode.",
+  "history": "Moderne Amerikaanse craft beer interpretaties van Belgische wilde bieren, of experimenten geïnspireerd door Belgische wilde bieren of historische Engelse bieren met Brett. Zogenaamde 100% Brett-bieren werden populair na het jaar 2000, maar dit was toen S. Trois werd beschouwd als een Brett-stam (wat het niet is). Brett 62 gebruikt in combinatie met een Sacch-gisting is nu standaardpraktijk.",
+  "characteristicIngredients": "Vrijwel elke bierstijl (behalve die welke al een Sacch/Brett co-fermentatie gebruiken), dan afgewerkt met een of meer stammen van Brett. Alternatief, een gemengde gisting met Sacch en een of meer stammen van Brett. Geen Lacto.",
+  "styleComparison": "Vergeleken met dezelfde bierstijl zonder Brett, zal een Brett Bier droger, hoger vergist, fruitiger, lichter van lichaam en lichtelijk funkier zijn naarmate het ouder wordt. Minder zuurheid en diepte dan Belgische 'wilde' bieren.",
+  "entryInstructions": "De inzender moet ofwel een Basisstijl specificeren, of een beschrijving geven van de ingrediënten, specificaties, of gewenste karakter. De inzender mag de gebruikte Brett-stammen specificeren.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "Boulevard Saison Brett",
+    "Hill Farmstead Arthur",
+    "Logsdon Seizoen Bretta",
+    "Lost Abbey Brett Devo",
+    "Russian River Sanctification",
+    "The Bruery Saison Rue"
+  ],
+  "tags": [
+    "wild-fermentation",
+    "north-america",
+    "craft-style",
+    "specialtybeer"
+  ]
+}

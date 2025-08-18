@@ -1,0 +1,83 @@
+{
+  "category": "2",
+  "subcategory": "A",
+  "name": "International Pale Lager",
+  "overallImpression": "Een sterk vergiste lichte lager zonder sterke smaken, typisch goed gebalanceerd en sterk koolzuurhoudend. Koud geserveerd is het verfrissend en dorstlessend.",
+  "aroma": "Laag tot middelmatig-laag graanachtig-moutig of licht maiszoet moutaroma. Zeer laag tot middelmatig kruidig, bloemig of kruidachtig hoparoma. Schoon fermentatieprofiel.",
+  "appearance": "Lichtgeel tot goudkleurig. Wit, schuimig hoofd dat mogelijk niet lang blijft. Zeer helder.",
+  "flavor": "Lage tot middelmatige niveaus van graanachtig-moutsmaak, middelmatig-laag tot middelmatige bitterheid, met een frisse, droge, goed vergiste afdronk. Het graankarakter kan enigszins neutraal zijn, of een lichte broodachtig-crackerige kwaliteit tonen. Middelmatige maisachtige of moutige zoetheid optioneel. Middelmatige bloemige, kruidige of kruidachtige hopsmaak optioneel. Balans kan variëren van licht moutig tot licht bitter, maar is meestal relatief dicht bij evenwichtig. Neutrale nasmaak met lichte mout en soms hopsmaken.",
+  "mouthfeel": "Licht tot middelmatig lichaam. Middelmatig hoog tot sterk koolzuurhoudend. Kan een lichte koolzuurbeet op de tong hebben.",
+  "comments": "Heeft vaak minder toevoegingen dan Amerikaanse Lagers. Ze kunnen volledig mout zijn, hoewel sterke smaken nog steeds een fout zijn. Een brede categorie van internationale massa-markt lagers variërend van hoogwaardige Amerikaanse lagers tot de typische \"import\" of \"groene fles\" internationale bieren die in Amerika en veel exportmarkten te vinden zijn. Vaak verwarrend gelabeld als een \"Pilsner.\" Elke skunkachtigheid in commerciële bieren is een behandelingsfout, geen karakteristiek van de stijl.",
+  "history": "In de Verenigde Staten ontwikkeld als een premium versie van de standaard Amerikaanse lager, met een vergelijkbare geschiedenis. Buiten de VS ontwikkeld als een imitatie van Amerikaanse-stijl lagers, of als een meer toegankelijke (en vaak drogere en minder bittere) versie van een Pilsner-type bier. Vaak zwaar gemarketing en geëxporteerd door grote industriële of multinationale brouwerijen.",
+  "characteristicIngredients": "Twee- of zesrijige gerst. Kan rijst, mais of suiker gebruiken als toevoegingen, maar zijn over het algemeen volledig mout.",
+  "styleComparison": "Over het algemeen bitterder en voller dan Amerikaanse Lager. Minder hoppig en bitter dan een Duitse Pils. Minder lichaam, moutsmaak en hopkarakter dan een Tsjechische Premium Pale Lager. Robuustere versies kunnen een München Helles benaderen in smaak, maar met meer van een toevoegingskwaliteit.",
+  "entryInstructions": "Deelnemer mag regionale variaties specificeren, indien gewenst (Mexicaanse lager, Nederlandse lager, enz.).",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.042,
+      "max": 1.05
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 18,
+      "max": 25
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 6.0
+    }
+  },
+  "commercialExamples": [
+    "Asahi Super Dry",
+    "Birra Moretti",
+    "Corona Extra",
+    "Devils Backbone Gold Leaf Lager",
+    "Full Sail Session Premium Lager",
+    "Heineken",
+    "Red Stripe",
+    "Singha"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "pale-lager-family",
+    "balanced Overall Impression: A smooth",
+    "easily-drinkable",
+    "malty amber lager with a flavorful caramel or toast character. Usually fairly well-attenuated",
+    "often with an adjunct quality and restrained bitterness. Aroma: Low to moderate grainy malt aroma often with very low to moderate caramel or toasty malt accents. Occasionally",
+    "nutty or biscuity",
+    "but never roasty. Low",
+    "unobtrusive floral or spicy hop aroma. Clean fermentation profile. Appearance: Golden-amber to reddish-copper color. Bright clarity. White to off-white foam stand which may not last. Flavor: Low to moderate malt flavor",
+    "often with caramel or toasty-bready flavors. Low to medium-low corny sweetness optional. Low to moderate bitterness",
+    "giving the beer a malty to fairly even balance. Low to moderate spicy",
+    "herbal",
+    "or floral hop flavor. Clean fermentation profile. The finish is moderately dry with a moderately malty aftertaste. The beer may seem a touch sweet if the bitterness level is low. Mouthfeel: Light to medium body. Medium to high carbonation. Smooth. Some examples can be slightly creamy. Comments: A wide spectrum of mass-market amber lagers either developed independently in various countries",
+    "or describing rather generic amber beers with more historical relevance that eventually changed into indistinguishable products in modern times. History: Varies by country",
+    "but generally represents either an adaptation of the mass-market International Pale Lager",
+    "or an evolution of indigenous styles into more generic products. Characteristic Ingredients: Two-row or six-row base malt. Color malts such as Victory",
+    "amber",
+    "or roast. May be all malt or use adjuncts. Sugars or coloring agents possible. Caramel malt. European or American hops. Style Comparison: Less well-developed malt flavor than a Vienna Lager",
+    "often with an adjunct taste. Less robust flavor and bitterness than Altbier. Vital Statistics: OG: 1.042 – 1.055 IBUs: 8 – 25 FG: 1.008 – 1.014 SRM: 6 – 14 ABV: 4.5 – 6.0% Commercial Examples: Abita Amber Lager",
+    "Brooklyn Lager",
+    "Capital Wisconsin Amber Lager",
+    "Dos Equis Amber",
+    "Grain Belt NordEast",
+    "Yuengling Lager Tags: standard-strength",
+    "amber-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "amber-lager-family",
+    "malty BJCP Beer Style Guidelines – 2021 Edition 3"
+  ]
+}

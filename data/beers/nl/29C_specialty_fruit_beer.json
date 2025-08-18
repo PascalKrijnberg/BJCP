@@ -1,0 +1,23 @@
+{
+  "category": "29",
+  "subcategory": "C",
+  "name": "Specialty Fruit Beer",
+  "overallImpression": "Een aantrekkelijke combinatie van fruit, suiker en bier, maar nog steeds herkenbaar als bier. Het fruit- en suikerkarakter moeten beide duidelijk aanwezig zijn maar in balans met het bier, niet zo dominant dat het een kunstmatig product suggereert.",
+  "aroma": "Hetzelfde als Fruit Beer, behalve dat sommige aanvullende vergistbare stoffen (bijv. honing, melasse) een aromacomponent kunnen toevoegen. Welke aanvullende aromacomponent ook aanwezig is, deze moet in balans zijn met het fruit en de biercomponenten, en een aangename combinatie vormen.",
+  "appearance": "Hetzelfde als Fruit Beer.",
+  "flavor": "Hetzelfde als Fruit Beer, behalve dat sommige aanvullende vergistbare stoffen (bijv. honing, melasse) een smaakcomponent kunnen toevoegen. Welke aanvullende smaakcomponent ook aanwezig is, deze moet in balans zijn met het fruit en de biercomponenten, en een aangename combinatie vormen. Toegevoegde suikers mogen geen rauwe, ongegiste smaak hebben. Sommige toegevoegde suikers hebben niet-vergistbare elementen die een vollere en zoetere afdronk kunnen geven; volledig vergistbare suikers kunnen de afdronk verdunnen.",
+  "mouthfeel": "Hetzelfde als Fruit Beer, hoewel afhankelijk van het type toegevoegde suiker de body kan toenemen of afnemen.",
+  "comments": "Als de aanvullende vergistbare stoffen of processen geen onderscheidend karakter aan het bier toevoegen, dien het in als een van de andere (niet-Specialty) Fruit Beer stijlen en laat een beschrijving van de extra ingrediënten of processen weg.",
+  "entryInstructions": "De deelnemer moet het type fruit specificeren dat gebruikt is. De deelnemer moet het type aanvullend ingrediënt (volgens de inleiding) of speciaal proces specificeren dat toegepast is. Deelnemer moet een beschrijving van het bier specificeren, waarbij ofwel een Basisstijl wordt geïdentificeerd of de ingrediënten, specificaties of doelkarakter van het bier. Een algemene beschrijving van de speciale aard van het bier kan alle vereiste items dekken.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "The Bruery Goses are Red",
+    "New Planet Raspberry Ale",
+    "Tired Hands Strawberry Milkshake IPA",
+    "WeldWerks Piña Colada IPA"
+  ],
+  "tags": [
+    "specialty-beer",
+    "fruit"
+  ]
+}

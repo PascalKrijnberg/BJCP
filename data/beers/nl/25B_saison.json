@@ -1,0 +1,58 @@
+{
+  "category": "25",
+  "subcategory": "B",
+  "name": "Saison",
+  "overallImpression": "Een familie van verfrissende, sterk uitgegiste, hoppige en redelijk bittere Belgische bieren met een zeer droge afdronk en hoog koolzuurgehalte. Gekenmerkt door een fruitig, kruidig, soms fenolisch gistingsprofiel, en het gebruik van graansoorten en soms kruiden voor complexiteit. Verschillende variaties in sterkte en kleur bestaan.",
+  "aroma": "Een aangenaam aromatische mix van fruitig-kruidig gist en hop. De fruitige esters zijn matig tot hoog, en hebben vaak een citrusvrucht, pitvruchten of steenvruchten karakter. Lage tot matig hoge kruidigheid is vaak zoals zwarte peper, niet kruidnagel. Hop is laag tot matig en heeft een continentaal karakter (kruidig, bloemig, aards, of fruitig). De mout wordt vaak overschaduwd, maar indien waargenomen is licht graanachtig. Kruiden en specerijen optioneel, maar mogen niet domineren. Zuurheid optioneel. Sterke versies hebben meer aromatische intensiteit, en kunnen een licht alcohol en matig moutkarakter toevoegen. Tafelversies hebben minder intensiteit en geen alcoholkarakter. Donkerdere versies voegen moutkarakter toe geassocieerd met donkerdere granen.",
+  "appearance": "Lichtgoud tot diep amber van kleur, soms licht oranje. Langdurig, dicht, schuimig wit tot ivoorkeurig schuim. Belgisch kant. Ongefilterd, dus helderheid is variabel (slecht tot goed) en kan troebel zijn. Bruisend.",
+  "flavor": "Lichte tot matige graanachtige moutsmaak, vaak met een licht honing of suiker karakter. De fruitigheid is vaak citrusachtig (sinaasappels of citroenen). Lage tot matige kruidigheid is vaak zoals zwarte peper, niet kruidnagel, en versterkt het citruskarakter. Hopbitterheid is matig tot hoog. Hopsmaak is laag tot matig met continentaal karakter. De droge afdronk wordt geaccentueerd door hoog koolzuur. De gist- en hopsmaken hebben de neiging door te zetten in de nasmaak. Lage tot matige zuurheid optioneel. Sterke versies kunnen wat alcoholsmaak hebben. Donkerdere versies kunnen wat roostkarakter hebben. Tafelversies zijn lager in alcohol, lichter van body, en hebben minder moutkarakter, maar behouden de andere sensorische aspecten.",
+  "mouthfeel": "Licht tot medium body. Hoog koolzuur. Lichte tot matige alcoholwarmte in sterkere versies. Glad, verfrissend, bruisend.",
+  "comments": "Een familie van bieren, niet een enkele bierstijl. Sterkte en kleur variëren, maar alle worden gekenmerkt door hoge uitgisting, hoog koolzuur, en gistkarakter. Kan Farmhouse Ale of Artisanal Ale genoemd worden in sommige markten, maar die termen zijn niet specifiek voor deze stijl. Vaak fles gerijpt.",
+  "history": "Ontstaat uit de boerderijbieren gebrouwen in Franstalig België (Wallonië) en Franse gebieden nabij de Belgische grens. Oorspronkelijk een rustiek, ambachtelijk bier gemaakt als voorzieningsbier voor boerderij arbeiders (saisonniers) die werkten in de velden tijdens de warme zomermaanden. Nu commercieel geproduceerd het hele jaar door.",
+  "characteristicIngredients": "Pilsner mout domineert. Andere granen zoals tarwe, haver, spelt, of rogge kunnen gebruikt worden. Toevoegingen zoals suiker of honing kunnen ook dienen om het lichaam te verlichten en te helpen bij de droge afdronk. Een breed scala aan kruiden en specerijen kan gebruikt worden, maar zou niet moeten domineren. Brettanomyces secundaire gisting is ook mogelijk maar niet vereist. Continentale hop is het meest traditioneel, maar Engelse en Amerikaanse variëteiten worden ook gebruikt. Breed scala aan ale gisten kan gebruikt worden, vaak mengsels inclusief wilde gisten en melkzuurbacteriën.",
+  "styleComparison": "De lichte, standaard-sterkte versies zijn zoals een meer uitgegiste, hoppige, en bittere Belgian Blond Ale. Aan de hoge kant van alcohol, vergelijkbaar met een Belgian Tripel, maar vaak niet zo moutig, en meer uitgegist. Lagere alcohol versies kunnen vergelijkbaar zijn met een Belgian Golden Strong Ale, ook zoals een Belgian Tripel.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.08
+    },
+    "fg": {
+      "min": 1.002,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 20,
+      "max": 35
+    },
+    "srm": {
+      "min": 5.0,
+      "max": 22.0
+    },
+    "abv": {
+      "min": 3.5,
+      "max": 9.5
+    }
+  },
+  "commercialExamples": [
+    "Boulevard Tank 7",
+    "La Chouffe",
+    "Saint Somewhere Saison Athene",
+    "Saison 1858",
+    "Saison Cazeau",
+    "Saison Dupont",
+    "Saison du Buff",
+    "Saison Voisin",
+    "Boulevard Saison-Brett"
+  ],
+  "tags": [
+    "session-strength",
+    "standard-strength",
+    "high-strength",
+    "pale-color",
+    "amber-color",
+    "top-fermented",
+    "western-europe",
+    "traditional-style",
+    "bitter"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "category": "28",
+  "subcategory": "D",
+  "name": "Straight Sour Beer",
+  "overallImpression": "Een licht, verfrissend, zuur bier met een zuivere melkzuurzuurheid. Een zachte, lichte moutsmaak ondersteunt de citroenzuurheid met gematigde fruitige esters.",
+  "aroma": "Een scherp zuur karakter is dominant (matig hoog tot hoog). Kan tot een matig fruitig karakter hebben (vaak perzik, abrikoos, citroen, of zure appel). Geen hoparoma. Ondersteunende lichte mout domineert, meestal biscuitachtig of krakend. Zuivere gisting.",
+  "appearance": "Zeer licht van kleur. Helderheid varieert van helder tot enigszins troebel. Grote, dichte, witte schuimkraag met slechte retentie. Bruisend.",
+  "flavor": "Zuivere melkzuurzuurheid domineert en kan behoorlijk sterk zijn. Wat complementaire, broodachtige, biscuit, krakende, of graanachtige smaak is over het algemeen merkbaar. Hopbitterheid is niet detecteerbaar. Nooit azijnachtig of bijtend zuur. Licht fruitkarakter kan matig zijn, inclusief een citrusachtig-citroenlemonig of zure appel fruitigheid kan worden gedetecteerd. Afdronk is halfdroog tot droog. Balans gedomineerd door zuurheid, maar wat mout- en esterige fruitsmaak moet aanwezig zijn. Geen hopsmaak. Zuiver.",
+  "mouthfeel": "Licht lichaam. Matig tot hoog koolzuur. Nooit heet, hoewel voorbeelden met hoger alcohol een verwarmend alcoholkarakter kunnen hebben. Frisse zuurheid.",
+  "comments": "Een sterkere versie van een Berliner Weisse-type bier met minder restrictieve graan, en geen Brett. Deze bierstijl wordt typisch gebruikt als basis voor moderne bieren die zwaar gearomatiseerd zijn met fruit, kruiden, suikers, etc. – die zouden moeten worden ingedeeld in 28C Wild Specialty Beer.",
+  "history": "Duitse brouwwetenschapper, Otto Francke, ontwikkelde wat bekend zou worden als het Francke verzuringsproces dat de traditionele gemengde-cultuur Berliner Weiss methoden kon versnellen en consistenter maken; dit staat ook bekend als kettle souring. Veel moderne commerciële zure bier voorbeelden gebruiken deze methode voor snelle productie, en als alternatief voor complexe vatproductie.",
+  "characteristicIngredients": "Het meeste of alle graan is lichte, Pils, of tarwemout in elke combinatie. Licht gekilnde mouten voor meer moutdiepte kunnen worden gebruikt. Carapils-type mouten kunnen worden gebruikt voor body. Lichte suikers kunnen worden gebruikt om het soortelijk gewicht te verhogen zonder body. Geen lactose of maltodextrine. Kan worden geproduceerd door kettle souring, co-fermentatie cultuur (gist en LAB), of door gebruik van specialiteit gist die melkzuur produceert. Geen Brett.",
+  "styleComparison": "Lagere soortelijk gewicht voorbeelden kunnen zeer veel lijken op een Brett-vrije Berliner Weisse. Vergeleken met een Lambic, is over het algemeen niet zo zuur en heeft een zuivere melkzuurzuurheid met ingehouden tot onder de sensorische drempel funk. Hoger alcoholgehalte dan beide.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.065
+    },
+    "fg": {
+      "min": 1.006,
+      "max": 1.013
+    },
+    "ibu": {
+      "min": 3,
+      "max": 8
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 3.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 7.0
+    }
+  },
+  "commercialExamples": [
+    "Zelden gevonden",
+    "aangezien deze stijl typisch de basis is voor andere Specialty-Type Bieren."
+  ],
+  "tags": [
+    "pale-color",
+    "top-fermented",
+    "sour BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

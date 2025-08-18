@@ -1,0 +1,51 @@
+{
+  "category": "24",
+  "subcategory": "B",
+  "name": "Belgisch Pale Ale",
+  "overallImpression": "Een bovengist, volledig mout, gemiddeld sterke Belgische ale die matig bitter is, niet dry-gehopped, en zonder sterke smaken. Het koperkleurige bier mist het agressieve gistkarakter of de zuurheid van veel Belgische bieren, maar heeft een goed gebalanceerd, moutig, fruitig, en vaak broodachtig en geroosterd profiel.",
+  "aroma": "Matig broodachtig moutaroma, dat geroosterde, biscuitachtige, of nootachtige tonen kan bevatten, mogelijk met een vleugje lichte karamel of honing. Matige tot matig hoge fruitigheid complementeert de mout, en doet denken aan peer, sinaasappel, appel, of citroen, en soms aan donkerder steenfruit zoals pruimen. Laag tot matig kruidig, kruidachtig, of bloemig hopkarakter. Lage peperige, kruidige fenolen optioneel. Het hopkarakter is lager in balans dan de mout en fruitigheid.",
+  "appearance": "Amber tot koperkleurig. Helderheid is zeer goed. Romig, stevig, wit schuim. Goed gekoolzuurd.",
+  "flavor": "Heeft een aanvankelijk zachte, gladde, matig moutige smaak met een variabel profiel van geroosterde, biscuitachtige, nootachtige, lichte karamel, of honingtonen. Matige tot matig hoge fruitigheid, met een peer, sinaasappel, appel, of citroenkarakter. Matig-laag tot laag kruidig, kruidachtig, of bloemig hopkarakter. Matig-hoge tot matig-lage bitterheid, versterkt door optionele lage tot zeer lage peperige fenolen. Droge tot gebalanceerde afdronk, waarbij hop meer uitgesproken wordt in de nasmaak van die met een drogere afdronk. Redelijk goed gebalanceerd over het geheel, zonder dat één component hoog in intensiteit is; mout en fruitigheid komen aanvankelijk meer naar voren met een ondersteunende bitterheid en drogend karakter dat later opkomt.",
+  "mouthfeel": "Matig tot matig-lichte body. Glad mondgevoel. Alcoholniveau is ingetogen, en elk verwarmend karakter moet laag zijn indien aanwezig. Matig tot matig-hoog koolzuur.",
+  "comments": "Meest gevonden in de Vlaamse provincies Antwerpen, Brabant, Henegouwen, en Oost-Vlaanderen. Een Spéciale Belge Ale (Belgische Speciale Ale) in België.",
+  "history": "Ontstaan na een wedstrijd in 1904 om een regionale specialiteit te creëren om te concurreren met geïmporteerde Britse ales en continentale lagers. De Koninck uit Antwerpen is het bekendste moderne voorbeeld, dat het bier sinds 1913 brouwt.",
+  "characteristicIngredients": "Variabel maalsel met lichte, karakter, en karamelmout. Geen hulpstoffen. Engelse of continentale hop. Fruitige gist met lage fenolen.",
+  "styleComparison": "Redelijk vergelijkbaar met pale ales uit Engeland (11C Strong Bitter), typisch met een iets ander gistkarakter en een gevarieerder moutprofiel. Minder gistkarakter dan veel andere Belgische bieren echter.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.054
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 20,
+      "max": 30
+    },
+    "srm": {
+      "min": 8.0,
+      "max": 14.0
+    },
+    "abv": {
+      "min": 4.8,
+      "max": 5.5
+    }
+  },
+  "commercialExamples": [
+    "De Koninck Bolleke",
+    "De Ryck Special",
+    "Palm",
+    "Palm Dobble"
+  ],
+  "tags": [
+    "standaard-sterkte",
+    "amber-kleur",
+    "bovengegist",
+    "west-europa",
+    "traditionele-stijl",
+    "pale-ale-familie",
+    "gebalanceerd BJCP Bierstijl Richtlijnen – 2021 Editie 49"
+  ]
+}

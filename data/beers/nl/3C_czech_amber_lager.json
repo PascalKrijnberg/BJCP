@@ -1,0 +1,54 @@
+{
+  "category": "3",
+  "subcategory": "C",
+  "name": "Tsjechische Amber Lager",
+  "overallImpression": "Een moutige amber Tsjechische lager met een hopkarakter dat kan variëren van laag tot vrij significant. De moutsmaken kunnen ook variëren, wat leidt tot verschillende interpretaties en balansen variërend van droger, broodachtig en licht biscuitachtig tot zoeter en enigszins karamelachtig.",
+  "aroma": "Gematigde intensiteit, rijk moutaroma dat ofwel broodachtig en Maillard-product dominant kan zijn of licht karamelachtig zoet. Kruidig, bloemig of kruidachtig hopkarakter kan gematigd tot afwezig zijn. Zuiver lagerkarakter, hoewel lage fruitige esters (steenfruit of bessen) aanwezig kunnen zijn. Laag diacetyl optioneel.",
+  "appearance": "Diepe amber tot koperkleur. Helder tot heldere helderheid. Grote, gebroken witte, persistente schuimkraag.",
+  "flavor": "Complexe moutsmaak is dominant (gemiddeld tot gemiddeld-hoog), hoewel de aard ervan kan variëren van droog en Maillard-product dominant tot karamelachtig en bijna zoet. Sommige voorbeelden hebben een snoepachtig tot beschuitachtig moutkarakter. Lage tot gematigde kruidige hopsmaak. Prominente maar zuivere hopbitterheid zorgt voor een uitgebalanceerde afdronk. Subtiele pruim- of bessenesters optioneel. Laag diacetyl optioneel. Geen geroosterde moutsmaak. Afdronk kan variëren van droog en hoppig tot relatief zoet.",
+  "mouthfeel": "Gemiddeld-vol tot gemiddelde body. Zacht en rond, vaak met een zachte romigheid. Gematigd tot laag koolzuur.",
+  "comments": "De Tsjechische naam van de stijl is polotmavé pivo, wat vertaalt als half-donker bier. Deze stijl is een combinatie van de Tsjechische stijlen polotmavý ležák (11–12,9 °P) en polotmavé speciální pivo (13–14,9 °P). Sommige versies kunnen een mengsel zijn van lichte en donkere lagers.",
+  "history": "Een Weense-stijl lager die is blijven brouwen in de Tsjechische Republiek. Een opleving van kleine brouwerijen die openen in de Tsjechische Republiek heeft het aantal voorbeelden van deze stijl verhoogd.",
+  "characteristicIngredients": "Pilsner en karamelmout, maar Weense en Münchense mout kunnen ook worden gebruikt. Water met laag mineraalgehalte. Traditionele Tsjechische hop. Tsjechische lagergist.",
+  "styleComparison": "De stijl kan vergelijkbaar zijn met een Weense Lager maar met sterker Tsjechisch laat hopkarakter, of die een Britse Bitter benadert maar aanzienlijk rijker met meer van een diep karamelkarakter. Grote brouwerijversies zijn over het algemeen vergelijkbaar met Tsjechische Premium Pale Lager met iets donkerdere moutsmaken en minder hop, terwijl kleinere brouwerijen vaak versies maken met aanzienlijk hopkarakter, moutcomplexiteit of resterende zoetheid.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.06
+    },
+    "fg": {
+      "min": 1.013,
+      "max": 1.017
+    },
+    "ibu": {
+      "min": 20,
+      "max": 35
+    },
+    "srm": {
+      "min": 10.0,
+      "max": 16.0
+    },
+    "abv": {
+      "min": 4.4,
+      "max": 5.8
+    }
+  },
+  "commercialExamples": [
+    "Bernard Jantarový ležák 12°",
+    "Gambrinus Polotmavá 12°",
+    "Kozel Semi-Dark",
+    "Lobkowicz Démon 13",
+    "Primátor 13 polotmavé",
+    "Strakonický Dudák Klostermann polotmavý ležák"
+  ],
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "amber-lager-family",
+    "balanced"
+  ]
+}

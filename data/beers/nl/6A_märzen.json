@@ -1,0 +1,53 @@
+{
+  "category": "6",
+  "subcategory": "A",
+  "name": "Märzen",
+  "overallImpression": "Een amber, moutige Duitse lager met een heldere, rijke, geroosterde, broodachtige moutsmaak, ingehouden bitterheid en een goed uitgegiste afdronk. De algehele moutindruk is zacht, elegant en complex, met een rijke moutige nasmaak die nooit kleverig of zwaar is.",
+  "aroma": "Gematigde moutige aroma, typisch rijk, broodachtig, enigszins geroosterd, met lichte broodkorsttoetsen. Schone lager gistingskarakter. Zeer lage bloemige, kruidachtige, of specerij-achtige hoparoma optioneel. Karamelzoete, beschuitachtig-droge, of geroosterde moutaroma's zijn ongepast. Zeer lichte alcohol kan worden waargenomen, maar mag nooit scherp zijn. Schone, elegante moutrijkdom moet de primaire aroma zijn.",
+  "appearance": "Amber-oranje tot diepe roodachtig-koperen kleur; mag niet goudkleurig zijn. Heldere klaarheid, met blijvende, gebroken witte schuimkraag.",
+  "flavor": "Matige tot hoge rijke moutsmaak suggereert aanvankelijk vaak zoetheid, maar de afdronk is matig droog tot droog. Kenmerkende en complexe moutigheid omvat vaak een broodachtig, geroosterd aspect. Hopbitterheid is matig, en een lage bloemige, kruidige of specerij hopsmaak is optioneel. Hop zorgt voor voldoende balans zodat het moutige mondgevoel en de afdronk niet zoet lijken. De nasmaak is moutig, met dezelfde elegante, rijke moutsmaken die blijven hangen. Opvallende zoete karamel-, droge beschuit- of geroosterde smaken zijn ongepast. Schoon gistingsprofiel.",
+  "mouthfeel": "Medium body, met een zachte, romige textuur die vaak een vollere mondgevoel suggereert. Medium koolzuur. Volledig uitgegist, zonder een zoete of kleverige indruk. Kan licht verwarmend zijn, maar de sterkte moet relatief verborgen blijven.",
+  "comments": "Moderne Duitse Oktoberfest-versies uit eigen land zijn goudkleurig – zie de Festbier-stijl voor deze variant. Geëxporteerde Duitse versies (naar de Verenigde Staten althans) zijn doorgaans oranje-amber van kleur, hebben een kenmerkend geroosterd moutkarakter, en worden vaak gelabeld als Oktoberfest. Veel ambachtelijke versies van Oktoberfest zijn gebaseerd op deze stijl. Historische versies van het bier neigden naar donkerder tinten, richting het bruine kleurenspectrum, maar er zijn vele 'schakeringen' van Märzen geweest (wanneer de naam wordt gebruikt als sterkte-aanduiding); deze stijlbeschrijving verwijst specifiek naar de sterkere amber lager-variant. Het moderne Festbier kan in deze termen worden beschouwd als een lichter, bleek Märzen.",
+  "history": "Zoals de naam al doet vermoeden, gebrouwen als een sterker \"maart bier\" in maart en gelagerd in koude kelders gedurende de zomer. Moderne versies gaan terug naar het lager ontwikkeld door Spaten in 1841, gelijktijdig met de ontwikkeling van Vienna lager. De naam Märzen is echter veel ouder dan 1841 – de vroege exemplaren waren donkerbruin, en de naam duidde op een sterkteklasse (14 °P) in plaats van een stijl. De amber lager stijl die op het Oktoberfest werd geserveerd van 1872 tot 1990, toen het gouden Festbier werd aangenomen als het standaard festivalbier.",
+  "characteristicIngredients": "Graan varieert, hoewel traditionele Duitse versies Munich mout benadrukten. Het begrip elegantie is afgeleid van ingrediënten van de beste kwaliteit, met name de basismout. Een afkookselbezetting is traditioneel en versterkt het rijke moutprofiel.",
+  "styleComparison": "Niet zo krachtig en vol als een Dunkles Bock. Meer moutdiepte en rijkdom dan een Festbier, met een zwaarder lichaam en iets minder hop. Minder hoppig maar even moutig als een Czech Amber Lager, maar met een ander moutprofiel.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.054,
+      "max": 1.06
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 18,
+      "max": 24
+    },
+    "srm": {
+      "min": 8.0,
+      "max": 17.0
+    },
+    "abv": {
+      "min": 5.6,
+      "max": 6.3
+    }
+  },
+  "commercialExamples": [
+    "Hacker-Pschorr Oktoberfest Märzen",
+    "Hofmark Märzen",
+    "Paulaner Oktoberfest",
+    "Saalfelder Ur-Saalfelder",
+    "Weltenburger Kloster Anno 1050"
+  ],
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "amber-lager-family",
+    "malty"
+  ]
+}

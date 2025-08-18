@@ -1,0 +1,55 @@
+{
+  "category": "3",
+  "subcategory": "1",
+  "name": "Alternatief Suikerbier",
+  "overallImpression": "Een sterk koolzuurhoudend, zeer licht bier met nauwelijks smaak, ontworpen om zeer koud geconsumeerd te worden. Zeer verfrissend en dorstlessend.",
+  "aroma": "Licht moutaroma optioneel, maar kan worden waargenomen als graanachtig, zoet, of maïsachtig, indien aanwezig. Licht kruidig, bloemig, of kruidachtig hoparoma optioneel. Hoewel een schoon gistingsprofiel wenselijk is, is een lichte hoeveelheid gistkarakter geen fout.",
+  "appearance": "Zeer bleek stroogeel tot bleek gele kleur. Witte, schuimige kraag houdt zelden stand. Zeer helder.",
+  "flavor": "Relatief neutraal smaakprofiel met een knapperige, droge afdronk en een lage tot zeer lage graanachtige of maïsachtige smaak die als zoetheid kan worden waargenomen door de lage bitterheid. Lage bloemige, kruidige of kruidachtige hopsmaak optioneel, maar is zelden sterk genoeg om te detecteren. Lage tot zeer lage bitterheid. Balans kan variëren van licht moutig tot licht bitter, maar is meestal bijna gelijk. Hoge koolzuur kan de knapperigheid van de droge afdronk accentueren. Schoon gistingsprofiel.",
+  "mouthfeel": "Zeer licht, soms waterig mondgevoel. Zeer sterk koolzuurhoudend met een lichte koolzuurbeet op de tong.",
+  "comments": "Ontworpen om zo breed mogelijk aan te spreken bij het algemene publiek. Sterke smaken zijn een fout. Met weinig mout- of hopsmaak is het gistkarakter vaak wat merken het meest van elkaar onderscheidt.",
+  "history": "Coors brouwde kort een licht lager in de vroege jaren 1940. Moderne versies werden voor het eerst geproduceerd door Rheingold in 1967 om dieetbewuste drinkers aan te spreken, maar werden pas populair vanaf 1973 nadat Miller Brewing het recept overnam en het bier intensief op de markt bracht bij sportfans met de \"tastes great, less filling\" campagne. Bieren van dit genre werden de grootste verkopers in de Verenigde Staten in de jaren 1990.",
+  "characteristicIngredients": "Twee- of zesrijsgerst met tot 40% rijst of maïs als hulpstoffen. Aanvullende enzymen kunnen het lichaam verder verlichten en koolhydraten verlagen. Lagergist. Verwaarloosbare hop.",
+  "styleComparison": "Een lichter van body, lager in alcohol, lager in calorieën versie van een American Lager. Minder hopkarakter en bitterheid dan een Duitse Leichtbier.",
+  "entryInstructions": "Deelnemer mag regionale variaties specificeren, indien gewenst (Mexicaans lager, Nederlands lager, etc.).",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.028,
+      "max": 1.04
+    },
+    "fg": {
+      "min": 0.998,
+      "max": 1.008
+    },
+    "ibu": {
+      "min": 8,
+      "max": 12
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 3.0
+    },
+    "abv": {
+      "min": 2.8,
+      "max": 4.2
+    }
+  },
+  "commercialExamples": [
+    "Bud Light",
+    "Coors Light",
+    "Grain Belt Premium Light American Lager",
+    "Michelob Light",
+    "Miller Lite",
+    "Old Milwaukee Light"
+  ],
+  "tags": [
+    "session-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "north-america",
+    "traditional-style",
+    "pale-lager-family",
+    "balanced"
+  ]
+}

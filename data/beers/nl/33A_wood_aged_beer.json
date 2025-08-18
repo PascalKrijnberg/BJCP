@@ -1,0 +1,27 @@
+{
+  "category": "33",
+  "subcategory": "A",
+  "name": "Hout-Gerijpt Bier",
+  "overallImpression": "Een aangename verbetering van de basis bierstijl met de karakteristieken van rijping in contact met hout. De beste voorbeelden zullen glad, smaakrijk, goed gebalanceerd en goed gerijpt zijn.",
+  "aroma": "Varieert met basisstijl. Een laag tot matig houtig aroma is gewoonlijk aanwezig; sommige variëteiten kunnen een sterker of onderscheidend karakter hebben. Vers hout kan soms een ruwe, vers-gesneden houtgeur verlenen, hoewel dit karakter nooit te sterk mag zijn. Als het hout geroosterd of verkoolde is, kan er een laag tot matig vanille-, karamel-, toffee-, toast- of cacaokarakter aanwezig zijn.",
+  "appearance": "Varieert met basisstijl. Vaak donkerder dan de onvervalste basis bierstijl, vooral als geroosterde of verkoold vaten worden gebruikt.",
+  "flavor": "Varieert met basisstijl. Hout draagt gewoonlijk bij aan een houtige smaak, en mogelijk een onderscheidend variëteitskarakter. Nieuw hout kan een ruwe, vers-gesneden houtindruk toevoegen. Geroosterd of verkoolde hout kan vanille, karamel, boterschotch, geroosterd brood, geroosterde noten, koffie, chocolade of cacao toevoegen, afhankelijk van de houtvariëteit en het niveau van roostering of verkoling. Van hout afgeleide smaken moeten gebalanceerd, ondersteunend en merkbaar zijn, zonder de basis bierstijl te overheersen.",
+  "mouthfeel": "Varieert met basisstijl. Tannines uit het hout kunnen de perceptie van body verhogen, evenals de droogheid van de afdronk versterken; enige samentrekking door houttannines is acceptabel. Zure of zuurachtige karakteristieken moeten laag tot afwezig zijn, en nooit afleidend.",
+  "comments": "Veel van het karakter hangt af van het type hout dat gebruikt wordt, en hoe goed het de basisstijl aanvult en versterkt. Rijpingskarakter is acceptabel, maar overmatige oxidatie of zuurheid is een fout. Merkbare alcohol is geen fout in sterkere basisstijlen. Deze categorie mag niet gebruikt worden voor basisstijlen waar houtrijping een fundamentele vereiste is voor de stijl (bijv. Flanders Red, Lambic). Bieren gemaakt met beperkte houtrijping of producten die alleen een subtiel achtergrondkarakter bieden, mogen ingediend worden in de basis bierstijl categorieën zolang het houtkarakter niet prominent aanwezig is.",
+  "history": "Een traditionele productiemethode die zelden gebruikt wordt door grote brouwerijen, en gewoonlijk alleen bij specialiteitsproducten. Populairder bij moderne ambachtelijke brouwerijen die op zoek zijn naar nieuwe, onderscheidende producten. Eiken vaten en tonnen zijn traditioneel, hoewel andere houtsoorten populairder worden.",
+  "characteristicIngredients": "Varieert met basisstijl. Gerijpt in houten vaten of tonnen, of gebruik makend van hout-gebaseerde toevoegingen (bijv. chips, duigen, spiralen, blokjes). Volmondigere, hogere dichtheid basisstijlen worden vaak gebruikt omdat zij het beste bestand zijn tegen de aanvullende smaken, hoewel experimenteren wordt aangemoedigd.",
+  "entryInstructions": "De inzender moet het type hout specificeren dat gebruikt is en het rooster- of verkoolingsniveau (indien gebruikt). Als een ongewoon variëteitshout gebruikt wordt, moet de inzender een korte beschrijving geven van de zintuiglijke aspecten die het hout aan het bier toevoegt. Inzender moet een beschrijving van het bier specificeren, waarbij ofwel een Basisstijl wordt geïdentificeerd of de ingrediënten, specificaties of doelkarakter van het bier. Een algemene beschrijving van de speciale aard van het bier kan alle vereiste items dekken.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "Bush Prestige",
+    "Cigar City Spanish Cedar Jai Alai",
+    "Firestone Walker Double Barrel Ale",
+    "Midnight Sun Arctic Devil",
+    "Petrus Aged Pale",
+    "Samuel Smith Yorkshire Stingo"
+  ],
+  "tags": [
+    "specialty-beer",
+    "wood"
+  ]
+}

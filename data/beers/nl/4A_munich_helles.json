@@ -1,0 +1,55 @@
+{
+  "category": "4",
+  "subcategory": "A",
+  "name": "Munich Helles",
+  "overallImpression": "Een goudkleurig Duits lager met een gladde, moutige smaak en een zachte, droge afdronk. Subtiele kruidige, bloemige of kruidige hop en ingehouden bitterheid helpen de balans moutig maar niet zoet te houden, wat dit bier tot een verfrissend, alledaags drankje maakt.",
+  "aroma": "Matig graanzoet moutaroma. Laag tot matig laag kruidig, bloemig of kruidig hoparoma. Aangenaam, schoon fermentatieprofiel, met mout die de balans domineert. De verste voorbeelden zullen meer van een moutig-zoet aroma hebben.",
+  "appearance": "Bleekgeel tot bleek goud. Helder. Aanhoudend romig wit schuim.",
+  "flavor": "Matig moutige start met de suggestie van zoetheid, matige graanzoete moutsmaak met een zachte, ronde smaakimpressie, ondersteund door een lage tot matig lage bitterheid. Zachte en droge afdronk, niet fris en bijtend. Lage tot matig lage kruidige, bloemige of kruidige hopsmaak. Mout domineert hop in het gehemelte, afdronk en nasmaak, maar hop moet merkbaar zijn. Geen resterende zoetheid, simpelweg de indruk van moutigheid met ingehouden bitterheid. Schoon fermentatieprofiel.",
+  "mouthfeel": "Matige body. Matig koolzuur. Glad, goed gelagereerd karakter.",
+  "comments": "Zeer verse voorbeelden kunnen een meer prominent mout- en hopkarakter hebben dat na verloop van tijd vervagt, zoals vaak opgemerkt bij geëxporteerde bieren. Helles in München is meestal een lichtere versie dan die buiten de stad. Kan Helles Lagerbier worden genoemd.",
+  "history": "Gecreëerd in München in 1894 om te concurreren met bleek Pilsner-type bieren, vaak voor het eerst toegeschreven aan Spaten. Populairder in Zuid-Duitsland.",
+  "characteristicIngredients": "Continentaal Pilsner mout. Traditionele Duitse hop. Schone Duitse lagergist.",
+  "styleComparison": "Vergelijkbaar in moutbalans en bitterheid met Munich Dunkel, maar minder moutig-zoet van aard en bleek in plaats van donker en rijk. Meer body en moutaanwezigheid dan een German Pils, maar minder fris en met minder hopkarakter door en door. Vergelijkbaar moutprofiel als een German Helles Exportbier, maar met minder hop in de balans en iets minder alcohol. Minder body en alcohol dan een Festbier.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.048
+    },
+    "fg": {
+      "min": 1.006,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 16,
+      "max": 22
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 5.0
+    },
+    "abv": {
+      "min": 4.7,
+      "max": 5.4
+    }
+  },
+  "commercialExamples": [
+    "Augustiner Lagerbier Hell",
+    "HackerPschorr Münchner Gold",
+    "Löwenbraü Original",
+    "Paulaner Münchner Lager",
+    "Schönramer Hell",
+    "Spaten Münchner Hell",
+    "Weihenstephaner Original Helles"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-lager-family",
+    "malty"
+  ]
+}

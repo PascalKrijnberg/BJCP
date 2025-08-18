@@ -1,0 +1,98 @@
+{
+  "category": "15",
+  "subcategory": "A",
+  "name": "Irish Red Ale",
+  "overallImpression": "An easy-drinking pint, often with subtle flavors. Slightly malty in the balance sometimes with an initial soft toffee or caramel sweetness, a slightly grainybiscuity palate, and a touch of roasted dryness in the finish. Some versions can emphasize the caramel and sweetness more, while others will favor the grainy palate and roasted dryness.",
+  "aroma": "Low to moderate malt aroma, either neutral-grainy or with a lightly caramel, toast, or toffee character. Very light buttery character optional. Low earthy or floral hop aroma optional. Quite clean.",
+  "appearance": "Medium amber to medium reddish-copper color. Clear. Low off-white to tan colored head, average persistence.",
+  "flavor": "Moderate to very little caramel malt flavor and sweetness, rarely with a light buttered toast or toffee-like quality. The palate often is fairly neutral and grainy, or can take on a lightly toasty or biscuity note as it finishes with a light taste of roasted grain, which lends a characteristic dryness to the finish. A light earthy or floral hop flavor is optional. Medium to medium-low bitterness. Medium-dry to dry finish. Clean and smooth. Low esters optional. The balance tends to be slightly towards the malt, although light use of roasted grains may increase the perception of bitterness slightly.",
+  "mouthfeel": "Medium-light to medium body, although examples containing low levels of diacetyl may have a slightly slick mouthfeel (not required). Moderate carbonation. Smooth.",
+  "comments": "The style is fairly broad to allow for examples beyond the traditional ones from Ireland. Irish examples tend to be lower alcohol, grainier, and drier in the finish, while nonIrish versions are often higher in alcohol, sweeter, perhaps more caramelly and estery, and are often seasonal offerings.",
+  "history": "While Ireland has a long ale brewing heritage, the modern Irish Red Ale style is essentially an adaptation or interpretation of the popular English Bitter style with less hopping and a bit of roast to add color and dryness, although some suggest a longer history. Rediscovered as a craft beer style in Ireland, today it is an essential part of most brewery lineups, along with a pale ale and a stout.",
+  "characteristicIngredients": "Generally has a bit of roasted barley or black malt to provide reddish color and dry roasted finish. Pale base malt. Caramel malts were historically imported and more expensive, so not all brewers would use them.",
+  "styleComparison": "A less-bitter and hoppy Irish equivalent to an English Bitter, with a dryish finish due to roasted barley. More attenuated with less caramel flavor and body than equivalent-strength Scottish Ales.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.036,
+      "max": 1.046
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 18,
+      "max": 28
+    },
+    "srm": {
+      "min": 9.0,
+      "max": 14.0
+    },
+    "abv": {
+      "min": 3.8,
+      "max": 5.0
+    }
+  },
+  "commercialExamples": [
+    "Franciscan Well Rebel Red",
+    "Kilkenny Irish Beer",
+    "Murphy’s Irish Red",
+    "O’Hara’s Irish Red Ale",
+    "Porterhouse Nitro Red Ale",
+    "Smithwick’s Irish Ale"
+  ],
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "top-fermented",
+    "britishisles",
+    "traditional-style",
+    "amber-ale-family",
+    "balanced Overall Impression: A black beer with a pronounced roasted flavor",
+    "often similar to coffee. The balance can range from fairly even to quite bitter",
+    "with the more balanced versions having a little malty sweetness and the bitter versions being quite dry. Draught versions typically are creamy from a nitro pour",
+    "but bottled versions will not have this dispensederived character. The roasted flavor can range from dry and coffee-like to somewhat chocolaty. Aroma: Moderate coffee-like aroma typically dominates; may have slight dark chocolate",
+    "cocoa",
+    "or roasted grain secondary notes. Medium-low esters optional. Low earthy or floral hop aroma optional. Appearance: Jet black to deep brown with garnet highlights in color. According to Guinness",
+    "“Guinness beer may appear black",
+    "but it is actually a very dark shade of ruby.” Opaque. A thick",
+    "creamy",
+    "long-lasting",
+    "tan- to brown-colored head is characteristic when served on nitro",
+    "but don’t expect a tight",
+    "creamy head on a bottled beer. Flavor: Moderate roasted grain or malt flavor with a medium to high bitterness. The finish can be dry and coffee-like to moderately balanced with a touch of caramel or malty sweetness. Typically has coffee-like flavors",
+    "but also may have a bittersweet or unsweetened chocolate character in the palate",
+    "lasting into the finish. Balancing factors may include some creaminess",
+    "medium-low fruitiness",
+    "or medium earthy hop flavor. The level of bitterness is somewhat variable",
+    "as is the roasted character and the dryness of the finish; allow for interpretation by brewers. Mouthfeel: Medium-light to medium-full body",
+    "with a somewhat creamy character – especially when served by nitro pour. Low to moderate carbonation. For the high hop bitterness and significant proportion of dark grains present",
+    "this beer is remarkably smooth. May have a light astringency from the roasted grains",
+    "although harshness is undesirable. Comments: Traditionally a draught product. Modern examples are almost always associated with a nitro pour. Do not expect bottled beers to have the full",
+    "creamy texture or very long-lasting head associated with mixed-gas dispense. Regional differences exist in Ireland",
+    "similar to variability in English Bitters. Dublin-type stouts use roasted barley",
+    "are more bitter",
+    "and are drier. Cork-type stouts are sweeter",
+    "less bitter",
+    "and have flavors from chocolate and specialty malts. History: The style evolved from London porters",
+    "but reflecting a fuller",
+    "creamier",
+    "more “stout” body and strength. Guinness began brewing only porter in 1799",
+    "and a “stouter kind of porter” around 1810. Irish stout diverged from London single stout (or simply porter) in the late 1800s",
+    "with an emphasis on darker malts and roast barley. Guinness began using flaked barley after WWII",
+    "and Guinness Draught was launched as a brand in 1959. Draught (“widget”) cans and bottles were developed in the late 1980s and 1990s. Characteristic Ingredients: Dark roasted malts or grains",
+    "enough to make the beer black in color. Pale malt. May use unmalted grains for body. Style Comparison: Lower strength than an Irish Extra Stout. Darker in color (black) than an English Porter (brown). BJCP Beer Style Guidelines – 2021 Edition 27 Vital Statistics: OG: 1.036 – 1.044 IBUs: 25 – 45 FG: 1.007 – 1.011 SRM: 25 – 40 ABV: 3.8 – 5.0% Commercial Examples: Beamish Irish Stout",
+    "Belhaven Black Stout",
+    "Guinness Draught",
+    "Murphy's Irish Stout",
+    "O’Hara’s Irish Stout",
+    "Porterhouse Irish Stout Tags: standard-strength",
+    "dark-color",
+    "top-fermented",
+    "britishisles",
+    "traditional-style",
+    "stout-family",
+    "bitter",
+    "roasty"
+  ]
+}

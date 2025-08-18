@@ -1,0 +1,53 @@
+{
+  "category": "2",
+  "subcategory": "C",
+  "name": "International Dark Lager",
+  "overallImpression": "A darker, richer, and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance.",
+  "aroma": "Faint malt aroma. Medium-low roast and caramel malt aroma optional. Light spicy, herbal, or floral hop aroma optional. Clean fermentation profile.",
+  "appearance": "Deep amber to very dark brown with bright clarity and ruby highlights. Foam stand may not be long lasting, and is beige to light tan in color.",
+  "flavor": "Low to medium sweet maltiness. Medium-low caramel or roasted malt flavors optional, possibly with hints of coffee, molasses, brown sugar, or cocoa. Low floral, spicy, or herbal hop flavor optional. Low to medium bitterness. May have a very light fruitiness. Moderately crisp finish. The balance is typically somewhat malty. Burnt or moderately strong roasted malt flavors are inappropriate.",
+  "mouthfeel": "Light to medium-light body. Smooth with a light creaminess. Medium to high carbonation.",
+  "comments": "A broad range of international lagers that are darker than pale, and not assertively bitter or roasted.",
+  "history": "Darker versions of International Pale Lagers often created by the same large, industrial breweries and meant to appeal to a broad audience. Often either a colored or sweetened adaptation of the standard pale industrial lager, or a more broadly accessible (and inexpensive) version of more traditional dark lagers.",
+  "characteristicIngredients": "Two- or six-row barley with corn, rice, or sugars adjuncts. Light use of caramel and darker roasted malts. Commercial versions may use coloring agents.",
+  "styleComparison": "Less flavor and richness than Munich Dunkel, Schwarzbier, or other dark lagers. Frequently uses adjuncts, as is typical of other International Lagers.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.056
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 8,
+      "max": 20
+    },
+    "srm": {
+      "min": 14.0,
+      "max": 30.0
+    },
+    "abv": {
+      "min": 4.2,
+      "max": 6.0
+    }
+  },
+  "commercialExamples": [
+    "Baltika #4 Original",
+    "Dixie Blackened Voodoo",
+    "Heineken Dark Lager",
+    "Saint Pauli Girl Special Dark",
+    "San Miguel Dark",
+    "Shiner Bock"
+  ],
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "dark-lager-family",
+    "malty"
+  ]
+}

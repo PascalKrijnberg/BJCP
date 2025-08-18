@@ -1,0 +1,240 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bjcp.org/schemas/beer.json",
+  "title": "BJCP Beer Style",
+  "description": "JSON Schema for BJCP Beer Style Guidelines based on 2021 edition",
+  "type": "object",
+  "required": [
+    "category",
+    "subcategory", 
+    "name",
+    "overallImpression",
+    "aroma",
+    "appearance",
+    "flavor",
+    "mouthfeel",
+    "vitalStatistics",
+    "tags"
+  ],
+  "properties": {
+    "category": {
+      "type": "string",
+      "description": "BJCP category number (e.g., '1', '21')",
+      "pattern": "^[0-9]+$"
+    },
+    "subcategory": {
+      "type": "string", 
+      "description": "BJCP subcategory letter (e.g., 'A', 'B', 'C')",
+      "pattern": "^[A-Z]$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Official BJCP style name (e.g., 'American Light Lager', 'German Pils')",
+      "minLength": 1
+    },
+    "overallImpression": {
+      "type": "string",
+      "description": "Describes the essence of the style that distinguishes it from other styles",
+      "minLength": 1
+    },
+    "aroma": {
+      "type": "string", 
+      "description": "Description of the beer's aroma characteristics",
+      "minLength": 1
+    },
+    "appearance": {
+      "type": "string",
+      "description": "Description of the beer's visual characteristics including color, clarity, and head",
+      "minLength": 1
+    },
+    "flavor": {
+      "type": "string",
+      "description": "Description of the beer's taste characteristics",
+      "minLength": 1
+    },
+    "mouthfeel": {
+      "type": "string",
+      "description": "Description of the beer's tactile sensations including body, carbonation, and finish",
+      "minLength": 1
+    },
+    "comments": {
+      "type": "string",
+      "description": "Additional comments about the style"
+    },
+    "history": {
+      "type": "string",
+      "description": "Historical background of the beer style"
+    },
+    "characteristicIngredients": {
+      "type": "string",
+      "description": "Typical ingredients used in this beer style"
+    },
+    "styleComparison": {
+      "type": "string",
+      "description": "How this style compares to other similar styles"
+    },
+    "vitalStatistics": {
+      "type": "object",
+      "description": "Numerical specifications for the beer style",
+      "required": ["og", "fg", "abv", "ibu", "srm"],
+      "properties": {
+        "og": {
+          "type": "object",
+          "description": "Original Gravity range",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "number",
+              "minimum": 1.000,
+              "maximum": 1.200
+            },
+            "max": {
+              "type": "number",
+              "minimum": 1.000,
+              "maximum": 1.200
+            }
+          }
+        },
+        "fg": {
+          "type": "object", 
+          "description": "Final Gravity range",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "number",
+              "minimum": 0.990,
+              "maximum": 1.050
+            },
+            "max": {
+              "type": "number",
+              "minimum": 0.990,
+              "maximum": 1.050
+            }
+          }
+        },
+        "abv": {
+          "type": "object",
+          "description": "Alcohol by Volume percentage range",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "number",
+              "minimum": 0.0,
+              "maximum": 20.0
+            },
+            "max": {
+              "type": "number",
+              "minimum": 0.0,
+              "maximum": 20.0
+            }
+          }
+        },
+        "ibu": {
+          "type": "object",
+          "description": "International Bitterness Units range",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 150
+            },
+            "max": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 150
+            }
+          }
+        },
+        "srm": {
+          "type": "object",
+          "description": "Standard Reference Method color range",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "number",
+              "minimum": 1.0,
+              "maximum": 50.0
+            },
+            "max": {
+              "type": "number",
+              "minimum": 1.0,
+              "maximum": 50.0
+            }
+          }
+        }
+      }
+    },
+    "commercialExamples": {
+      "type": "array",
+      "description": "List of commercial beer examples of this style",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "BJCP style tags for categorization",
+      "items": {
+        "type": "string",
+        "enum": [
+          "session-strength",
+          "standard-strength", 
+          "high-strength",
+          "very-high-strength",
+          "pale-color",
+          "amber-color",
+          "dark-color",
+          "top-fermented",
+          "bottom-fermented",
+          "any-fermentation",
+          "lagered",
+          "aged",
+          "north-america",
+          "central-europe",
+          "british-isles",
+          "western-europe",
+          "eastern-europe",
+          "pacific",
+          "traditional-style",
+          "craft-style",
+          "historical-style",
+          "pale-lager-family",
+          "amber-lager-family",
+          "dark-lager-family",
+          "pilsner-family",
+          "bock-family",
+          "pale-ale-family",
+          "amber-ale-family",
+          "brown-ale-family",
+          "ipa-family",
+          "strong-ale-family",
+          "porter-family",
+          "stout-family",
+          "wheat-beer-family",
+          "wild-specialty",
+          "sour",
+          "wood",
+          "fruit",
+          "spice",
+          "smoke",
+          "specialty-beer",
+          "malty",
+          "bitter",
+          "balanced",
+          "hoppy",
+          "roasty",
+          "sweet",
+          "sour"
+        ]
+      },
+      "minItems": 1
+    },
+    "entryInstructions": {
+      "type": "string",
+      "description": "Instructions for entering this style in competitions"
+    }
+  },
+  "additionalProperties": false
+}

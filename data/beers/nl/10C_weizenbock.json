@@ -1,0 +1,57 @@
+{
+  "category": "10",
+  "subcategory": "C",
+  "name": "Weizenbock",
+  "overallImpression": "Een sterk en moutig Duits tarwebier dat de beste tarwe- en gistsmaken van een Weissbier combineert met de rijke moutigheid, kracht en body van een Bock. Het stijlbereik omvat Bock- en Doppelbock-sterkte, met variaties voor lichte en donkere kleuren.",
+  "aroma": "Middelmatig hoge tot hoge moutige rijkdom met een significant broodachtig, graanachtig tarwekarakter. Middelmatig laag tot middelmatig hoog weizen gistkarakter, typisch banaan en kruidnagel. Vanille-accenten optioneel. Geen hop. Laag tot matig alcohol, niet heet of oplosmiddelachtig. De mout, gist en alcohol zijn goed uitgebalanceerd, complex en uitnodigend. Kauwgom (aardbei met banaan), zuurheid of rook zijn gebreken. Donkere versies hebben een diepere, sterk geroosterde, broodachtige moutrijkdom met significante Maillard-producten, vergelijkbaar met een Dunkles Bock of donkere Doppelbock. Ze kunnen ook karamel en donkere fruitesters hebben, zoals pruimen, gedroogde pruimen, donkere druiven, fruitleer en rozijnen, vooral naarmate ze rijpen. Lichte versies hebben een graanachtig-zoete, broodachtige, geroosterde moutige rijkdom, vergelijkbaar met een Helles Bock of lichte Doppelbock.",
+  "appearance": "Zeer dikke, schuimige, langdurige schuimkraag. Kan troebel zijn en een glans hebben van tarwe en gist, hoewel dit kan bezinken met de tijd. Donkere versies zijn donker amber tot donker robijnbruin van kleur, met een licht gebruinde schuimkraag. Lichte versies zijn goud tot amber van kleur, met een zeer witte tot gebroken witte schuimkraag.",
+  "flavor": "Middelmatig hoge tot hoge moutige rijkdom met significante broodachtige, graanachtige tarwesmaak. Laag tot matig banaan- en kruidenkarakter (kruidnagel, vanille) van de gist. Geen hopsmaak. Lage tot middelmatig lage bitterheid kan een licht zoete monduitdrukking geven, maar het bier eindigt typisch droog. Lichte alcohol kan dit karakter versterken. Het samenspel tussen mout, gist en alcohol voegt complexiteit en interesse toe, wat vaak wordt versterkt met rijping. Kauwgom, zuurheid of rook zijn gebreken. Donkere versies hebben diepere, rijke broodachtige of geroosterde moutsmaken met significante Maillard-producten, optioneel met karamel of lichte chocolade maar geen roost. Kunnen enkele donkere fruitesters hebben zoals pruimen, gedroogde pruimen, donkere druiven, fruitleer of rozijnen, vooral naarmate ze rijpen. Lichte versies hebben een broodachtige, geroosterde, graanachtig-zoete moutrijkdom.",
+  "mouthfeel": "Middelmatig vol tot volle body. Zachte, gladde, pluizige of romige textuur. Milde alcoholwarmte. Matig tot hoog koolzuur.",
+  "comments": "Een Weissbier gebrouwen tot bock- of doppelbock-sterkte, hoewel Schneider ook een Eisbock-versie produceert. Lichte en donkere versies bestaan, maar donker is het meest gebruikelijk. Licht geoxideerde Maillard-producten kunnen enkele rijke, intense smaken en aroma's produceren die vaak gezien worden in gerijpte geïmporteerde commerciële producten; versere versies zullen dit karakter niet hebben. Goed gerijpte voorbeelden kunnen ook een lichte sherry-achtige complexiteit ontwikkelen. Lichte versies, zoals hun doppelbock-neven, hebben minder rijke moutcomplexiteit en vaak meer hop-vooruit karakter. Echter, versies met significante late hop of die dry-gehopped zijn, moeten worden ingeschreven in 34B Mixed-Style Beer.",
+  "history": "Doppelbock-sterkte Aventinus werd gecreëerd in 1907 bij de Schneider Weisse Brauhaus in München. Lichte versies zijn een veel recentere uitvinding.",
+  "characteristicIngredients": "Gemout tarwe, ten minste de helft van het beslag. Munich-, Vienna- of Pilsner-mout. Kleurmout kan spaarzaam gebruikt worden. Decoctiebeslag traditioneel. Weizen-gist, koele fermentatietemperaturen.",
+  "styleComparison": "Sterker en rijker dan een Weissbier of Dunkles Weissbier, maar met vergelijkbaar gistkarakter. Meer direct vergelijkbaar met de Doppelbock-stijl, met de lichte en donkere variaties. Kan sterk variëren in sterkte, maar de meeste vallen in het Bock- tot Doppelbock-bereik.",
+  "entryInstructions": "De deelnemer zal specificeren of de inzending een lichte (SRM 6-9) of een donkere (SRM 10-25) versie is.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.064,
+      "max": 1.09
+    },
+    "fg": {
+      "min": 1.015,
+      "max": 1.022
+    },
+    "ibu": {
+      "min": 15,
+      "max": 30
+    },
+    "srm": {
+      "min": 6.0,
+      "max": 25.0
+    },
+    "abv": {
+      "min": 6.5,
+      "max": 9.0
+    }
+  },
+  "commercialExamples": [
+    "Dark – Plank Bavarian Dunkler Weizenbock",
+    "Penn Weizenbock",
+    "Schalchner Weisser Bock",
+    "Schneider Weisse Aventinus",
+    "Pale –Ayinger Weizenbock",
+    "Distelhäuser Weizen Bock",
+    "Ladenburger Weizenbock Hell",
+    "Weihenstephaner Vitus"
+  ],
+  "tags": [
+    "high-strength",
+    "amber-color",
+    "pale-color",
+    "top-fermented",
+    "central-europe",
+    "traditional-style",
+    "wheat-beer-family",
+    "malty BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

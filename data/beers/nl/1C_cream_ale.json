@@ -1,0 +1,53 @@
+{
+  "category": "1",
+  "subcategory": "C",
+  "name": "Cream Ale",
+  "overallImpression": "Een schoon, goed uitgegist, sterk koolzuurhoudend, smaakvol Amerikaans \"grasmaaier\" bier. Gemakkelijk drinkbaar, glad en verfrissend, met meer karakter dan typische Amerikaanse lagers, maar nog steeds subtiel en ingetogen.",
+  "aroma": "Middelmatig-lage tot lage moutnoten, met een zoet, maïsachtig aroma. Lage DMS optioneel. Middelmatig-laag hoparoma optioneel, met elke variëteit maar bloemige, kruidige of kruidige noten komen het meest voor. Over het algemeen een subtiel, gebalanceerd aroma. Lage fruitige esters optioneel.",
+  "appearance": "Licht strogeel tot lichtgouden kleur, hoewel meestal aan de lichte kant. Lage tot middelmatige schuimkraag met middelmatige tot hoge koolzuur. Redelijke schuimretentie. Briljante, sprankelende helderheid. Bruisend.",
+  "flavor": "Lage tot middelmatig-lage hopbitterheid. Lage tot gematigde moutzoetheid, variërend met soortelijk gewicht en vergisting. De mout is over het algemeen neutraal, mogelijk graanachtig of krakend. Meestal goed uitgegist. Gebalanceerd gehemelte, met hop alleen genoeg om de mout te ondersteunen. Een lage tot gematigde maïssmaak wordt vaak aangetroffen, maar lichte DMS is optioneel. Afdronk kan variëren van enigszins licht, droog en fris tot vaag zoet. Schoon gistingsprofiel, maar lage fruitige esters zijn optioneel. Lage tot middelmatig-lage hopsmaak van elke variëteit, maar typisch bloemig, kruidig of kruiden. Subtiel.",
+  "mouthfeel": "Over het algemeen licht en fris, hoewel de body middelmatig kan bereiken. Glad mondgevoel met middelmatige tot hoge vergisting; hogere vergisingsniveaus kunnen een \"dorstlessende\" kwaliteit verlenen. Hoge koolzuur.",
+  "comments": "De meeste commerciële voorbeelden liggen in het 1.050–1.053 OG bereik, en bitterheid stijgt zelden boven 20 IBU's.",
+  "history": "Een sprankelende of tegenwoordige ale uit de tweede helft van de 1800s die de drooglegging overleefde. Een ale gebrouwen om te concurreren met lagers gebrouwen in Canada en de Amerikaanse Noordoost, Mid-Atlantic en Midwest staten.",
+  "characteristicIngredients": "Amerikaanse zesrijige mout, of een combinatie van zesrijige en Noord-Amerikaanse tweerijige. Tot 20% maïs in de maisch, en tot 20% suiker in de kook. Elke variëteit hop, vaak rustieke Amerikaanse of Continentale. Schone alegist, of een mix van ale en lager bier.",
+  "styleComparison": "Vergelijkbaar met een Standard American Lager, maar met meer karakter. Lichtere body, gladder en meer koolzuurhoudend dan een Blonde Ale. Kan lijken op een enigszins subtiele Kölsch.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.042,
+      "max": 1.055
+    },
+    "fg": {
+      "min": 1.006,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 8,
+      "max": 20
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 5.0
+    },
+    "abv": {
+      "min": 4.2,
+      "max": 5.6
+    }
+  },
+  "commercialExamples": [
+    "Genesee Cream Ale",
+    "Liebotschaner Cream Ale",
+    "Kiwanda Pre-Prohibition Cream Ale",
+    "Little Kings Cream Ale",
+    "Sleeman Cream Ale",
+    "Sun King Sunlight Cream Ale"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "any-fermentation",
+    "north-america",
+    "traditional-style",
+    "pale-ale-family",
+    "balanced"
+  ]
+}

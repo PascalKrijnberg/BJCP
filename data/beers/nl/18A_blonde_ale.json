@@ -1,0 +1,53 @@
+{
+  "category": "18",
+  "subcategory": "A",
+  "name": "Blonde Ale",
+  "overallImpression": "Gemakkelijk drinkbaar, toegankelijk, moutgeoriënteerd Amerikaans craft bier, vaak met interessante fruit-, hop- of karaktermoutnoten. Goed gebalanceerd en schoon, is een verfrissend pintje zonder agressieve smaken.",
+  "aroma": "Licht tot matig moutig aroma, over het algemeen neutraal of graanachtig, mogelijk met een lichte brood- of karamelnoot. Laag tot matig fruitigheid is optioneel, maar acceptabel. Kan een laag tot matig hoparoma hebben, en kan bijna elke hopvariëteit weerspiegelen hoewel citrus-, bloemige, fruitige en kruidige noten gebruikelijk zijn. Schoon gistingsprofiel.",
+  "appearance": "Lichtgeel tot diepgoud van kleur. Helder tot briljant. Laag tot matig wit schuim met redelijke tot goede retentie.",
+  "flavor": "Aanvankelijke zachte moutigheid, maar kan ook lichte karaktermoutsmaak hebben (bijv. brood, toast, biscuit, tarwe). Karamelsmaken gewoonlijk afwezig; indien aanwezig, zijn dit typisch lichtgekleurde karamel- of honingnoten. Laag tot matig fruitige esters optioneel, maar zijn welkom. Lichte tot matige hopsmaak (elke variëteit), maar zou niet overdreven agressief moeten zijn. Matig-lage tot matige bitterheid, maar de balans is normaal richting de mout of zelfs tussen mout en hop. Eindigt matig-droog tot licht moutig; een indruk van zoetheid is vaak een uiting van lagere bitterheid dan werkelijke restzoetheid. Schoon gistingsprofiel.",
+  "mouthfeel": "Matig-licht tot matig lichaam. Matig tot hoog koolzuur. Glad zonder zwaar te zijn.",
+  "comments": "Geoxideerde versies kunnen karamel- of honingnoten ontwikkelen, die niet moeten worden aangezien voor vergelijkbare moutafgeleide smaken. Soms bekend als Golden Ale of simpelweg een Gold.",
+  "history": "Een Amerikaanse craft bierstijl geproduceerd als een sneller geproduceerd alternatief voor standaard Amerikaanse lagers. Voor het eerst geproduceerd in 1987 bij Catamount. Vaak gepositioneerd als instapniveau house ale.",
+  "characteristicIngredients": "Over het algemeen volledig mout, maar kan tarwemout of suikertoevoegingen bevatten. Elke hopvariëteit kan worden gebruikt. Schone Amerikaanse, licht fruitige Engelse, of Kölsch gist. Kan ook worden gemaakt met lagergist, of koudgeconditioneerd.",
+  "styleComparison": "Heeft typisch meer smaak dan American Lager en Cream Ale. Minder bitterheid dan een American Pale Ale. Misschien vergelijkbaar met enkele moutigere voorbeelden van Kölsch.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.038,
+      "max": 1.054
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.013
+    },
+    "ibu": {
+      "min": 15,
+      "max": 28
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 3.8,
+      "max": 5.5
+    }
+  },
+  "commercialExamples": [
+    "Firestone Walker 805",
+    "Kona Big Wave Golden Ale",
+    "Real Ale Firemans #4 Blonde Ale",
+    "Russian River Aud Blonde",
+    "Victory Summer Love",
+    "Widmer Citra Summer Blonde Brew"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "any-fermentation",
+    "northamerica",
+    "craft-style",
+    "pale-ale-family",
+    "balanced"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "category": "18",
+  "subcategory": "B",
+  "name": "American Pale Ale",
+  "overallImpression": "Een gemiddeld sterke, hop-voorwaartse, lichte Amerikaanse craft beer met voldoende ondersteunende mout om het bier gebalanceerd en drinkbaar te maken. De heldere hop-aanwezigheid kan klassieke of moderne Amerikaanse of New World hop variëteiten weerspiegelen met een breed scala aan karakteristieken.",
+  "aroma": "Gematigd tot matig-hoog hop aroma van Amerikaanse of New World hop variëteiten met een breed scala aan mogelijke karakteristieken, waaronder citrus, bloemig, dennen, hars, kruidig, tropisch fruit, steenfruit, bes, of meloen. Geen van deze specifieke karakteristieken zijn vereist, maar een hoppig aroma moet duidelijk zijn. Laag tot gematigd neutraal tot graanachtig moutkarakter ondersteunt de hop-presentatie, en kan lage hoeveelheden speciaal mout karakter tonen (bijv. brood, toast, biscuit, karamel). Fruitige esters optioneel, tot gematigd in sterkte. Fris dryhop aroma optioneel.",
+  "appearance": "Licht goudkleurig tot amber. Matig grote witte tot gebroken witte schuimkraag met goede retentie. Over het algemeen vrij helder.",
+  "flavor": "Hop en mout karakter vergelijkbaar met aroma (dezelfde intensiteiten en beschrijvingen zijn van toepassing). Karamelsmaak is vaak afwezig of vrij ingetogen, maar is acceptabel zolang ze niet botsen met de hop. Gematigde tot hoge bitterheid. Schoon fermentatieprofiel. Fruitige gist esters kunnen gematigd tot afwezig zijn, hoewel veel hop variëteiten behoorlijk fruitig zijn. Gemiddelde tot droge afdronk. De balans is typisch naar de late hop en bitterheid; de mout aanwezigheid moet ondersteunend zijn, niet afleidend. Hopsmaak en bitterheid hangen vaak door in de afdronk, maar de nasmaak moet over het algemeen schoon en niet scherp zijn. Frisse dry-hop smaak optioneel.",
+  "mouthfeel": "Gemiddeld-licht tot gemiddeld lichaam. Gematigd tot hoog koolzuur. Algemeen gladde afdronk zonder samentrekkendheid of scherpheid.",
+  "comments": "Moderne Amerikaanse versies zijn vaak gewoon lagere zwaartekracht IPA's. Traditioneel was dit een stijl die experimentatie met hop variëteiten en gebruiksmethoden toestond, wat nu vaak te vinden is als internationale aanpassingen in landen met een opkomende craft beer markt. Juryleden moeten rekening houden met karakteristieken van moderne Amerikaanse of New World hop zoals ze worden ontwikkeld en uitgebracht.",
+  "history": "Een moderne Amerikaanse craft beer tijdperk aanpassing van Engels pale ale, dat inheemse ingrediënten weergeeft. Sierra Nevada Pale Ale werd voor het eerst gemaakt in 1980 en hielp de stijl populair te maken. Voorafgaand aan de explosie in populariteit van IPA's, was deze stijl de meest bekende en populaire van Amerikaanse craft bieren. BJCP Beer Style Guidelines – 2021 Edition 33 Karakteristieke Ingrediënten: Neutrale lichte mout. Amerikaanse of New World hop. Neutrale tot licht fruitige Amerikaanse of Engelse ale gist. Kleine hoeveelheden verschillende speciale mouten.",
+  "characteristicIngredients": "Neutrale lichte mout. Amerikaanse of New World hop. Neutrale tot licht fruitige Amerikaanse of Engelse ale gist. Kleine hoeveelheden verschillende speciale mouten.",
+  "styleComparison": "Typisch lichter van kleur, schoner in fermentatieprofiel, en met minder karamelsmaken dan Engelse tegenhangers. Er kan enige overlap in kleur zijn tussen American Pale Ale en American Amber Ale. De American Pale Ale zal over het algemeen schoner zijn, een minder karamelachtig moutprofiel hebben, minder lichaam, en vaak meer afwerkende hop. Minder bitterheid in de balans en alcoholsterkte dan een American IPA. Moutiger, meer gebalanceerd en drinkbaar, en minder intensief hop-gericht en bitter dan sessie-sterkte American IPA's (aka Session IPA's). Bitterder en hoppiger dan een Blonde Ale.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.045,
+      "max": 1.06
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.015
+    },
+    "ibu": {
+      "min": 30,
+      "max": 50
+    },
+    "srm": {
+      "min": 5.0,
+      "max": 10.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 6.2
+    }
+  },
+  "commercialExamples": [
+    "Deschutes Mirror Pond Pale Ale",
+    "Half Acre Daisy Cutter Pale Ale",
+    "Great Lakes Burning River",
+    "La Cumbre Acclimated APA",
+    "Sierra Nevada Pale Ale",
+    "Stone Pale Ale 2.0"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermented",
+    "northamerica",
+    "craft-style",
+    "pale-ale-family",
+    "bitter",
+    "hoppy"
+  ]
+}

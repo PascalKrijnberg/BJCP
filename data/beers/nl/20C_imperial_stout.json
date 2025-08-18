@@ -1,0 +1,64 @@
+{
+  "category": "20",
+  "subcategory": "C",
+  "name": "Imperial Stout",
+  "overallImpression": "Een intens gearomatiseerd, zeer sterk, zeer donker stout met een breed scala aan interpretaties. Geroosterd-verbrand mout met een diepte van donkere of gedroogde fruitsmaken, en een verwarmende, bitterzoete afdronk. Ondanks de intense smaken moeten de componenten samensmelten om een complex, harmonieus bier te creëren, geen chaos – soms alleen bereikt met veroudering.",
+  "aroma": "Rijk, diep, complex, en vaak behoorlijk intens, met een aangename mengeling van geroosterd, fruit, hop, en alcohol. Lichte tot matig sterke roasting kan een koffie-, bitterzoete of donkere chocolade-, cacao-, zwarte drop-, teer-, of licht verbrande graankwaliteit hebben, soms met een lichte karamelzoetheid of toasty moutkarakter. Laag tot matig sterke esters vaak waargenomen als donkere of gedroogde vruchten zoals pruimen, gedroogde pruimen, vijgen, zwarte bessen, of rozijnen. Zeer laag tot vrij agressieve hop, vaak Engels of Amerikaans van karakter. Alcoholsmaak optioneel, maar mag niet scherp, heet, of oplosmiddelachtig zijn. De balans tussen deze vier hoofdcomponenten kan sterk variëren; niet alle hoeven merkbaar te zijn, maar aanwezige componenten moeten een vloeiende wisselwerking hebben. Veroudering kan een andere dimensie toevoegen, inclusief een wijnachtige of portachtige indruk, maar geen zuurheid. Veroudering kan de aroma-intensiteit verminderen.",
+  "appearance": "Kleur varieert van zeer donker roodbruin tot gitzwart. Ondoorzichtig. Diep gebruind tot donkerbruin schuim. Heeft over het algemeen een goed gevormd schuim, hoewel schuimretentie laag tot matig kan zijn. Hoog alcohol en viscositeit kunnen zichtbaar zijn als tranen.",
+  "flavor": "Net als het aroma, een complexe mix van geroosterd, fruit, hop, en alcohol (dezelfde descriptoren zijn van toepassing). De smaken kunnen behoorlijk intens zijn, vaak sterker dan in het aroma, maar dezelfde waarschuwing over de sterk variërende balans geldt nog steeds. Matige tot agressief hoge bitterheid. Het moutkarakter balanceert en ondersteunt de andere smaken, en kan kwaliteiten van brood, toast, of karamel hebben. Het gehemelte en de afdronk kunnen vrij droog tot matig zoet zijn, een indruk die vaak verandert met veroudering. Mag niet stroperig of kleverig zijn. Nasmaak van geroosterd, bitterheid, en warmte. Dezelfde verouderingseffecten als in het aroma zijn van toepassing.",
+  "mouthfeel": "Vol tot zeer volmondig en kauwbaar, met een fluweelachtige, weelderige textuur. Het lichaam en de textuur kunnen afnemen met veroudering. Zachte, gladde warmte moet aanwezig en merkbaar zijn, maar als achtergrondkarakter. Laag tot matig koolzuur.",
+  "comments": "Soms bekend als Russian Imperial Stout of RIS. Er bestaan verschillende interpretaties waarbij Amerikaanse versies meer bitterheid hebben, en meer geroosterd karakter en late hop, terwijl Engelse variëteiten vaak een meer complexe specialty mout karakter reflecteren met een meer prominent esterprofiel. Niet alle Imperial Stouts hebben een duidelijk 'Engels' of 'Amerikaans' karakter; alles daartussenin is ook toegestaan, wat verklaart waarom het contraproductief is om strikte subtypes te definiëren. Juryleden moeten zich bewust zijn van het brede bereik van de stijl, en niet proberen alle voorbeelden te beoordelen als klonen van een specifiek commercieel bier.",
+  "history": "Een stijl met een lange, hoewel niet noodzakelijkerwijs continue, erfenis. Vindt zijn oorsprong in sterke Engelse porters gebrouwen voor export in de 1700s, en zou populair zijn geweest bij het Russische keizerlijke hof. Na de Napoleontische oorlogen de handel onderbrak, werden deze bieren steeds meer verkocht in Engeland. De stijl stierf uiteindelijk bijna uit, totdat hij populair werd omarmd in het moderne craft beer tijdperk in Engeland als een revival export en in de Verenigde Staten als een aanpassing door de stijl uit te breiden met Amerikaanse karakteristieken.",
+  "characteristicIngredients": "Pale mout met significante geroosterde mouten of graan. Gevlokte toevoegingen gebruikelijk. Amerikaanse of Engelse ale gist en hop zijn typisch. Veroudert zeer goed. Wordt steeds meer gebruikt als basis bier voor vele specialty stijlen.",
+  "styleComparison": "Donkerder en meer geroosterd dan Barleywines, maar met vergelijkbaar alcohol. Meer complex, met een breder scala aan mogelijke smaken, dan stouts met lager alcoholgehalte.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.075,
+      "max": 1.115
+    },
+    "fg": {
+      "min": 1.018,
+      "max": 1.03
+    },
+    "ibu": {
+      "min": 50,
+      "max": 90
+    },
+    "srm": {
+      "min": 30.0,
+      "max": 40.0
+    },
+    "abv": {
+      "min": 8.0,
+      "max": 12.0
+    }
+  },
+  "commercialExamples": [
+    "American – Bell's Expedition Stout",
+    "Great Divide Yeti Imperial Stout",
+    "North Coast Old Rasputin Imperial Stout",
+    "Oskar Blues Ten Fidy",
+    "Sierra Nevada Narwhal Imperial Stout",
+    "English – 2SP Brewing Co The Russian",
+    "Courage Imperial Russian Stout",
+    "Le Coq Imperial Extra Double Stout",
+    "Samuel Smith Imperial Stout",
+    "Thornbridge Saint Petersburg"
+  ],
+  "tags": [
+    "very-high-strength",
+    "dark-color",
+    "top-fermented",
+    "britishisles",
+    "north-america",
+    "traditional-style",
+    "craft-style",
+    "stout-family",
+    "malty",
+    "bitter",
+    "roasty BJCP Beer Style Guidelines – 2021 Edition 37 21. IPA De IPA categorie is voor moderne Amerikaanse IPAs en hun derivaten. Dit impliceert niet dat Engelse IPAs geen echte IPAs zijn of dat er geen relatie tussen hen bestaat. Dit is simpelweg een methode om vergelijkbare stijlen te groeperen voor competitiedoeleinden. Engelse IPAs zijn gegroepeerd met andere Engels-afgeleide bieren",
+    "en de sterkere Double IPA is gegroepeerd met sterkere Amerikaanse bieren. De term \"IPA\" wordt opzettelijk niet voluit gespeld als \"India Pale Ale\" omdat geen van deze bieren historisch naar India ging",
+    "en velen zijn niet pale. Echter",
+    "de term IPA is een balans-gedefinieerde stijl geworden in het moderne craft beer."
+  ]
+}

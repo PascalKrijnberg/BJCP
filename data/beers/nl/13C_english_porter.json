@@ -1,0 +1,54 @@
+{
+  "category": "13",
+  "subcategory": "C",
+  "name": "English Porter",
+  "overallImpression": "Een donkerbruine Engelse ale van gemiddelde sterkte met een ingehouden geroosterd, bitter karakter. Kan een scala aan geroosterde smaken hebben, over het algemeen zonder verbrande kwaliteiten, en heeft vaak een moutig chocolade- en karamelprofiel.",
+  "aroma": "Gematigd tot matig laag broodachtig, biscuitachtig en geroosterd moutaroma met milde roosterij, vaak als chocolade. Aanvullende moutcomplexiteit kan aanwezig zijn als karamel, noten, toffeezoet. Kan tot een gematigd niveau van bloemige of aardse hop hebben. Gematigde fruitige esters optioneel, maar wenselijk. Laag diacetyl optioneel.",
+  "appearance": "Bruin tot donkerbruin van kleur, vaak met robijnrode accenten. Goede helderheid, hoewel ondoorzichtig kan zijn. Gematigd gebroken wit tot lichtbruine schuimkraag met goede tot redelijke retentie.",
+  "flavor": "Gematigde broodachtige, biscuitachtige en geroosterde moutsmaak met een milde tot gematigde chocoladeroosterij, en vaak een significant karamel-, noten- of toffeekarakter, mogelijk met lagere niveaus van donkerdere smaken zoals koffie of drop. Mag niet verbrand of scherp geroosterd zijn, hoewel kleine hoeveelheden kunnen bijdragen aan een bittere chocoladecomplexiteit. Tot gematigde aardse of bloemige hopsmaak optioneel. Laag tot gematigde fruitige esters. Middenlaag tot gemiddelde bitterheid varieert de balans van licht moutig tot licht bitter, met een redelijk droge tot licht zoete afdronk. Matig lage diacetyl optioneel.",
+  "mouthfeel": "Middenlicht tot medium body. Matig laag tot matig hoog koolzuur. Lichte tot gematigde romige textuur.",
+  "comments": "Deze stijlbeschrijving beschrijft de moderne versie van English Porter, niet elke mogelijke variatie door de tijd heen in elke regio waar het bestond. Historische recreaties moeten worden ingeschreven in de 27 Historical Beer categorie, met een passende beschrijving van het profiel van het bier. Moderne craft voorbeelden in het VK zijn groter en hoppiger.",
+  "history": "Ontstaan in Londen in het begin van de 18e eeuw, evolueerde porter als een zwaarder gehopte en gerijpte (houdbare) versie van het Brown Beer dat populair was in die tijd. Het evolueerde vele malen gebaseerd op verschillende technologische en ingrediëntontwikkelingen (zoals de uitvinding van zwarte mout in 1817, en grootschalige industriële brouwerij), evenals consumentenvoorkeuren, oorlogen en belastingbeleid. Het werd een zeer populaire, breed geëxporteerde stijl in het begin van de 19e eeuw voordat het afnam tegen de jaren 1870 toen het veranderde in een lager soortelijk gewicht, niet-gerijpt bier. Terwijl soortelijke gewichten bleven dalen in alle VK bieren in de eerste helft van de 20e eeuw, stopten stijlen met gemaakt worden (inclusief porter, verdwenen tegen de jaren 1950). Het craft beer tijdperk leidde tot zijn herintroductie in 1978. De naam zou afgeleid zijn van zijn populariteit bij de Londense arbeidersklasse die verschillende laaddragende taken van die tijd uitvoerde. Oorsprong van verschillende regionale interpretaties door de tijd heen, en een voorloper van alle stouts (die oorspronkelijk 'stout porters' werden genoemd). Er is geen historische verbinding of relatie tussen Mild en Porter.",
+  "characteristicIngredients": "Gisten variëren, maar iets dat een donkere kleur produceert is altijd betrokken. Chocolade of andere geroosterde mouten, karamelmout, brouwsuikers en dergelijke zijn gebruikelijk. Londense porters gebruiken vaak bruine mout als karakteristieke smaak.",
+  "styleComparison": "Verschilt van American Porter doordat het meestal zachtere, zoetere en meer karamelachtige smaken heeft, lagere soortelijke gewichten, en meestal minder alcohol; American Porter heeft meestal ook meer hopkarakter. Meer substantie en roosterij dan een British Brown Ale. Hoger soortelijk gewicht dan een Dark Mild.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.04,
+      "max": 1.052
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 18,
+      "max": 35
+    },
+    "srm": {
+      "min": 20.0,
+      "max": 30.0
+    },
+    "abv": {
+      "min": 4.0,
+      "max": 5.4
+    }
+  },
+  "commercialExamples": [
+    "Bateman's Salem Porter",
+    "Burton Bridge Burton Porter",
+    "Fuller's London Porter",
+    "Nethergate Old Growler Porter",
+    "RCH Old Slug Porter",
+    "Samuel Smith Taddy Porter"
+  ],
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "top-fermented",
+    "britishisles",
+    "traditional-style",
+    "porter-family",
+    "malty",
+    "roasty BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

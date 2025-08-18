@@ -1,0 +1,58 @@
+{
+  "category": "25",
+  "subcategory": "B",
+  "name": "Saison",
+  "overallImpression": "A family of refreshing, highly attenuated, hoppy, and fairly bitter Belgian ales with a very dry finish and high carbonation. Characterized by a fruity, spicy, sometimes phenolic fermentation profile, and the use of cereal grains and sometimes spices for complexity. Several variations in strength and color exist.",
+  "aroma": "A pleasantly aromatic mix of fruity-spicy yeast and hops. The fruity esters are moderate to high, and often have a citrus fruit, pome fruit, or stone fruit character. Low to moderately-high spicy notes are often like black pepper, not clove. Hops are low to moderate and have a continental character (spicy, floral, earthy, or fruity). The malt is often overshadowed, but if detected is lightly grainy. Spices and herbs optional, but must not dominate. Sourness optional. Strong versions have more aromatic intensity, and can add a light alcohol and moderate malt character. Table versions have less intensity and not have an alcohol character. Darker versions add malt character associated with darker grains.",
+  "appearance": "Pale gold to deep amber in color, sometimes pale orange. Long-lasting, dense, rocky white to ivory head. Belgian lace. Unfiltered, so clarity is variable (poor to good) and may be hazy. Effervescent.",
+  "flavor": "Light to moderate grainy malt flavor, often with a light honey or sugar character. The fruitiness is frequently citrusy (oranges or lemons). Low to moderate spicy notes are often like black pepper, not clove, and enhance the citrus character. Hop bitterness is moderate to high. Hop flavor is low to moderate with continental character. The dry finish is accented by high carbonation. The yeast and hop flavors tend to continue into the aftertaste. Low to moderate sourness optional. Strong versions may have some alcohol flavor. Darker versions may have some roast character. Table versions are lower in alcohol, lighter in body, and have less malt character, but maintain the other sensory aspects.",
+  "mouthfeel": "Light to medium body. High carbonation. Light to moderate alcohol warmth in stronger versions. Smooth, refreshing, effervescent.",
+  "comments": "A family of ales, not a single beer style. Strength and color vary, but all are characterized by high attenuation, high carbonation, and yeast character. May be called Farmhouse Ale or Artisanal Ale in some markets, but those terms are not specific to this style. Often bottle conditioned.",
+  "history": "Originates from the farmhouse ales brewed in French-speaking Belgium (Wallonia) and French areas near the Belgian border. Originally a rustic, artisanal ale made as a provision ale for farm workers (saisonniers) who worked in the fields during the warm summer months. Now produced commercially year-round.",
+  "characteristicIngredients": "Pilsner malt dominates. Other grains such as wheat, oats, spelt, or rye may be used. Adjuncts such as sugar or honey can also serve to lighten the body and aid in the dry finish. A wide variety of herbs and spices can be used, but should not dominate. Brettanomyces secondary fermentation is also possible but not required. Continental hops are most traditional, but English and American varieties are also used. Wide variety of ale yeasts can be used, often blends including wild yeasts and lactic bacteria.",
+  "styleComparison": "The pale, standard-strength versions are like a more highly-attenuated, hoppy, and bitter Belgian Blond Ale. At the high end of alcohol, similar to a Belgian Tripel, but often not as malty, and more highly-attenuated. Lower alcohol versions can be similar to a Belgian Golden Strong Ale, also like a Belgian Tripel.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.080
+    },
+    "fg": {
+      "min": 1.002,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 20,
+      "max": 35
+    },
+    "srm": {
+      "min": 5.0,
+      "max": 22.0
+    },
+    "abv": {
+      "min": 3.5,
+      "max": 9.5
+    }
+  },
+  "commercialExamples": [
+    "Boulevard Tank 7",
+    "La Chouffe",
+    "Saint Somewhere Saison Athene",
+    "Saison 1858",
+    "Saison Cazeau",
+    "Saison Dupont",
+    "Saison du Buff",
+    "Saison Voisin",
+    "Boulevard Saison-Brett"
+  ],
+  "tags": [
+    "session-strength",
+    "standard-strength",
+    "high-strength",
+    "pale-color",
+    "amber-color",
+    "top-fermented",
+    "western-europe",
+    "traditional-style",
+    "bitter"
+  ]
+}

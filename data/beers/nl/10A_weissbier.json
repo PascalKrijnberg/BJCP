@@ -1,0 +1,54 @@
+{
+  "category": "10",
+  "subcategory": "A",
+  "name": "Weissbier",
+  "overallImpression": "Een licht, verfrissend, licht gehopt Duits tarwebier met hoge koolzuurgraad, droge afdronk, luchtig mondgevoel, en een kenmerkend banaan-en-kruidnagel weizen gist fermentatieprofiel.",
+  "aroma": "Matige tot sterke esters en fenolen, typisch banaan en kruidnagel, vaak goed gebalanceerd en typisch sterker dan de mout. Licht tot matig broodachtig, deegachtig, of graanachtig tarwearoma. Lichte vanille optioneel. Lichte bloemige, kruidachtige, of kruidige hop optioneel. Kauwgom (aardbei met banaan), zuurheid, of rook zijn gebreken.",
+  "appearance": "Licht stroogeel tot goudkleurig. Zeer dikke, schuimige, langdurige witte schuimkraag. Kan troebel zijn en een glans hebben van tarwe en gist, hoewel dit kan bezinken in flessen.",
+  "flavor": "Lage tot matig sterke banaan- en kruidnagelsmaak, vaak goed gebalanceerd. Lage tot matige zachte, enigszins broodachtige, deegachtige, of graanachtige tarwesmaak ondersteund door de lichte Pils mout graanachtige zoetheid. Zeer lage tot matig lage bitterheid. Goed afgeronde, smaakvolle smaak met een relatief droge afdronk. Lichte vanille optioneel. Zeer lage bloemige, kruidachtige, of kruidige hopsmaak optioneel. Elke indruk van zoetheid is meer te wijten aan lage bitterheid dan aan eventuele restzoetheid; een zoete of zware afdronk schaadt de drinkbaarheid. Kauwgom, zuurheid, of rook zijn gebreken. Hoewel het banaan-en-kruidnagelprofiel belangrijk is, mag het niet zo sterk zijn dat het extreem en ongebalanceerd wordt.",
+  "mouthfeel": "Middellicht tot medium body; nooit zwaar. Luchtige, romige volheid die overgaat naar een lichte, pittige afdronk geholpen door hoge tot zeer hoge koolzuurgraad. Bruisend.",
+  "comments": "Ook bekend als hefeweizen of weizenbier, vooral buiten Beieren. Deze bieren worden het best genoten zolang ze jong en vers zijn, omdat ze vaak niet goed rijpen. In Duitsland zijn lager-alcohol lichte (leicht) en alcoholvrije versies populair. Kristall versies zijn gefilterd voor briljante helderheid.",
+  "history": "Hoewel Beieren een tarwebiertradition heeft die teruggaat tot voor de 1500s, was het brouwen van tarwebier vroeger een monopolie voorbehouden aan de Beierse koninklijke familie. Modern Weissbier dateert uit 1872 toen Schneider begon met de productie van zijn amber versie. Echter, licht Weissbier werd pas populair sinds de jaren 1960 (hoewel de naam historisch in Duitsland gebruikt kon worden om bier gemaakt van luchtgedroogde mout te beschrijven, een andere traditie). Het is tegenwoordig zeer populair, vooral in Zuid-Duitsland.",
+  "characteristicIngredients": "Gemoutte tarwe, minstens de helft van de grist. Pilsner mout. Decoctie beslag traditioneel. Weizen gist, koele fermentatietemperaturen.",
+  "styleComparison": "Vergeleken met American Wheat, heeft een banaan en kruidnagel gistkarakter en minder bitterheid. Vergeleken met een Dunkles Weissbier, heeft een lichtere kleur en minder moutrijkdom en -smaak.",
+  "entryInstructions": "De deelnemer mag specificeren of de gist opgewerveld moet worden voor het serveren.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.053
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 8,
+      "max": 15
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 4.3,
+      "max": 5.6
+    }
+  },
+  "commercialExamples": [
+    "Ayinger Bräuweisse",
+    "Distelhäuser Hell Weizen",
+    "Hacker-Pschorr Hefeweißbier",
+    "Hofbräuhaus Münchner Weisse",
+    "Schneider Weisse Original Weissbier",
+    "Weihenstephaner Hefeweißbier"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermented",
+    "centraleurope",
+    "traditional-style",
+    "wheat-beer-family",
+    "malty"
+  ]
+}

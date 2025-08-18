@@ -1,0 +1,53 @@
+{
+  "category": "10",
+  "subcategory": "B",
+  "name": "Dunkles Weissbier",
+  "overallImpression": "Een matig donker Duits tarwebier met een kenmerkend banaan-en-kruidnagel weizen gistfermentatieprofiel, ondersteund door een geroosterd brood of karamelmoutsmaak. Zeer koolzuurhoudend en verfrissend, met een romige, luchtige textuur en lichte afdronk.",
+  "aroma": "Matige esters en fenolen, doorgaans banaan en kruidnagel, vaak goed uitgebalanceerd met elkaar en met de mout. Licht tot matig broodachtig, deegachtig of graanachtig tarwearoma, vaak vergezeld van karamel, broodkorst of rijkere moutaroma's. Laag tot matig vanille optioneel. Lichte bloemige, kruidige of kruidige hop optioneel. Kauwgom (aardbei met banaan), zuurheid of rook zijn gebreken.",
+  "appearance": "Licht koperkleurig tot donker, mahonie bruin van kleur. Zeer dikke, schuimige, langdurige gebroken witte schuimkraag. Kan troebel zijn en een glans hebben van tarwe en gist, hoewel dit kan bezinken in gebottelde versies.",
+  "flavor": "Lage tot matig sterke banaan- en kruidnagelsmaak, vaak goed uitgebalanceerd met elkaar en met de mout, hoewel de mout soms de kruidnagelindruk kan maskeren. Lage tot middelhoge zachte, enigszins broodachtige, deegachtige of graanachtige tarwesmaak met rijkere karamel-, toast- of broodkorstsmaken. Geen sterk geroosterde smaken, maar een vleugje rokerige droogheid is toegestaan. Zeer lage tot lage bitterheid. Goed afgerond, vol van smaak, vaak enigszins moutig gehemelte met een relatief droge afdronk. Zeer lichte tot matige vanille optioneel. Lage kruidige, kruidige of bloemige hopsmaak optioneel. Kauwgom, zuurheid of rook zijn gebreken.",
+  "mouthfeel": "Middelmatig licht tot middelmatig vol lichaam. Luchtige, romige volheid die overgaat naar een lichtere afdronk, geholpen door matig tot hoog koolzuur. Bruisend.",
+  "comments": "Vaak bekend als dunkelweizen, vooral in de Verenigde Staten. Steeds zeldzamer en wordt vaak vervangen door Kristall en alcoholvrije versies in Duitsland.",
+  "history": "Beieren heeft een tarwebierbrouwtraditie van honderden jaren oud, maar het brouwrecht was gereserveerd voor de Beierse adel tot eind 1700. Ouderwets Beiers tarwebier was vaak donker, zoals de meeste bieren van die tijd. Licht Weissbier begon populair te worden in de jaren 1960, maar traditioneel donker tarwebier bleef enigszins een drankje voor oudere mensen.",
+  "characteristicIngredients": "Gemout tarwe, ten minste de helft van het meel. Munich-, Vienna- of Pilsnermout. Donkere tarwe, karameltarwe of kleurmout. Decoctiemash traditioneel. Weizen gist, koele fermentatietemperaturen.",
+  "styleComparison": "Combineert het gist- en tarwekarakter van Weissbier met de moutige rijkdom van een Munich Dunkel. Het banaan-en-kruidnagelkarakter is vaak minder duidelijk dan in een Weissbier vanwege de verhoogde moutigheid. Heeft een vergelijkbaar gistkarakter als Roggenbier, maar zonder de roggesmaak en verhoogd lichaam.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.057
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 10,
+      "max": 18
+    },
+    "srm": {
+      "min": 14.0,
+      "max": 23.0
+    },
+    "abv": {
+      "min": 4.3,
+      "max": 5.6
+    }
+  },
+  "commercialExamples": [
+    "Ayinger Urweisse",
+    "Ettaler Benediktiner Weißbier Dunkel",
+    "Franziskaner Hefe-Weisse Dunkel",
+    "Hirsch Dunkel Weisse",
+    "Tucher Dunkles Hefe Weizen",
+    "Weihenstephaner Hefeweißbier Dunkel"
+  ],
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "top-fermented",
+    "centraleurope",
+    "traditional-style",
+    "wheat-beer-family",
+    "malty"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "category": "12",
+  "subcategory": "C",
+  "name": "English IPA",
+  "overallImpression": "Een bitter, matig sterk, zeer goed uitgegist licht Brits ale met een droge afdronk en een hoppig aroma en smaak. Klassieke Britse ingrediënten zorgen voor het meest authentieke smaakprofiel.",
+  "aroma": "Een matig tot matig-hoog hoparoma, doorgaans bloemig, kruidig-peperig, of citrus-oranje van aard. Een licht dry-hop aroma is acceptabel, maar niet vereist. Matig-laag tot matig broodachtig of biscuitig mout, optioneel met een matig-lage karamelachtige of toastige moutaanwezigheid. Laag tot matig fruitigheid is acceptabel. Optionele lichte zwavelnoot.",
+  "appearance": "Kleur varieert van goudkleurig tot diep amber, maar de meeste zijn vrij licht. Moet helder zijn, hoewel ongefilterde dry-hopped versies een beetje troebel kunnen zijn. Matig grote, persistente schuimkraag met gebroken witte kleur.",
+  "flavor": "Hopsmaak is matig tot hoog, met een matige tot assertieve hopbitterheid. De hopsmaak moet vergelijkbaar zijn met het aroma (bloemig, kruidig-peperig, of citrus-oranje). Moutsmaak moet matig-laag tot matig zijn, en enigszins broodachtig, optioneel met lichte tot matig-lichte biscuit-, toast-, toffee-, of karamelaspekten. Matig-laag tot matig fruitigheid. Afdronk is matig-droog tot zeer droog, en de bitterheid kan nasmaken in de nasmaak maar mag niet scherp zijn. De balans neigt naar de hop, maar de mout moet nog steeds merkbaar ondersteunend zijn. Bij gebruik van hoog sulfaatwater zijn meestal een onderscheidend mineraalachtige, droge afdronk, enige zwavelsmaak, en een aanhoudende bitterheid aanwezig. Enige schone alcoholsmaak kan worden opgemerkt in sterkere versies.",
+  "mouthfeel": "Glad, matig-licht tot matig lichaam zonder hop-afgeleide wrangheid. Matig tot matig-hoog koolzuur kan een algemene droge sensatie geven ondanks een ondersteunende moutaanwezigheid. Een lage, gladde alcoholverwarming kan worden gevoeld in sterkere versies.",
+  "comments": "De eigenschappen van IPA die belangrijk waren voor de aankomst in goede conditie in India waren dat het zeer goed uitgegist was en zwaar gehopt. Alleen omdat dit hoe IPA werd verscheept, betekent niet dat andere bieren zoals Porter ook niet naar India werden gestuurd, dat IPA werd uitgevonden om naar India te worden gestuurd, dat IPA zwaarder gehopt was dan andere bewaar bieren, of dat het alcoholgehalte ongewoon was voor die tijd. Veel moderne voorbeelden gelabeld als IPA zijn vrij zwak in sterkte. Volgens CAMRA zijn \"zogenaamde IPA's met sterktes van ongeveer 3,5% niet trouw aan de stijl.\" Engelse bierhistoricus Martyn Cornell heeft opgemerkt dat bieren zoals dit \"niet echt te onderscheiden zijn van een gewoon bitter.\" Dus we kiezen ervoor om het eens te zijn met deze bronnen voor onze richtlijnen in plaats van wat sommige moderne Britse brouwerijen een IPA noemen; wees je alleen bewust van deze twee hoofdtypen IPA's in de Britse markt vandaag. De bieren werden verscheept in goed gebruikte eiken vaten, dus de stijl zou geen eiken- of Brett-karakter moeten hebben.",
+  "history": "Oorspronkelijk een licht voorraad ale uit Londen dat voor het eerst naar India werd verscheept in de late 1700s. George Hodgson van de Bow Brewery creëerde de stijl niet, maar was de eerste bekende brouwer die de markt domineerde. Na een handelsgeschil liet de East India Company Samuel Allsopp het bier in 1823 nabootsen (en herformuleren) met behulp van Burton's sulfaatrijke water. De naam India Pale Ale werd pas rond 1830 gebruikt. Sterkte en populariteit namen af in de loop van de tijd, en de stijl verdween vrijwel in de tweede helft van de 20e eeuw. Terwijl de sterkere Burton-type IPA bleef bestaan, werd de naam ook toegepast op hoppige, lagere-dichtheid, vaak gebottelde producten (een trend die voortduurt in sommige moderne Britse voorbeelden). De stijl onderging een craft beer herontdekking in de jaren 1980, en dat is wat wordt beschreven in deze richtlijnen. Moderne voorbeelden zijn geïnspireerd door klassieke versies, maar er mag niet van worden uitgegaan dat ze een ononderbroken afstamming hebben met exact hetzelfde profiel. White Shield is waarschijnlijk het voorbeeld met de langste afstamming, teruggaand tot de sterke Burton IPA's van weleer en voor het eerst gebrouwen in 1829.",
+  "characteristicIngredients": "Pale ale mout. Engelse hop, vooral als finishing hop. Vergistende Britse ale gist. Geraffineerde suiker kan worden gebruikt in sommige versies. Optioneel sulfaatkarakter van Burton-type water.",
+  "styleComparison": "Zal over het algemeen meer late hop en minder fruitigheid en karamel hebben dan Britse pale ales en Bitters. Heeft minder hopintensiteit en een meer uitgesproken moutsmaak dan typische Amerikaanse IPA's.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.05,
+      "max": 1.07
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.015
+    },
+    "ibu": {
+      "min": 40,
+      "max": 60
+    },
+    "srm": {
+      "min": 6.0,
+      "max": 14.0
+    },
+    "abv": {
+      "min": 5.0,
+      "max": 7.5
+    }
+  },
+  "commercialExamples": [
+    "Berkshire Lost Sailor IPA",
+    "Fuller's Bengal Lancer",
+    "Marston's Old Empire IPA",
+    "Meantime London IPA",
+    "Thornbridge Jaipur",
+    "Worthington White Shield"
+  ],
+  "tags": [
+    "high-strength",
+    "pale-color",
+    "top-fermented",
+    "british-isles",
+    "traditional-style",
+    "ipa-family",
+    "bitter",
+    "hoppy BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

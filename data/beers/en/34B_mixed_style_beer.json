@@ -1,0 +1,22 @@
+{
+  "category": "34",
+  "subcategory": "B",
+  "name": "Mixed-Style Beer",
+  "overallImpression": "Based on the declared Base Styles, methods, and ingredients. As with all Specialty-Type Beers, the resulting combination of beer styles needs to be harmonious and balanced, and be pleasant to drink.",
+  "aroma": "Based on the declared Base Styles.",
+  "appearance": "Based on the declared Base Styles.",
+  "flavor": "Based on the declared Base Styles.",
+  "mouthfeel": "Based on the declared Base Styles.",
+  "comments": "See preamble for intent.",
+  "entryInstructions": "The entrant must specify the Base Style or Styles being used, and any special ingredients, processes, or variations involved. The entrant may provide an additional description of the sensory profile of the beer or the vital statistics of the resulting beer.",
+  "vitalStatistics": {},
+  "commercialExamples": [
+    "Birrificio Italiano Tipopils",
+    "Firestone Walker Pivo Pils",
+    "Jack’s Abby Hoponius Union",
+    "Ommegang Helles Superior"
+  ],
+  "tags": [
+    "specialty-beer"
+  ]
+}

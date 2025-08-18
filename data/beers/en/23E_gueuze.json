@@ -1,0 +1,55 @@
+{
+  "category": "23",
+  "subcategory": "E",
+  "name": "Gueuze",
+  "overallImpression": "A very refreshing, highly carbonated, pleasantly sour but balanced wild Belgian wheat beer. The wild beer character can be complex and varied, combining sour, funky, and fruity flavors.",
+  "aroma": "Moderately sour with complex but balanced funkiness accented by fruity notes. The funkiness can be moderate to strong, and can be described as barnyard, leather, earthy, goaty, hay, horsey, or horse blanket. Fruitiness is light to moderate, with a citrus fruit, citrus rind, pome fruit, or rhubarb quality. Malt is supportive, and can be lightly bready, grainy, honey, or wheat-like, if noticeable. Should not have enteric, smoky, cigar-like, or cheesy faults. No hops. Light oak acceptable. Complexity of aroma is valued more than intensity, but a balanced sour presentation is desirable.",
+  "appearance": "Golden color, with excellent clarity and a thick, rocky, mousse-like, white head that seems to last forever. Effervescent.",
+  "flavor": "Sour and funky on the palate, with a similar character as the aroma (same descriptors and intensities apply for funk and fruit). Low bready, grainy malt. Bitterness low to none; sourness provides most of the balance. No hop flavor. Crisp, dry finish, with a tart and funky aftertaste. Light oak, vanilla, and honey are acceptable. Should not have enteric, smoky, cigar-like, or cheesy faults. The beer should not be one dimensionally sour; a balanced, moderately sour presentation is classic, with the funky and fruity notes providing complexity. May be aged.",
+  "mouthfeel": "Light to medium-light body; should not be watery. Has a low to high tart, puckering quality without being sharply astringent. Some versions have a very light warming character. Highly carbonated.",
+  "comments": "Blending young and aged lambic creates a more complex product, and often reflects the personal taste of the blender. A noticeable vinegary or cidery character is considered a fault by Belgian brewers. A good Gueuze is not the most pungent, but possesses a full and tantalizing bouquet, a sharp aroma, and a soft, velvety texture. Lambic is served uncarbonated, while Gueuze is served sparkling. Products marked oude or vieille (“old”) are considered most traditional.",
+  "history": "Same basic history as Lambic, but involves blending, which may be performed outside the brewery. Some of the best examples are produced by blenders, who ferment, age, blend, and package the final product. Some modern producers are sweetening their products post-fermentation to make them",
+  "characteristicIngredients": "Same base as Gueuze. Fruit added to barrels during fermentation and blending. Traditional fruit include tart cherries, raspberries; modern fruit include peaches, apricots, grapes, and others. May use natural or artificial sweeteners.",
+  "styleComparison": "A Gueuze with fruit, not just a sour Fruit Beer; the wild character must be evident. BJCP Beer Style Guidelines – 2021 Edition 47 Entry Instructions: The type of fruit used must be specified. The brewer must declare a carbonation level (low, medium, high) and a sweetness level (low/none, medium, high).",
+  "entryInstructions": "The type of fruit used must be specified. The brewer must declare a carbonation level (low, medium, high) and a sweetness level (low/none, medium, high).",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.04,
+      "max": 1.06
+    },
+    "fg": {
+      "min": 1.0,
+      "max": 1.01
+    },
+    "ibu": {
+      "min": 0,
+      "max": 10
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 7.0
+    },
+    "abv": {
+      "min": 5.0,
+      "max": 7.0
+    }
+  },
+  "commercialExamples": [
+    "3 Fonteinen Schaerbeekse Kriek",
+    "Cantillon Fou’ Foune",
+    "Cantillon Lou Pepe Framboise",
+    "Cantillon Vigneronne",
+    "Hanssens Oude Kriek",
+    "Oude Kriek Boon"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "wild-fermented",
+    "westerneurope",
+    "traditional-style",
+    "wheat-beer-family",
+    "sour",
+    "fruit"
+  ]
+}

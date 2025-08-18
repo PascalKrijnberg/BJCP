@@ -1,0 +1,96 @@
+{
+  "category": "8",
+  "subcategory": "A",
+  "name": "Munich Dunkel",
+  "overallImpression": "A traditional malty brown lager from Bavaria. Deeply toasted, bready malt flavors without any roasty or burnt flavors. Smooth and rich, with a restrained bitterness and a relatively dry finish that allows for drinking in quantity.",
+  "aroma": "Moderate to high malt richness, like toasted bread crusts with hints of chocolate, nuts, caramel, or toffee. Fresh traditional versions often show higher levels of chocolate. The malt character is more malty-rich than sugary or caramelly sweet. Clean fermentation profile. A light spicy, floral, or herbal hop aroma is optional.",
+  "appearance": "Deep copper to dark brown, often with a red or garnet tint. Creamy, light to medium tan head. Usually clear.",
+  "flavor": "Rich malt flavors similar to aroma (same malt descriptors apply), medium to high. Restrained bitterness, medium-low to medium, giving an overall malty balance. Malty and soft on the palate without being overly sweet, and mediumdry in the finish with a malty aftertaste. No roast, burnt, or bitter malt flavors, toasted flavors shouldn’t have a harsh grainy dryness, and caramel flavors should not be sweet. Low spicy, herbal, or floral hop flavor optional. Clean fermentation profile.",
+  "mouthfeel": "Medium to medium-full body, providing a soft and dextrinous mouthfeel without being heavy or cloying. Moderate carbonation. Smooth lager character. No harsh or biting astringency. Not warming.",
+  "comments": "A traditional Munich style, the dark companion to Helles. Franconian versions are more bitter than ones from Munich.",
+  "history": "Developed at Spaten in the 1830s after the development of Munich malt, and seen as a successor to dark regional beers of the time. While originating in Munich, the style became popular throughout Bavaria (especially Franconia).",
+  "characteristicIngredients": "Traditionally, Munich malts, but Pils and Vienna can be used too. Light use of specialty malts for color and depth. Decoction mash traditional. German hops and lager yeast.",
+  "styleComparison": "Not as intense in maltiness or as strong as a Dunkles Bock. Lacking the more roasted flavors and often the hop bitterness of a Schwarzbier. Richer, more malt-centric, and less hoppy than a Czech Dark Lager.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.056
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.016
+    },
+    "ibu": {
+      "min": 18,
+      "max": 28
+    },
+    "srm": {
+      "min": 17.0,
+      "max": 28.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 5.6
+    }
+  },
+  "commercialExamples": [
+    "Ayinger Altbairisch Dunkel",
+    "Ettaler Kloster-Dunkel",
+    "Eittinger Urtyp Dunkel",
+    "Hacker-Pschorr Münchner Dunkel",
+    "Hofbräuhaus Dunkel",
+    "Weltenburger Kloster Barock-Dunkel"
+  ],
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "malty",
+    "dark-lagerfamily Overall Impression: A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness. The lighter body",
+    "dryness",
+    "and lack of a harsh",
+    "burnt",
+    "or heavy aftertaste helps make this beer quite drinkable. Aroma: Low to moderate malt",
+    "with low aromatic malty sweetness and hints of roast malt often apparent. The malt can be clean and neutral or moderately rich and bready",
+    "and may have a hint of dark caramel. The roast character can be somewhat dark chocolate- or coffee-like but should never be burnt. A moderately low spicy",
+    "floral",
+    "or herbal hop aroma is optional. Clean lager yeast character. Appearance: Medium to very dark brown in color",
+    "often with deep ruby to garnet highlights",
+    "yet almost never truly black. Very clear. Large",
+    "persistent",
+    "tan-colored head. Flavor: Light to moderate malt flavor",
+    "which can have a clean",
+    "neutral character to a moderately rich",
+    "bread-malty quality. Light to moderate roasted malt flavors can give a bitterchocolate palate that is never burnt. Medium-low to medium bitterness. Light to moderate spicy",
+    "floral",
+    "or herbal hop flavor. Clean lager character. Dry finish. Some residual sweetness is acceptable but not traditional. Aftertaste of hop bitterness with a complementary but subtle roastiness in the background. Mouthfeel: Medium-light to medium body. Moderate to moderately-high carbonation. Smooth. No harshness or astringency",
+    "despite the use of dark",
+    "roasted malts. Comments: Literally means black beer in German. While sometimes called a “black Pils",
+    "” the beer is rarely as dark as black or as hop-forward and bitter as a Pils. Strongly roasted",
+    "Porter-like flavors are a flaw. History: A regional specialty from Thuringia",
+    "Saxony",
+    "and Franconia in Germany. Served as the inspiration for black lagers brewed in Japan. Popularity grew after German reunification in 1990. Characteristic Ingredients: German Munich malt and Pilsner malts for the base",
+    "with huskless dark roasted malts that add roast flavors without burnt flavors. German hop varieties and clean German lager yeasts are traditional. Style Comparison: In comparison with a Munich Dunkel",
+    "usually darker in color",
+    "drier on the palate",
+    "lighter in body",
+    "and with a noticeable (but not high) roasted malt edge to balance the malt base. Should not taste like an American Porter made with lager yeast. Drier",
+    "less malty",
+    "with less hop character than a Czech Dark Lager. Vital Statistics: OG: 1.046 – 1.052 IBUs: 20 – 35 FG: 1.010 – 1.016 SRM: 19 – 30 ABV: 4.4 – 5.4% Commercial Examples: Chuckanut Schwarz Lager",
+    "Devils Backbone Schwartz Bier",
+    "Köstritzer Schwarzbier",
+    "Kulmbacher Mönchshof Schwarzbier",
+    "Neuzeller Original Badebier",
+    "pFriem Schwarzbier Tags: standard-strength",
+    "dark-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "balanced",
+    "dark-lagerfamily 14 BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "category": "15",
+  "subcategory": "C",
+  "name": "Irish Extra Stout",
+  "overallImpression": "Een volmondiger zwart bier met een uitgesproken geroosterde smaak, vaak vergelijkbaar met koffie en pure chocolade met enige moutige complexiteit. De balans kan variëren van matig bitterzoet tot bitter, waarbij de meer gebalanceerde versies tot matige moutige rijkdom hebben en de bittere versies behoorlijk droog zijn.",
+  "aroma": "Matig tot matig hoog koffieachtig aroma, vaak met lichte pure chocolade, cacao, biscuit, vanille of geroosterde graan secundaire tonen. Matig-lage esters optioneel. Hoparoma laag tot afwezig, kan licht aards of kruidig zijn, maar is doorgaans afwezig. Mout en roasting domineren het aroma.",
+  "appearance": "Gitzwart. Ondoorzichtig. Een dikke, romige, aanhoudende gebruinde schuimkraag is karakteristiek.",
+  "flavor": "Matige tot matig hoge donker-geroosterde graan- of moutsmaak met een matige tot matig-hoge bitterheid. De afdronk kan droog en koffieachtig zijn tot matig gebalanceerd met tot matige karamel- of moutige zoetheid. Heeft doorgaans geroosterde koffieachtige smaken, maar heeft ook vaak een pure chocoladekarakter in het gehemelte, dat doorloopt in de afdronk. Achtergrond mocha- of biscuitsmaken zijn vaak aanwezig en voegen complexiteit toe. Matig-lage fruitigheid optioneel. Matige aardse of kruidige hopsmaak optioneel. Het niveau van bitterheid is enigszins variabel, evenals het geroosterde karakter en de droogheid van de afdronk; sta interpretatie door brouwers toe.",
+  "mouthfeel": "Matig-vol tot vol lichaam, met een enigszins romig karakter. Matig koolzuur. Zeer glad. Kan een lichte samentrekkendheid hebben van de geroosterde granen, hoewel scherpheid ongewenst is. Een licht verwarmend karakter kan worden waargenomen.",
+  "comments": "Traditioneel een sterker, gebotteld product met een reeks even geldige mogelijke interpretaties, die het meest frequent variëren in roastsmaak en zoetheid. De meeste traditionele Ierse commerciële voorbeelden bevinden zich in het 5,6 tot 6,0% ABV-bereik.",
+  "history": "Dezelfde wortels als Irish Stout, maar als een sterker product. Guinness Extra Stout (Extra Superior Porter, later Double Stout) werd voor het eerst gebrouwen in 1821 en was voornamelijk een gebotteld product.",
+  "characteristicIngredients": "Vergelijkbaar met Irish Stout. Kan aanvullende donkere kristalmout of donkere suikers hebben.",
+  "styleComparison": "Halverwege tussen een Irish Stout en een Foreign Extra Stout qua sterkte en smaakintensiteit, hoewel met een vergelijkbare balans. Meer body, rijkdom en vaak moutcomplexiteit dan een Irish Stout. Zwart van kleur, niet bruin zoals een English Porter.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.052,
+      "max": 1.062
+    },
+    "fg": {
+      "min": 1.01,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 35,
+      "max": 50
+    },
+    "srm": {
+      "min": 30.0,
+      "max": 40.0
+    },
+    "abv": {
+      "min": 5.0,
+      "max": 6.5
+    }
+  },
+  "commercialExamples": [
+    "Guinness Extra Stout",
+    "O'Hara's Leann Folláin",
+    "Porterhouse XXXX",
+    "Sheaf Stout"
+  ],
+  "tags": [
+    "high-strength",
+    "dark-color",
+    "top-fermented",
+    "british-isles",
+    "traditional-style",
+    "stout-family",
+    "bitter",
+    "roasty BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "category": "4",
+  "subcategory": "A",
+  "name": "Munich Helles",
+  "overallImpression": "A gold-colored German lager with a smooth, malty flavor and a soft, dry finish. Subtle spicy, floral, or herbal hops and restrained bitterness help keep the balance malty but not sweet, which helps make this beer a refreshing, everyday drink.",
+  "aroma": "Moderate grainy-sweet malt aroma. Low to moderately-low spicy, floral, or herbal hop aroma. Pleasant, clean fermentation profile, with malt dominating the balance. The freshest examples will have more of a malty-sweet aroma.",
+  "appearance": "Pale yellow to pale gold. Clear. Persistent creamy white head.",
+  "flavor": "Moderately malty start with the suggestion of sweetness, moderate grainy-sweet malt flavor with a soft, rounded palate impression, supported by a low to medium-low bitterness. Soft and dry finish, not crisp and biting. Low to moderately-low spicy, floral, or herbal hop flavor. Malt dominates hops in the palate, finish, and aftertaste, but hops should be noticeable. No residual sweetness, simply the impression of maltiness with restrained bitterness. Clean fermentation profile.",
+  "mouthfeel": "Medium body. Medium carbonation. Smooth, well-lagered character.",
+  "comments": "Very fresh examples can have a more prominent malt and hop character that fades over time, as is often noticed in exported beers. Helles in Munich tends to be a lighter version than those outside the city. May be called Helles Lagerbier.",
+  "history": "Created in Munich in 1894 to compete with pale Pilsner-type beers, often first credited to Spaten. More popular in Southern Germany.",
+  "characteristicIngredients": "Continental Pilsner malt. Traditional German hops. Clean German lager yeast.",
+  "styleComparison": "Similar in malt balance and bitterness to Munich Dunkel, but less malty-sweet in nature and pale rather than dark and rich. More body and malt presence than a German Pils, but less crisp and with less hop character throughout. Similar malt profile as a German Helles Exportbier, but with fewer hops in the balance and slightly less alcohol. Less body and alcohol than a Festbier.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.048
+    },
+    "fg": {
+      "min": 1.006,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 16,
+      "max": 22
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 5.0
+    },
+    "abv": {
+      "min": 4.7,
+      "max": 5.4
+    }
+  },
+  "commercialExamples": [
+    "Augustiner Lagerbier Hell",
+    "HackerPschorr Münchner Gold",
+    "Löwenbraü Original",
+    "Paulaner Münchner Lager",
+    "Schönramer Hell",
+    "Spaten Münchner Hell",
+    "Weihenstephaner Original Helles"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-lager-family",
+    "malty Overall Impression: A smooth",
+    "clean",
+    "pale German lager with a moderately strong malty flavor and a light hop character. Deftly balances strength and drinkability",
+    "with a palate impression and finish that encourages drinking. Showcases elegant German malt flavors without becoming too heavy or filling. Aroma: Moderate malty richness",
+    "with an emphasis on toastydoughy aromatics and an impression of sweetness. Low to medium-low floral",
+    "herbal",
+    "or spicy hops. The malt should not have a deeply toasted",
+    "caramel",
+    "or biscuity quality. Clean lager fermentation profile. Appearance: Deep yellow to deep gold color; should not have amber hues. Bright clarity. Persistent white to off-white foam stand. Most commercial examples are pale gold in color. Flavor: Medium to medium-high malty flavor initially",
+    "with a lightly toasty",
+    "bread dough quality and an impression of soft malty richness. Medium to medium-low bitterness",
+    "definitely malty in the balance. Well-attenuated and crisp",
+    "but not dry. Medium-low to medium floral",
+    "herbal",
+    "or spicy hop flavor. Clean fermentation profile. The taste is mostly of Pils malt",
+    "but with slightly toasty hints. The bitterness is supportive",
+    "but still should yield a malty",
+    "flavorful finish. Mouthfeel: Medium body",
+    "with a smooth",
+    "somewhat creamy texture. Medium carbonation. Alcohol strength barely noticeable as warming",
+    "if at all. Comments: This style represents the modern German beer served at Oktoberfest (although it is not solely reserved for Oktoberfest; it can be found at many other ‘fests’)",
+    "and is sometimes called Wiesn (“the meadow” or local name for the Oktoberfest festival). We chose to call this style Festbier since by German and EU regulations",
+    "Oktoberfestbier is a protected appellation for beer produced at large breweries within the Munich city limits for consumption at Oktoberfest. Other countries are not bound by these rules",
+    "so many craft breweries in the US produce beer called Oktoberfest",
+    "but based on the traditional style described in these guidelines as Märzen. May be called Helles Märzen. History: Since 1990",
+    "the majority of beer served at Oktoberfest in Munich has been this style. Export beer specifically made for the United States is still mainly of the traditional amber style",
+    "as are US-produced interpretations. Paulaner first created the golden version in the mid-1970s because they thought the traditional Oktoberfest was too filling. So they developed a lighter",
+    "more drinkable but still malty version that they wanted to be “more poundable” (according to the head brewer at Paulaner). But the actual type of beer served at Oktoberfest is set by a Munich city committee. Characteristic Ingredients: Majority Pils malt",
+    "but with some Vienna or Munich malt to increase maltiness. Differences in commercial examples are mostly due to different maltsters and yeast",
+    "not major grist differences. Style Comparison: Less intense and less richly toasted than a Märzen. Stronger than a Munich Helles",
+    "with a bit more body",
+    "and hop and malt flavor. Less rich in malt intensity than a Helles Bock. The malt complexity is similar to a highergravity Czech Premium Pale Lager",
+    "although without the associated hops. BJCP Beer Style Guidelines – 2021 Edition 7 Vital Statistics: OG: 1.054 – 1.057 IBUs: 18 – 25 FG: 1.010 – 1.012 SRM: 4 – 6 ABV: 5.8 – 6.3% Commercial Examples: Augustiner Oktoberfest",
+    "HackerPschorr Superior Festbier",
+    "Hofbräu Oktoberfestbier",
+    "Löwenbräu Oktoberfestbier",
+    "Paulaner Oktoberfest Bier",
+    "Weihenstephaner Festbier Tags: standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "central-europe",
+    "traditional-style",
+    "pale-lager-family",
+    "malty"
+  ]
+}

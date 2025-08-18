@@ -1,0 +1,50 @@
+{
+  "category": "19",
+  "subcategory": "B",
+  "name": "California Common",
+  "overallImpression": "Een toastig en karamelig, redelijk bitter bier van standaardsterkte met een interessante fruitigheid en rustiek, houtig hopkarakter. Glad en goed gekoolzuurd.",
+  "aroma": "Matig tot hoge kruidachtige, harsachtige, bloemige of menthol hop. Lichte fruitigheid acceptabel. Lage tot matige karamel of toastige mout ondersteunt de hop.",
+  "appearance": "Middelamber tot licht koperen kleur. Over het algemeen helder. Matige gebroken witte schuimkraag met goede retentie.",
+  "flavor": "Matig moutig met een uitgesproken hopbitterheid. Het moutkarakter heeft gewoonlijk toast (geen roast) en karamelsmaak. Lage tot matig hoge hopsmaak, die meestal rustieke, traditionele Amerikaanse hopkwaliteiten toont (vaak kruidachtig, harsachtig, bloemig, menthol). Afdronk redelijk droog en fris, met een aanhoudende hopbitterheid en een stevige, graanachtige moutsmaak. Lichte fruitige esters zijn acceptabel, maar verder schoon.",
+  "mouthfeel": "Medium body. Matig tot matig hoog koolzuur.",
+  "comments": "Deze stijl is nauw gedefinieerd rond het prototypische Anchor Steam voorbeeld, hoewel andere typische ingrediënten van die tijd zijn toegestaan. Northern Brewer hop is geen strikte vereiste voor de stijl. Moderne Amerikaanse en Nieuwe Wereld-type hop (vooral citrusachtige) zijn ongepast.",
+  "history": "Amerikaans West Coast origineel, oorspronkelijk gebrouwen als Steam Beer tijdens de Gold Rush periode. Grote ondiepe open gistingsvaten (coolships) werden gebruikt om te compenseren voor het gebrek aan koeling en om te profiteren van de koele temperaturen in het San Francisco Bay gebied. Moderne versies zijn gebaseerd op Anchor Brewing die de stijl in de jaren 1970 opnieuw lanceerde.",
+  "characteristicIngredients": "Pale ale mout, niet-citrusachtige hop (vaak Northern Brewer), kleine hoeveelheden geroosterde mout of kristalmout. Lagergist; echter, sommige stammen (vaak met de vermelding van 'California' in de naam) werken beter dan andere bij de warmere gistingstemperaturen (55 tot 60 °F) die typisch gebruikt worden. Merk op dat sommige Duitse giststammen ongepast zwavelig karakter produceren.",
+  "styleComparison": "Oppervlakkig vergelijkbaar met een American Amber Ale, maar met specifieke keuzes voor mout en hop - de hopsmaak en aroma is traditioneel (niet modern) Amerikaanse hop, moutsmaken zijn toastiger, de hop is altijd assertief, en een warm-gegiste lagergist wordt gebruikt. Minder vergist, minder gekoolzuurd en minder fruitig dan Australian Sparkling ale.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.054
+    },
+    "fg": {
+      "min": 1.011,
+      "max": 1.014
+    },
+    "ibu": {
+      "min": 30,
+      "max": 45
+    },
+    "srm": {
+      "min": 9.0,
+      "max": 14.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 5.5
+    }
+  },
+  "commercialExamples": [
+    "Anchor Steam",
+    "Steamworks Steam Engine Lager"
+  ],
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "bottom-fermented",
+    "north-america",
+    "traditional-style",
+    "amber-lager-family",
+    "bitter",
+    "hoppy"
+  ]
+}

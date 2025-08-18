@@ -1,0 +1,54 @@
+{
+  "category": "23",
+  "subcategory": "B",
+  "name": "Flanders Red Ale",
+  "overallImpression": "Een zure en fruitige eiken-gerijpte roodbruine Belgische ale met ondersteunende geroosterde moutsmaken en fruitcomplexiteit. De droge, tanninerijke afdronk ondersteunt de suggestie van een vintage rode wijn.",
+  "aroma": "Complex fruitig-zuur profiel met ondersteunende mout. De fruitigheid is hoog en doet denken aan zwarte kersen, sinaasappels, pruimen, rode aalbessen of fruitleer. Lage tot gemiddeld-lage vanille, chocolade of peperige fenolen kunnen aanwezig zijn voor complexiteit. Het zure aroma varieert van gemiddeld tot hoog. Een dominant azijnachtig karakter is ongepast, hoewel lage tot gemiddelde niveaus van azijnzuur acceptabel zijn indien gebalanceerd met de mout. Geen hoparoma.",
+  "appearance": "Dieprood, bordeauxrood tot roodbruin van kleur. Goede helderheid. Wit tot zeer licht getint schuim. Gemiddelde tot goede schuimretentie.",
+  "flavor": "Gemiddelde tot gemiddeld-hoge moutsmaken hebben vaak een zachte geroosterd-rijke kwaliteit. Intense fruitsmaken, zelfde beschrijvingen als aroma. Complexe, gemiddelde tot hoge zuurheid, geaccentueerd door de esters; zou geen eenvoudige melkzuurheid moeten zijn. Een dominant azijnachtig karakter is ongepast, hoewel laag tot gemiddeld azijnzuur acceptabel is indien gebalanceerd met de mout. Over het algemeen naarmate het zure karakter toeneemt, vervaagt het moutkarakter naar meer een achtergrondssmaak (en vice versa). Lage tot gemiddeld-lage vanille, chocolade of peperige fenolen optioneel. Geen hopsmaak. Ingehouden bitterheid; gebalanceerd naar de moutkant. Zuren en tannines kunnen de perceptie van bitterheid versterken en zorgen voor balans en structuur. Sommige versies zijn gezoet of gemengd om zoet te zijn; sta een breed scala aan zoetheid toe, wat de zure bite en azijnzuurperceptie kan verzachten.",
+  "mouthfeel": "Gemiddelde body, vaak versterkt door tannines. Laag tot gemiddeld koolzuur. Lage tot gemiddelde samentrekking, vaak met een prikkelende zuurheid. Bedrieglijk licht en fris op het gehemelte hoewel een enigszins zoete afdronk niet ongewoon is.",
+  "comments": "De 'wijnachtige' observatie moet niet te letterlijk worden genomen; het kan bij sommigen een hoog-zure Franse Bourgogne suggereren, maar het is duidelijk niet identiek. Geproduceerd door lange rijping (tot twee jaar) in grote houten vaten (foeders), mengen van jong en goed-gerijpt bier, en variabele hoeveelheden zoeting van het eindproduct. Een breed scala aan producten is mogelijk afhankelijk van de werkelijke blend en of er zoeting plaatsvindt. Azijnzuursmaken kunnen worden opgemerkt, maar niet alle zuurheid in dit bier komt van azijnzuur; azijn is meer dan zes keer hoger in totale zuurheid dan deze stijl. Gefruite versies moeten worden ingeschreven als 29A Fruit Beer.",
+  "history": "Een inheems bier van West-Vlaanderen, getypeerd door de producten van brouwerij Rodenbach, opgericht in 1821. Rijping in houten vaten en mengen van oud en jong bier geleend van de Engelse traditie. Belgische brouwers beschouwen Flanders Red en Oud Bruin als van dezelfde stijlfamilie, maar het onderscheid werd voor het eerst gemaakt toen Michael Jackson voor het eerst bierstijlen definieerde, omdat de smaakprofielen duidelijk verschillend zijn. Veel moderne voorbeelden zijn beïnvloed door de populariteit van Rodenbach Grand Cru.",
+  "characteristicIngredients": "Vienna of Munich mouten, een verscheidenheid aan karamelmout, maïs. Lage alfa-zuur continentale hop. Sacch, Lacto en Brett. Gerijpt in eiken. Soms gemengd en gezoet (natuurlijk of kunstmatig).",
+  "styleComparison": "Minder mout-rijk dan een Oud Bruin, vaak met meer van een fruitig-tart en azijnzuur profiel.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.048,
+      "max": 1.057
+    },
+    "fg": {
+      "min": 1.002,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 10,
+      "max": 25
+    },
+    "srm": {
+      "min": 10.0,
+      "max": 17.0
+    },
+    "abv": {
+      "min": 4.6,
+      "max": 6.5
+    }
+  },
+  "commercialExamples": [
+    "Cuvée des Jacobins",
+    "Duchesse de Bourgogne",
+    "New Belgium La Folie",
+    "Rodenbach Classic",
+    "Rodenbach Grand Cru",
+    "Vichtenaar Flemish Ale"
+  ],
+  "tags": [
+    "standard-strength",
+    "amber-color",
+    "top-fermented",
+    "western-europe",
+    "traditional-style",
+    "balanced",
+    "sour",
+    "wood"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "category": "23",
+  "subcategory": "C",
+  "name": "Oud Bruin",
+  "overallImpression": "Een moutig, fruitig, gerijpt, enigszins zuur Belgisch bruin bier met een karamel-chocolademoutsmaak, en vaak aanzienlijk alcohol.",
+  "aroma": "Rijk moutig met fruitige esters en een gerijpte zuurheid. Gemiddelde tot gemiddeld-hoge esters die gewoonlijk doen denken aan rozijnen, pruimen, vijgen, dadels, sinaasappels, zwarte kersen, of gedroogde pruimen. Gemiddeld-laag tot gemiddeld-hoog mout met karamel, toffee, stroop, of chocoladekarakter. Lage kruidig-peperige fenolen optioneel. Een laag zuur aroma kan aanwezig zijn, en kan bescheiden toenemen met leeftijd maar zou niet moeten groeien tot een sterk azijnzuur, azijnachtig karakter. Hoparoma afwezig. Gerijpte voorbeelden kunnen een licht nootachtig, sherryachtig oxidatiekarakter tonen.",
+  "appearance": "Donker roodbruin tot bruin van kleur. Goede helderheid. Gemiddelde tot goede schuimretentie. Ivoorkleurig tot lichtbruine schuimkleur.",
+  "flavor": "Moutig met fruitige complexiteit en typisch wat donkere karamel of verbrande suikersmaak. Gemiddeld-laag tot gemiddeld-hoog mout, zelfde beschrijvingen als aroma. Gemiddelde tot gemiddeld-hoge fruitigheid, zelfde beschrijvingen als aroma. Lage kruidig-peperige fenolen optioneel. Een lichte zuurheid wordt vaak meer uitgesproken in goed gerijpte voorbeelden, samen met wat sherryachtig karakter, wat een 'zoet-en-zuur' profiel en afdronk produceert. De zuurheid zou niet moeten groeien tot een sterk azijnzuur, azijnachtig karakter. Hopsmaak afwezig. Ingehouden hopbitterheid. Balans is moutig, maar met fruitigheid en zuurheid aanwezig. Menging en zoeting kunnen een reeks van afronken en balansen produceren.",
+  "mouthfeel": "Gemiddelde tot gemiddeld-volle body. Lage tot matige koolzuur. Geen samentrekkendheid. Sterkere versies kunnen merkbaar warmend zijn.",
+  "comments": "Lange rijping en menging van jong en gerijpt bier kunnen plaatsvinden, wat gladheid en complexiteit toevoegt en elk hard, zuur karakter balanceert. Traditioneel was deze stijl ontworpen om te bewaren, dus voorbeelden met een matig gerijpt karakter worden beschouwd als superieur aan jongere voorbeelden. Fruitversies moeten worden ingeschreven als een 29A Fruitbier.",
+  "history": "Een inheems bier van Oost-Vlaanderen, getypeerd door de producten van de Liefmans brouwerij met wortels terug tot de 1600s. Belgische brouwers beschouwen Flanders Red en Oud Bruin als van dezelfde stijlfamilie, maar het onderscheid werd eerst gemaakt toen Michael Jackson voor het eerst bierstijlen definieerde, omdat de smaakprofielen duidelijk verschillend zijn. Veel moderne voorbeelden zijn beïnvloed door de populariteit van Liefmans Goudenband. Niet gerelateerd aan het donkere, zoete Nederlandse lager van dezelfde naam.",
+  "characteristicIngredients": "Pilsmout, donkere kristalmout, maïs, kleine hoeveelheden kleurmout. Lage alfa-zuur continentale hop. Sacch en Lacto. Gerijpt. Water met carbonaten en magnesium typisch voor de thuisregio.",
+  "styleComparison": "Een dieper moutkarakter met meer karamel, toffee, en chocoladesmaken en donkerdere kleur onderscheidt deze bieren van Flanders Red Ale. De Oud Bruin is minder azijnzuur en moutiger dan een Flanders Red, en de fruitige smaken zijn meer moutgericht. In moderne tijden heeft Oud Bruin ook de neiging om hoger in alcohol te zijn dan typisch gezien wordt in Flanders Red Ales. Verschilt van Lambiek doordat ze niet spontaan gefermenteerd zijn, en geen tarwe bevatten.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.04,
+      "max": 1.074
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 20,
+      "max": 25
+    },
+    "srm": {
+      "min": 17.0,
+      "max": 22.0
+    },
+    "abv": {
+      "min": 4.0,
+      "max": 8.0
+    }
+  },
+  "commercialExamples": [
+    "Ichtegem Oud Bruin",
+    "Liefmans Goudenband",
+    "Liefmans Oud Bruin",
+    "Petrus Roodbruin",
+    "pFriem Oud Bruin",
+    "VanderGhinste Roodbruin"
+  ],
+  "tags": [
+    "standard-strength",
+    "dark-color",
+    "top-fermented",
+    "westerneurope",
+    "traditional-style",
+    "malty",
+    "sour"
+  ]
+}

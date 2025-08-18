@@ -1,0 +1,53 @@
+{
+  "category": "22",
+  "subcategory": "D",
+  "name": "Wheatwine",
+  "overallImpression": "Een rijk getextureerd, hoogalcoholisch nipbier met een significante graanachtige, broodachtige smaak en een elegante body. De nadruk ligt primair op de broodachtige, tarweachtige smaken met mout-, hop-, fruitige gist- en alcoholcomplexiteit.",
+  "aroma": "Hoparoma is mild en kan vrijwel elke hopvariëteit vertegenwoordigen. Matig tot matig-sterk broodachtig, tarweachtig moutkarakter, vaak met aanvullende moutcomplexiteit zoals honing en karamel. Een licht, clean alcoholaroma kan worden opgemerkt. Lage tot matige fruitige tonen kunnen waarneembaar zijn. Zeer lage diacetyl optioneel. Banaan-en-kruidnagel Weizen gistkarakter is ongepast.",
+  "appearance": "Kleur variërend van goud tot diep amber, vaak met granaat- of robijnaccenten. Lage tot matige gebroken witte schuimkraag. De schuimkraag kan een romige textuur hebben en goede retentie. Troebeling door koude is toelaatbaar, maar klaart meestal op naarmate het bier warmer wordt. Hoog alcohol en viscositeit kunnen zichtbaar zijn als benen.",
+  "flavor": "Matige tot matig-hoge broodachtige tarwemoutsmaak, dominant in de smaakbalans boven elk hopkarakter. Lage tot matige geroosterde, karamel-, biscuit- of honingmoutnoten kunnen een welkome complexiteit toevoegen, maar zijn niet vereist. Lage tot matige hopsmaak, elke variëteit weergevend. Matige tot matig-hoge fruitigheid, vaak met een gedroogd-fruit karakter. Lage tot matige bitterheid, creërend een moutige tot evenwichtige balans. Mag niet stroperig of onder-vergist zijn.",
+  "mouthfeel": "Matig-vol tot volle body. Kauwbaar, vaak met een weelderige, fluweelachtige textuur. Laag tot matig koolzuur. Lichte tot matige gladde alcoholwarmte optioneel.",
+  "comments": "Veel van de kleur ontstaat door een langdurige kook. Sommige commerciële voorbeelden kunnen sterker zijn dan de Vitale Statistieken.",
+  "history": "Een Amerikaanse craft bierstijl die voor het eerst werd gebrouwen bij Rubicon Brewing Company in 1988. Meestal een winter seizoensbier, vintage of eenmalige release.",
+  "characteristicIngredients": "Typisch gebrouwen met een combinatie van Amerikaanse two-row en Amerikaanse tarwe. Stijl gebruikt gewoonlijk 50% of meer tarwemout. Terughoudend gebruik van donkere mouten. Elke hopvariëteit mag worden gebruikt. Kan eiken-gerijpt zijn.",
+  "styleComparison": "Meer dan simpelweg een tarwe-gebaseerde Barleywine, veel versies hebben zeer expressieve fruitige en hoppige tonen, terwijl anderen complexiteit ontwikkelen door eikenrijping. Minder nadruk op de hop dan American Barleywine. Heeft wortels in American Wheat Beer in plaats van een Duitse tarwestijl, dus mag geen Weizen gistkarakter hebben.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.08,
+      "max": 1.12
+    },
+    "fg": {
+      "min": 1.016,
+      "max": 1.03
+    },
+    "ibu": {
+      "min": 30,
+      "max": 60
+    },
+    "srm": {
+      "min": 6.0,
+      "max": 14.0
+    },
+    "abv": {
+      "min": 8.0,
+      "max": 12.0
+    }
+  },
+  "commercialExamples": [
+    "The Bruery White Oak",
+    "Castelain Winter Ale",
+    "Perennial Heart of Gold",
+    "Two Brothers Bare Tree"
+  ],
+  "tags": [
+    "very-high-strength",
+    "amber-color",
+    "top-fermented",
+    "northamerica",
+    "craft-style",
+    "strong-ale-family",
+    "wheat-beer-family",
+    "balanced",
+    "hoppy BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

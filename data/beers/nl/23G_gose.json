@@ -1,0 +1,52 @@
+{
+  "category": "23",
+  "subcategory": "G",
+  "name": "Gose",
+  "overallImpression": "Een zure, licht bittere historische Centraal-Europese tarwebier met een kenmerkend maar ingetogen zout- en korianderkarakter. Zeer verfrissend, met een droge afdronk, hoog koolzuurgehalte en heldere smaken.",
+  "aroma": "Licht tot matig fruitig aroma van kernfruit. Lichte zuurheid, enigszins scherp. Merkbare koriander, die een aromatische citroenkwaliteit kan hebben, en een intensiteit tot matig. Licht broodachtig, deegachtig, gistachtig karakter zoals ongekookt zuurdesembrood. De zuurheid en koriander kunnen een heldere, levendige indruk geven. Het zout kan worden waargenomen als een zeer licht, schoon zeebries karakter of gewoon een algemene frisheid, indien überhaupt merkbaar.",
+  "appearance": "Ongefilterd, met een matige tot volledige troebeling. Matig tot hoog wit schuim met strakke bellen en goede retentie. Bruisend. Gele kleur.",
+  "flavor": "Merkbare zuurheid, middellaag tot middelhoog. Matige broodachtige of deegachtige moutsmaak. Licht tot matig fruitig karakter van kernfruit, steenfruit of citroenen. Licht tot matig zoutkarakter, tot aan de smaakdrempel; het zout moet merkbaar zijn (vooral in de eerste smaak) maar niet openlijk zout smaken. Zeer lage bitterheid. Geen hopsmaak. Droge, volledig vergiste afdronk, met zuurheid die de mout balanceert, niet hop. Zuurheid kan meer merkbaar zijn in de afdronk en het verfrissende karakter van het bier versterken. De zuurheid moet gebalanceerd zijn, niet op de voorgrond (hoewel historische versies zeer zuur konden zijn). Geen THP.",
+  "mouthfeel": "Hoog tot zeer hoog koolzuurgehalte. Bruisend. Middelllicht tot middelvol lichaam. Zout kan een enigszins tintelend, mondwatering makend karakter geven en een ronder, dikker mondgevoel. Gist en tarwe kunnen ook wat lichaam toevoegen, maar zouden niet zwaar moeten aanvoelen vanwege de verdunnende effecten van zuurheid.",
+  "comments": "Historische versies kunnen zuurder zijn geweest dan moderne voorbeelden vanwege spontane fermentatie, en kunnen worden gemengd met siropen zoals gedaan wordt met Berliner Weisse, of met karwijlikeur. Moderne voorbeelden worden geënt met Lacto, en zijn meer gebalanceerd en hebben over het algemeen geen zoeting nodig. Uitgesproken als GOH-zeh.",
+  "history": "Kleine stijl geassocieerd met Leipzig maar ontstaan in de Middeleeuwen in de stad Goslar aan de rivier de Gose. Gedocumenteerd dat het in 1740 in Leipzig was. Van Leipzig werd gezegd dat het in 1900 80 Gose-huizen had. De productie daalde aanzienlijk na WOII en stopte volledig in 1966. Moderne productie werd in de jaren 1980 in Duitsland hervat, maar het bier was niet wijdverspreid beschikbaar. Werd recent populair buiten Duitsland als herlevingsstijl, en wordt vaak gebruikt als basisstijl voor gefruite zure bieren en andere Specialty-Type bieren.",
+  "characteristicIngredients": "Pilsner en tarwemout, ingetogen gebruik van zout en korianderzaad, Lacto. De koriander moet een frisse, citrusachtige (citroen of bittere sinaasappel), heldere toon hebben, en niet vegetaal, selderijachtig of hamachtig zijn. Het zout moet een zeezout of vers zoutkarakter hebben, geen metaalachtig, jodiumtoon.",
+  "styleComparison": "Waargenomen zuurheid is niet zo intens als Berliner Weisse of Gueuze. Ingetogen gebruik van zout, koriander en Lacto - mag niet openlijk zout smaken. Korianderaroma kan vergelijkbaar zijn met een Witbier. Troebeling vergelijkbaar met een Weissbier.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.036,
+      "max": 1.056
+    },
+    "fg": {
+      "min": 1.006,
+      "max": 1.01
+    },
+    "ibu": {
+      "min": 5,
+      "max": 12
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 4.0
+    },
+    "abv": {
+      "min": 4.2,
+      "max": 4.8
+    }
+  },
+  "commercialExamples": [
+    "Anderson Valley Gose",
+    "Bayerisch Bahnhof Leipziger Gose",
+    "Original Ritterguts Gose",
+    "Westbrook Gose"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermented",
+    "centraleurope",
+    "historical-style",
+    "wheat-beer-family",
+    "sour",
+    "spice BJCP Beer Style Guidelines – 2021 Edition"
+  ]
+}

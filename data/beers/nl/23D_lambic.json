@@ -1,0 +1,72 @@
+{
+  "category": "23",
+  "subcategory": "D",
+  "name": "Lambic",
+  "overallImpression": "Een redelijk zuur, vaak matig funky, wild Belgisch tarwebier waarbij de zuurheid de plaats inneemt van hopbitterheid in de balans. Traditioneel geserveerd zonder koolzuur als café-drankje.",
+  "aroma": "Jonge versies kunnen behoorlijk zuur en fruitig zijn, maar kunnen met de tijd een boerderij-, aardse, geitige, hooi-, paardenachtige of paardendeken-funkiness ontwikkelen. Het fruitkarakter kan een licht citrusfruit-, citrusschil-, steenfruit- of rabarber-kwaliteit aannemen, die complexer wordt met de leeftijd. Mout kan een lichte broodachtige, graanachtige, honing- of tarwe-achtige kwaliteit hebben, indien waarneembaar. Mag geen enterische, rokerige, sigaarachtige of kaasachtige gebreken hebben. Geen hop.",
+  "appearance": "Bleekgeel tot diep goudkleurig; leeftijd heeft de neiging het bier donkerder te maken. Helderheid is troebel tot goed. Jongere versies zijn vaak troebel, terwijl oudere over het algemeen helder zijn. Witgekleurde schuimkraag heeft over het algemeen slechte retentie.",
+  "flavor": "Jonge versies hebben vaak een sterke melkzuurzuurheid met fruitige smaken (zelfde beschrijvingen als aroma), terwijl gerijpte versies meer gebalanceerd en complex zijn. Funky tonen kunnen zich in de tijd ontwikkelen, zelfde beschrijvingen als aroma. Lage broodachtige, graanachtige mout. Bitterheid over het algemeen onder de sensorische drempel; zuurheid zorgt voor de balans. Geen hopsmaak. Droge afdronk, toenemend met de leeftijd. Mag geen enterische, rokerige, sigaarachtige of kaasachtige gebreken hebben.",
+  "mouthfeel": "Licht tot middellicht lichaam; mag niet waterig zijn. Heeft een middel tot hoge scherpe, samentrekkende kwaliteit zonder scherp samentrekkend te zijn. Traditionele versies zijn vrijwel tot volledig zonder koolzuur, maar gebottelde voorbeelden kunnen met de tijd matig koolzuur opnemen.",
+  "comments": "Een enkelvoudige batch, ongemengd bier, dat het huiskarakter van de brouwerij weergeeft. Over het algemeen jong geserveerd (6 maanden) uit het vat. Jongere versies hebben de neiging eendimensionaal zuur te zijn omdat een complex Brett-karakter een jaar of meer nodig heeft om zich te ontwikkelen. Een merkbaar azijnachtig of ciderachtig karakter wordt door Belgische brouwers als een gebrek beschouwd. Typisch alleen gebotteld wanneer volledig vergist. Lambic gezoet met ruwe suiker bij het serveren staat bekend als Faro.",
+  "history": "Spontaan gefermenteerde 'wilde' bieren uit het gebied in en rond Brussel (ook bekend als het Sennedal en het Pajottenland) stammen uit een boerderijbrouwtraditie van enkele eeuwen oud. BJCP Beer Style Guidelines – 2021 Edition Karakteristieke Ingrediënten: Pilsner mout, ongemout tarwe. Gerijpte hop (3+ jaar) meer gebruikt als conserveermiddel dan voor bitterheid. Spontaan gefermenteerd met natuurlijk voorkomende gist en bacteriën in goed gebruikte, neutrale eiken vaten.",
+  "characteristicIngredients": "Pilsner mout, ongemout tarwe. Gerijpte hop (3+ jaar) meer gebruikt als conserveermiddel dan voor bitterheid. Spontaan gefermenteerd met natuurlijk voorkomende gist en bacteriën in goed gebruikte, neutrale eiken vaten.",
+  "styleComparison": "Heeft vaak een eenvoudigere zuurheid en minder complexiteit dan een Gueuze, maar meer variabiliteit van batch tot batch. Traditioneel geserveerd zonder koolzuur uit kannen, terwijl Gueuze gebotteld is en zeer sterk gekoolzuurd.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.04,
+      "max": 1.054
+    },
+    "fg": {
+      "min": 1.001,
+      "max": 1.01
+    },
+    "ibu": {
+      "min": 0,
+      "max": 10
+    },
+    "srm": {
+      "min": 3.0,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 5.0,
+      "max": 6.5
+    }
+  },
+  "commercialExamples": [
+    "Cantillon Grand Cru Bruocsella. In het Brussels gebied",
+    "hebben veel specialiteitencafés tap-lambic van Boon",
+    "De Cam",
+    "Cantillon",
+    "Drie Fonteinen",
+    "Lindemans",
+    "Timmermans",
+    "Girardin en anderen."
+  ],
+  "tags": [
+    "standaard-sterkte",
+    "lichte-kleur",
+    "wild-gefermenteerd",
+    "west-europa",
+    "traditionele-stijl",
+    "tarwebier-familie",
+    "zuur meer geschikt voor een breder publiek. Deze richtlijnen beschrijven het traditionele droge product. Karakteristieke Ingrediënten: Hetzelfde als Lambic",
+    "behalve dat een-",
+    "twee-",
+    "en drie jaar oude Lambics worden gemengd",
+    "daarna gerijpt. Stijlvergelijking: Complexer en meer gekoolzuurd dan een Lambic. De zuurheid is niet noodzakelijk sterker",
+    "maar heeft de neiging meer van een goed ontwikkeld wild karakter te hebben. Vitale Statistieken: OG: 1.040 – 1.054 IBUs: 0 – 10 FG: 1.000 – 1.006 SRM: 5 – 6 ABV: 5.0 – 8.0% Commerciële Voorbeelden: 3 Fonteinen Oud Gueuze",
+    "Cantillon Classic Gueuze 100% Lambic",
+    "Girardin Gueuze 1882 (Zwart label)",
+    "Hanssens Oude Gueuze",
+    "Lindemans Gueuze Cuvée René",
+    "Oude Gueuze Boon Tags: hoge-sterkte",
+    "lichte-kleur",
+    "wild-gefermenteerd",
+    "west-europa",
+    "traditionele-stijl",
+    "tarwebier-familie",
+    "gerijpt",
+    "zuur"
+  ]
+}

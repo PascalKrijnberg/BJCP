@@ -1,0 +1,53 @@
+{
+  "category": "22",
+  "subcategory": "B",
+  "name": "American Strong Ale",
+  "overallImpression": "Een moutig, bitter en sterk Amerikaans Ale dat past tussen American Barleywine, Double IPA en Red IPA. De moutige en hoppige smaken kunnen behoorlijk sterk zijn, maar staan over het algemeen in balans.",
+  "aroma": "Gemiddeld tot hoog hoparoma met typisch moderne Amerikaanse of Nieuwe Wereld hopkenmerken zoals citrus, bloemig, dennen, harzig, kruidig, tropisch fruit, steenfruit, bes of meloen. Gemiddelde tot gedurfde moutigheid die het hopprofiel ondersteunt, met gemiddelde tot donkere karamel gebruikelijk, toast of brood mogelijk, en achtergrondtonen van lichte roast of chocolade toegestaan. Neutraal tot gematigd fruitig gistingsprofiel. Alcohol kan merkbaar zijn, maar mag niet oplosmiddelachtig zijn.",
+  "appearance": "Gemiddeld amber tot diep koper of lichtbruin. Gemiddeld-laag tot gemiddeld groot gebroken wit tot licht getint schuim; kan lage schuimretentie hebben. Goede helderheid. Benen mogelijk.",
+  "flavor": "Gemiddelde tot hoge mout, met een karamel, toffee of donkere vruchtkwaliteit. Moutcomplexiteit kan aanvullende toastige, broodachtige of rijke smaken ter ondersteuning bevatten. Lichte chocolade of roast toegestaan, maar mag niet verbrand of scherp zijn. Gemiddeld-hoge tot hoge bitterheid. Gemiddelde tot hoge hopsmaak, zelfde beschrijvingen als aroma. Lage tot gemiddelde esters. Kan een merkbare alcoholsmaak hebben, maar mag niet scherp zijn. Gemiddelde tot hoge moutige zoetheid op het gehemelte, eindigend enigszins droog tot enigszins zoet. Mag niet stroperig, zoet of kleverig zijn. Bittere tot bitterzoete afdronk, met hop, mout en alcohol merkbaar.",
+  "mouthfeel": "Gemiddelde tot volle body. Een alcoholwarmte kan aanwezig zijn, maar mag niet excessief heet zijn. Lichte hopadstringentie toegestaan. Gemiddeld-laag tot gemiddeld koolzuur.",
+  "comments": "Een vrij brede stijl die bieren beschrijft die op verschillende manieren gelabeld zijn, inclusief moderne Double Red Ales en andere sterke, moutige maar hoppige bieren die niet helemaal in de Barleywine klasse vallen. Divers genoeg om te includeren wat gezien kan worden als een sterke American Amber Ale met ruimte voor sterkere versies van andere Amerikaanse Ale stijlen.",
+  "history": "Terwijl moderne craft versies ontwikkeld werden als 'imperial' sterkte versies van Amerikaanse amber of rode ales, heeft de stijl veel gemeen met historische Amerikaanse Stock Ales. Sterke, moutige bieren werden zwaar gehopt om te bewaren als voorraadbrieren voor de Drooglegging. Er is geen continue erfenis van het brouwen van stock ales op deze manier, maar de gelijkenis is aanzienlijk (zij het zonder het verouderingskarakter).",
+  "characteristicIngredients": "Lichte basismout. Gemiddelde tot donkere kristalmout gebruikelijk. Amerikaanse of Nieuwe Wereld hop. Neutrale of licht fruitige gist.",
+  "styleComparison": "Over het algemeen niet zo sterk en rijk als een American Barleywine. Meer mout gebalanceerd dan een American of Double IPA. Meer Amerikaanse hopintensiteit dan een British Strong Ale. Moutiger en vollerlichtig dan een Red IPA.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.062,
+      "max": 1.09
+    },
+    "fg": {
+      "min": 1.014,
+      "max": 1.024
+    },
+    "ibu": {
+      "min": 50,
+      "max": 100
+    },
+    "srm": {
+      "min": 7.0,
+      "max": 18.0
+    },
+    "abv": {
+      "min": 6.3,
+      "max": 10.0
+    }
+  },
+  "commercialExamples": [
+    "Arrogant Bastard Ale",
+    "Fat Head's Bone Head",
+    "Great Lakes Nosferatu",
+    "Oskar Blues G'Knight",
+    "Port Brewing Shark Attack Double Red Ale"
+  ],
+  "tags": [
+    "high-strength",
+    "amber-color",
+    "top-fermented",
+    "northamerica",
+    "craft-style",
+    "strong-ale-family",
+    "bitter",
+    "hoppy BJCP Beer Style Guidelines – 2021 Edition 43"
+  ]
+}

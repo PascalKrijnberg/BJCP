@@ -1,0 +1,53 @@
+{
+  "category": "24",
+  "subcategory": "A",
+  "name": "Witbier",
+  "overallImpression": "Een licht, troebel Belgisch tarwebier met kruiden die het gistkarakter accentueren. Een delicate, licht gekruide ale van gemiddelde sterkte die een verfrissende zomerdrink is met zijn hoge koolzuur, droge afdronk en lichte hop.",
+  "aroma": "Gematigde broodachtige moutigheid, vaak met lichte noten van honing of vanille. Lichte graanachtige, kruidige tarwe-aromaten. Gematigde parfumachtig-citroenschil koriander, vaak met een complexe kruidig, pikante of peperachtige noot op de achtergrond. Gematigde pittige, citrusachtig-sinaasappelige fruitigheid. Een laag kruidig-kruidachtig hop-aroma is optioneel, maar doorgaans afwezig. Kruiden moeten zich vermengen met fruitige, bloemige en zoete aroma's en mogen niet te sterk zijn.",
+  "appearance": "Zeer licht stroogeel tot diep geel van kleur. Het bier zal zeer troebel zijn door zetmeelwaas of gist, wat het een melkachtige, witachtig-gele glans geeft. Dicht, wit, schuimig schuim. Schuimretentie moet behoorlijk goed zijn.",
+  "flavor": "Aangename broodachtige, graanachtige moutsmaak, vaak met een honing- of vanillekarakter. Gematigde pittige, sinaasappel-citrusachtige fruitigheid. Kruidig-kruidige smaken, die citroenschil koriander en andere kruiden kunnen bevatten, zijn gebruikelijk en moeten subtiel en gebalanceerd zijn, niet overweldigend. Een kruidig-aardse hopsmaak kan laag tot afwezig zijn, en overschaduwt nooit de kruiden. Hopbitterheid is laag tot middelmatig-laag, en ondersteunt de verfrissende smaken van fruit en kruiden. Verfrissend fris met een droge afdronk, en geen bittere of harde nasmaak.",
+  "mouthfeel": "Middelmatig-licht tot middelmatig lichaam, vaak met een gladheid en lichte romigheid. Bruisend karakter door hoog koolzuur. Verfrissend, door koolzuur, droogheid en gebrek aan bitterheid in de afdronk. Geen hardheid of samentrekking. Mag niet te droog en dun zijn, noch dik en zwaar.",
+  "comments": "Historische versies kunnen enige melkzurigheid hebben gehad, maar dit is afwezig in verse moderne versies. Kruiding heeft enige variatie, maar mag niet overdreven zijn. Koriander van bepaalde oorsprong of leeftijd kan een ongepast ham- of selderijkarakter geven. Het bier heeft de neiging bederfelijk te zijn, dus jongere, versere, goed behandelde voorbeelden zijn het meest wenselijk. Een indruk van zoetheid is vaak te wijten aan lage bitterheid, niet aan restsuiker. De meeste voorbeelden lijken ongeveer 5% ABV te zijn.",
+  "history": "Een van een groep middeleeuwse Belgische witte bieren uit de Leuvense regio, het stierf uit in 1957 en werd later nieuw leven ingeblazen in 1966 door Pierre Celis bij wat Hoegaarden werd. Nadat Hoegaarden werd overgenomen door Interbrew, groeide de stijl snel en inspireerde vele vergelijkbare producten die terug te voeren zijn op de Celis-recreatie van de stijl, niet die uit voorbije eeuwen.",
+  "characteristicIngredients": "Ongemout tarwe (30-60%), de rest lichtgekleurde gerstemout. Sommige versies gebruiken tot 5-10% rauwe haver of andere ongemoutte graangranen. Traditioneel gebruikt korianderzaad en gedroogde Curaçao sinaasappelschil. Andere geheime kruiden worden beweerd gebruikt te worden in sommige versies, evenals zoete sinaasappelschillen. Milde fruitig-kruidige Belgische ale-gist.",
+  "styleComparison": "Laag bitterniveau met een balans vergelijkbaar met een Weissbier, maar met kruidig en citruskarakter dat meer komt van toevoegingen dan van de gist.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.044,
+      "max": 1.052
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 8,
+      "max": 20
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 4.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 5.5
+    }
+  },
+  "commercialExamples": [
+    "Allagash White",
+    "Blanche de Bruxelles",
+    "Celis White",
+    "Hoegaarden White",
+    "Ommegang Witte",
+    "St. Bernardus Wit"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "top-fermented",
+    "westerneurope",
+    "traditional-style",
+    "wheat-beer-family",
+    "spice"
+  ]
+}

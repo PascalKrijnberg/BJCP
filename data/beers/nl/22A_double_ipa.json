@@ -1,0 +1,54 @@
+{
+  "category": "22",
+  "subcategory": "A",
+  "name": "Double IPA",
+  "overallImpression": "Een intensief gehopt, redelijk sterk, bitter licht bier zonder de grote, rijke, complexe moutigheid, restzoet en body van een American Barleywine. Sterk gehopt, maar schoon, droog en zonder hardheid. Ondanks het tonen van zijn sterkte is drinkbaarheid een belangrijke overweging.",
+  "aroma": "Een prominente tot intense hoparoma die doorgaans moderne Amerikaanse of Nieuwe Wereld hopkenmerken toont zoals citrus, bloemig, dennen, hars, kruidig, tropisch fruit, steenfruit, bes of meloen. Een ondersteunende, schone, neutrale tot graanachtige moutigheid kan op de achtergrond worden aangetroffen. Neutraal tot licht fruitig gistingsprofiel. Alcohol kan worden opgemerkt, maar mag niet oplosmiddelachtig zijn.",
+  "appearance": "Goud tot licht oranje-koperkleur, maar de meeste moderne versies zijn vrij licht. Goede helderheid, hoewel een beetje troebeling acceptabel is. Matig-grote, persistente, witte tot gebroken witte schuimkraag.",
+  "flavor": "Sterke en complexe hopsmaak (zelfde beschrijvingen als aroma). Matig hoge tot zeer hoge bitterheid, maar mag niet hard zijn. Laag tot medium ondersteunend, schoon, zacht, onopvallend moutkarakter; kan lichte karamel- of toastsmaken hebben. Droge tot medium-droge afdronk, niet zoet of zwaar, met een aanhoudende hoppige, bittere nasmaak. Laag tot matige fruitigheid optioneel. Een lichte, schone, gladde alcoholsmaak is toegestaan.",
+  "mouthfeel": "Medium-licht tot medium body, met een gladde textuur. Medium tot medium-hoog koolzuur. Geen harde hop-afgeleide wrangheid. Ingehouden, gladde alcoholwarmte acceptabel.",
+  "comments": "Zelden Imperial IPA genoemd. Veel moderne versies hebben meerdere dry-hop toevoegingen.",
+  "history": "Een Amerikaanse craft beer innovatie die voor het eerst werd ontwikkeld in het midden tot einde van de jaren 1990 als een intensere versie van American IPA. Werd meer mainstream en populair gedurende de jaren 2000, en inspireerde verdere IPA creativiteit. Russian River Pliny the Elder, voor het eerst gebrouwen in 2000, hielp de stijl populair maken.",
+  "characteristicIngredients": "Neutrale basismout. Suiker hulpstoffen gebruikelijk. Crystal mouten zeldzaam. Amerikaanse of Nieuwe Wereld hop. Neutrale of licht fruitige gist. Geen eik.",
+  "styleComparison": "Groter dan Engelse en Amerikaanse IPA's in alcoholsterkte, bitterheid en hoppigheid. Minder mout-rijk, minder body, droger, en met een groter algeheel hopevenwicht dan American Barleywine.",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.065,
+      "max": 1.085
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.018
+    },
+    "ibu": {
+      "min": 60,
+      "max": 100
+    },
+    "srm": {
+      "min": 6.0,
+      "max": 14.0
+    },
+    "abv": {
+      "min": 7.5,
+      "max": 10.0
+    }
+  },
+  "commercialExamples": [
+    "Columbus Brewing Bohdi",
+    "Fat Head's Hop Juju",
+    "Port Brewing Hop-15",
+    "Russian River Pliny the Elder",
+    "Stone Ruination Double IPA 2.0",
+    "Wicked Weed Freak of Nature"
+  ],
+  "tags": [
+    "very-high-strength",
+    "pale-color",
+    "top-fermented",
+    "northamerica",
+    "craft-style",
+    "ipa-family",
+    "bitter",
+    "hoppy"
+  ]
+}

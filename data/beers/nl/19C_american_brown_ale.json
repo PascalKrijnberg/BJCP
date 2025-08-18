@@ -2,15 +2,15 @@
   "category": "19",
   "subcategory": "C",
   "name": "American Brown Ale",
-  "overallImpression": "Een moutig maar hopperig bier van standaard sterkte met vaak chocolade- en karamelsmaken. Het hopkarakter en aroma vullen de mout aan en versterken deze, in plaats van ermee te botsen.",
-  "aroma": "Gematigd moutig-zoet tot moutig-rijk aroma met chocolade, karamel, notige of geroosterde kwaliteiten. Hoparoma is typisch laag tot gematigd, van bijna elk type dat de mout aanvult. Sommige interpretaties van de stijl kunnen optioneel een sterker hoparoma bevatten, een Amerikaans of Nieuwe Wereld hopkarakter (citrusachtig, fruitig, tropisch, enz.), of een dry-hop aroma. Fruitige esters zijn gematigd tot zeer laag. Het donkere moutkarakter is robuuster dan andere brown ales, maar blijft onder het niveau van overdreven Porter-achtigheid.",
-  "appearance": "Lichtbruin tot zeer donkerbruin van kleur. Helder. Laag tot gematigd gebroken wit tot lichtbruine schuimkraag.",
-  "flavor": "Gemiddelde tot gematigd hoge moutig-zoete of moutig-rijke smaak met chocolade, karamel, notige of geroosterde moutcomplexiteit, met gemiddelde tot gemiddeld hoge bitterheid. Gemiddelde tot gemiddeld droge afdronk met een nasmaak van zowel mout als hop. Lichte tot gematigde hopsmaak, soms citrusachtig, fruitig of tropisch, hoewel elke hopsmaak die de mout aanvult acceptabel is. Zeer lage tot gematigde fruitige esters. De mout en hop zijn over het algemeen gelijk in intensiteit, maar de balans kan in beide richtingen variëren. Mag geen geroosterd karakter hebben dat doet denken aan een Porter of Stout.",
-  "mouthfeel": "Gemiddelde tot gemiddeld volle body. Bitterder versies kunnen een droge, harsachtige indruk hebben. Gematigd tot gematigd hoog koolzuur. Sterkere versies kunnen licht verwarmend zijn.",
-  "comments": "De meeste commerciële Amerikaanse Browns zijn niet zo agressief als de oorspronkelijke zelfgebrouwen versies, en sommige moderne craft-gebrouwen voorbeelden. Deze stijl reflecteert de huidige commerciële aanbiedingen die typisch als American Brown Ales op de markt worden gebracht, in plaats van de hopperigere, sterkere thuisbrouwversies uit de vroege dagen van het thuisbrouwen. Deze IPA-sterkte brown ales moeten worden ingeschreven als 21B Specialty IPA: Brown IPA.",
-  "history": "Een Amerikaanse stijl uit het vroege moderne craft beer tijdperk. Afgeleid van Engelse Brown Ales, maar met meer hop. Pete's Wicked Ale (1986) definieerde de stijl, die voor het eerst werd beoordeeld op het Great American Beer Festival in 1992.",
-  "characteristicIngredients": "Pale malt, plus crystal en donkerdere mouten (typisch chocolademout). Amerikaanse hop is typisch, maar continentale of Nieuwe Wereld hop kan ook worden gebruikt.",
-  "styleComparison": "Meer chocolade en karamelsmaken dan American Pale of Amber Ales, typisch met minder prominente bitterheid in de balans. Minder bitterheid, alcohol en hopkarakter dan Brown IPA's. Bitterder en over het algemeen hopperiger dan Engelse Brown Ales, met een rijkere moutpresentie, gewoonlijk hoger alcohol, en Amerikaans of Nieuwe Wereld hopkarakter.",
+  "overallImpression": "Een moutig maar hoppig Amerikaans bier van standaardsterkte, vaak met chocolade- en karamelsmaken. De hopsmaak en het hoparoma vullen de mout aan en versterken deze, in plaats van ermee te botsen.",
+  "aroma": "Matig moutig-zoet tot moutig-rijk aroma met chocolade-, karamel-, nootachtige of geroosterde kwaliteiten. Hoparoma is doorgaans laag tot matig, van vrijwel elk type dat de mout aanvult. Sommige interpretaties van de stijl kunnen optioneel een sterker hoparoma bevatten, een Amerikaans of Nieuwe Wereld hopkarakter (citrusachtig, fruitig, tropisch, enz.), of een dry-hop aroma. Fruitige esters zijn matig tot zeer laag. Het donkere moutkarakter is robuuster dan bij andere bruine bieren, maar blijft onder het niveau van een Porter-achtig karakter.",
+  "appearance": "Licht- tot zeer donkerbruine kleur. Helder. Laag tot matig gebroken wit tot lichtbruine schuimkraag.",
+  "flavor": "Medium tot matig-hoge moutig-zoete of moutig-rijke smaak met chocolade-, karamel-, nootachtige of geroosterde moutcomplexiteit, met medium tot medium-hoge bitterheid. Medium tot medium-droge afdronk met een nasmaak van zowel mout als hop. Lichte tot matige hopsmaak, soms citrusachtig, fruitig of tropisch, hoewel elke hopsmaak die de mout aanvult acceptabel is. Zeer laag tot matige fruitige esters. De mout en hop zijn over het algemeen gelijk in intensiteit, maar de balans kan in beide richtingen variëren. Mag geen geroosterd karakter hebben dat doet denken aan een Porter of Stout.",
+  "mouthfeel": "Medium tot medium-vol mondgevoel. Bitterder versies kunnen een droge, harsachtige indruk hebben. Matige tot matig-hoge koolzuur. Sterkere versies kunnen licht verwarmend zijn.",
+  "comments": "De meeste commerciële Amerikaanse bruine bieren zijn niet zo agressief als de oorspronkelijke zelfgebrouwen versies, en sommige moderne ambachtelijk gebrouwen voorbeelden. Deze stijl reflecteert de huidige commerciële aanbiedingen die doorgaans als American Brown Ales worden verkocht, in plaats van de hoppiger, sterkere zelfgebrouwen versies uit de vroege dagen van het thuisbrouwen. Deze bruine bieren van IPA-sterkte moeten worden ingeschreven als 21B Specialty IPA: Brown IPA.",
+  "history": "Een Amerikaanse stijl uit het vroege moderne ambachtelijke biertijdperk. Afgeleid van Engelse bruine bieren, maar met meer hop. Pete's Wicked Ale (1986) definieerde de stijl, die voor het eerst werd beoordeeld op het Great American Beer Festival in 1992.",
+  "characteristicIngredients": "Pale malt, plus kristal en donkerdere mouten (doorgaans chocolademout). Amerikaanse hop is typisch, maar continentale of Nieuwe Wereld hop kan ook worden gebruikt.",
+  "styleComparison": "Meer chocolade- en karamelsmaken dan American Pale of Amber Ales, doorgaans met minder prominente bitterheid in de balans. Minder bitterheid, alcohol en hopkarakter dan Brown IPA's. Bitterder en over het algemeen hoppiger dan Engelse bruine bieren, met een rijkere moutpresentie, meestal hoger alcoholgehalte, en Amerikaans of Nieuwe Wereld hopkarakter.",
   "vitalStatistics": {
     "og": {
       "min": 1.045,
@@ -31,13 +31,17 @@
     "abv": {
       "min": 4.3,
       "max": 6.2
+    },
+    "ebc": {
+      "min": 35,
+      "max": 69
     }
   },
   "commercialExamples": [
-    "Avery Ellie's Brown Ale",
+    "Avery Ellie’s Brown Ale",
     "Big Sky Moose Drool Brown Ale",
     "Brooklyn Brown Ale",
-    "Bell's Best Brown",
+    "Bell’s Best Brown",
     "Smuttynose Old Brown Dog Ale",
     "Telluride Face Down Brown"
   ],
@@ -48,7 +52,6 @@
     "northamerica",
     "craft-style",
     "brown-ale-family",
-    "balanced",
-    "hoppy BJCP Beer Style Guidelines – 2021 Edition 35"
+    "balanced"
   ]
 }

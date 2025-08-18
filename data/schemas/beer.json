@@ -76,7 +76,7 @@
     "vitalStatistics": {
       "type": "object",
       "description": "Numerical specifications for the beer style",
-      "required": ["og", "fg", "abv", "ibu", "srm"],
+      "required": ["og", "fg", "abv", "ibu", "srm", "ebc"],
       "properties": {
         "og": {
           "type": "object",
@@ -160,6 +160,23 @@
               "type": "number",
               "minimum": 1.0,
               "maximum": 50.0
+            }
+          }
+        },
+        "ebc": {
+          "type": "object",
+          "description": "European Brewery Convention color range",
+          "required": ["min", "max"],
+          "properties": {
+            "min": {
+              "type": "number",
+              "minimum": 2.0,
+              "maximum": 100.0
+            },
+            "max": {
+              "type": "number",
+              "minimum": 2.0,
+              "maximum": 100.0
             }
           }
         }

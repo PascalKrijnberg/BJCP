@@ -2,14 +2,14 @@
   "category": "14",
   "subcategory": "C",
   "name": "Scottish Export",
-  "overallImpression": "Een bier van gemiddelde sterkte en moutig karakter met lichte karamel-, toast-, toffee- en fruitsmaken. Een lichte geroosterde droogheid compenseert de restzoet in de afdronk, waarbij de bitterheid alleen waarneembaar is om te voorkomen dat het bier kleverig wordt.",
-  "aroma": "Gemiddelde moutigheid met karamel- en toffeetonen, en lichte geroosterde en suikerachtige kwaliteiten die kunnen doen denken aan geroosterde broodkruimels, lange vingers, Engelse biscuits, graham crackers of butterscotch. Lichte kernfruitigheid en licht Engels hoparoma (aards, bloemig, sinaasappel-citrus, kruidig, enz.) zijn toegestaan.",
-  "appearance": "Bleek koper tot bruin. Helder. Laag tot gemiddeld, romig gebroken wit schuim.",
-  "flavor": "Gemiddelde geroosterd-broodachtige mout met karamel- en toffeeondertonen, eindigend met een licht geroosterde droogheid. Een breed scala aan gekarameliseerde suiker- en geroosterde broodachtige smaken is mogelijk, met vergelijkbare beschrijvingen als het aroma. Zuivere moutigheid en gistingsprofiel. Lichte esters en hopsmaak zijn toegestaan (vergelijkbare beschrijvingen als aroma). Voldoende bitterheid om niet kleverig te zijn, maar met een moutige balans en nasmaak.",
-  "mouthfeel": "Gemiddelde body. Gemiddeld-laag tot gemiddeld koolzuur. Kan matig romig zijn.",
-  "comments": "Zie categorie-introductie voor gedetailleerde opmerkingen. Lijkt mogelijk minder bitter dan specificaties aangeven vanwege hogere eindgraviteit en restzoet. Interpreteer de lichte geroosterde droogheid niet verkeerd als rook; rook is niet aanwezig in deze bieren. Geamerikaniseerde versies zijn vaak sterker (vergelijkbaar met Amerikaanse behandeling van Irish Red Ales).",
-  "history": "Zie categorie-introductie. De Shilling ale namen werden gebruikt voor mild (ongerijpt) bier voor de Eerste Wereldoorlog, maar de stijlen kregen hun moderne vorm pas na de Tweede Wereldoorlog.",
-  "characteristicIngredients": "In de eenvoudigste vorm pale ale mout en gekleurde mout, maar kan ook suikers, maïs, tarwe, kristalmout, kleurstoffen en verschillende andere granen gebruiken. Zuivere gist. Zacht water. Geen turf-gerookte mout.",
+  "overallImpression": "Een bier van matige sterkte met moutige karakter en lichte caramel-, toast-, toffee- en fruitsmaken. Een lichte geroosterde droogheid compenseert de resterende zoetheid in de afdronk, waarbij de bitterheid alleen wordt waargenomen om te voorkomen dat het bier kleverig wordt.",
+  "aroma": "Gemiddelde moutigheid met caramel- en toffeetonen, en lichte getoaste en suikerachtige kwaliteiten die kunnen doen denken aan getoaste broodkruimels, lange vingers, Engelse biscuits, graham crackers of butterscotch. Lichte kernfruitigheid en licht Engels hoparoma (aards, bloemig, oranje-citrus, kruidig, enz.) zijn toegestaan.",
+  "appearance": "Bleek koper tot bruin. Helder. Laag tot matig, romig gebroken wit schuim.",
+  "flavor": "Gemiddeld getoast-broderig mout met caramel- en toffeetonen, eindigend met een licht geroosterde droogheid. Een breed scala aan gekarameliseerde suiker- en getoosterd broodachtige smaken is mogelijk, met vergelijkbare beschrijvingen als het aroma. Schone moutigheid en gistingsprofiel. Lichte esters en hopsmaak toegestaan (vergelijkbare beschrijvingen als aroma). Voldoende bitterheid om niet kleverig te zijn, maar met een moutige balans en nasmaak.",
+  "mouthfeel": "Gemiddeld mondgevoel. Gemiddeld-laag tot gemiddelde koolzuur. Kan matig romig zijn.",
+  "comments": "Zie categorie-introductie voor gedetailleerde opmerkingen. Lijkt mogelijk minder bitter dan specificaties aangeven vanwege hoger eindsoortelijk gewicht en resterende zoetheid. Interpreteer de lichte geroosterde droogheid niet verkeerd als rook; rook is niet aanwezig in deze bieren. Geamerikaniseerde versies zijn vaak sterker (vergelijkbaar met Amerikaanse behandeling van Irish Red Ales).",
+  "history": "Zie categorie-introductie. De Shilling ale-namen werden gebruikt voor mild (niet-gerijpt) bier vóór de Eerste Wereldoorlog, maar de stijlen kregen hun moderne vorm pas na de Tweede Wereldoorlog.",
+  "characteristicIngredients": "In de eenvoudigste vorm pale ale mout en gekleurd mout, maar kan ook suikers, maïs, tarwe, kristalmout, kleurstoffen en een verscheidenheid aan andere granen gebruiken. Schone gist. Zacht water. Geen veengerookt mout.",
   "styleComparison": "Zie categorie-introductie. Sterker dan andere Scottish Ales, maar met een vergelijkbaar smaakprofiel. Vergelijkbaar in sterkte met Best Bitter en Strong Bitter, maar met een ander smaakprofiel en balans.",
   "vitalStatistics": {
     "og": {
@@ -31,14 +31,18 @@
     "abv": {
       "min": 3.9,
       "max": 6.0
+    },
+    "ebc": {
+      "min": 23,
+      "max": 40
     }
   },
   "commercialExamples": [
     "Belhaven Scottish Ale",
     "Broughton Wee Jock 80 Shilling",
     "Caledonian Edinburgh Castle",
-    "McEwan's 80/-",
-    "McEwan's Export",
+    "McEwan’s 80/-",
+    "McEwan’s Export",
     "Traquair Bear Ale"
   ],
   "tags": [
@@ -47,7 +51,6 @@
     "top-fermented",
     "britishisles",
     "traditional-style",
-    "amber-ale-family",
-    "malty BJCP Beer Style Guidelines – 2021 Edition"
+    "amber-ale-family"
   ]
 }

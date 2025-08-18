@@ -2,15 +2,15 @@
   "category": "7",
   "subcategory": "A",
   "name": "Vienna Lager",
-  "overallImpression": "Een lager van gemiddelde sterkte uit continentaal Europa met een amberkleur, zachte, gladde moutigheid en een gebalanceerde, gematigde bitterheid, maar met een relatief droge afdronk. De moutsmaak is clean, broodrijk en enigszins geroosterd, met een elegante indruk afkomstig van kwaliteitsbasismouten en proces, niet van speciaalmout of hulpstoffen.",
-  "aroma": "Gematigd intense moutaroma, met geroosterde en moutrijke accenten. Een laag bloemig, kruidig hoparoma is optioneel. Clean lagerkarakter. Een significant karamel-, biscuit- of geroosterd aroma is ongepast.",
-  "appearance": "Licht roodachtig amber tot koperkleur. Heldere helderheid. Grote, gebroken witte, aanhoudende schuimkraag.",
-  "flavor": "Zachte, elegante moutcomplexiteit staat voorop, met een voldoende stevige hopbitterheid om een gebalanceerde afdronk te bieden. De moutsmaak neigt naar een rijk, geroosterd karakter, zonder significante karamel-, biscuit- of roostsmaak. Vrij droge, zachte afdronk, met zowel rijke mout als hopbitterheid aanwezig in de nasmaak. Een lage bloemige, kruidige of kruidige hopsmaak is optioneel. Clean gistingsprofiel.",
-  "mouthfeel": "Middelmatig licht tot middelmatig lichaam, met een zachte romigheid. Gematigd koolzuur. Glad.",
-  "comments": "Een bier van standaardsterkte voor dagelijks gebruik, geen bier gebrouwen voor festivals. Veel traditionele voorbeelden zijn zoeter en meer hulpstofrijk geworden, en lijken nu meer op International Amber of Dark Lagers.",
-  "history": "Ontwikkeld door Anton Dreher in Wenen in 1841, werd populair in het midden tot eind van de 19e eeuw. De stijl werd naar Mexico gebracht door Santiago Graf en andere Oostenrijkse immigrant-brouwers in de late 19e eeuw. Lijkt omarmd te worden als een moderne craft-stijl in andere landen.",
-  "characteristicIngredients": "Traditioneel hoogkwaliteit Vienna mout, maar kan ook Pils en Münchener mouten gebruiken. Traditionele continentale hop. Clean Duitse lagergist. Kan kleine hoeveelheden speciaalmout gebruiken voor kleur en zoetheid.",
-  "styleComparison": "Vergelijkbare moutsmaak als een Märzen, maar lichter in intensiteit en lichaam, met een vleugje meer bitterheid en droogheid in de balans. Lager in alcohol dan Märzen of Festbier. Minder rijk, moutig en hoppig dan Czech Amber Lager.",
+  "overallImpression": "Een lager van gemiddelde sterkte met continentale amber kleur, een zachte, soepele moutsmaak en een gebalanceerde, gematigde bitterheid, die echter relatief droog afrondt. De moutsmaak is zuiver, broodachtig-rijk en enigszins geroosterd, met een elegante indruk afkomstig van kwaliteitsbasismouten en proces, niet van specialiteitsmouten of toevoegingen.",
+  "aroma": "Gematigd intense moutaroma met geroosterde en moutrijke accenten. Een licht bloemig, kruidig hoparoma is optioneel. Zuiver lagerkarakter. Een uitgesproken karamel-, koek- of geroosterd aroma is ongepast.",
+  "appearance": "Licht roodachtig amber tot koperkleur. Heldere transparantie. Grote, gebroken witte, persistente schuimkraag.",
+  "flavor": "Zachte, elegante moutcomplexiteit staat voorop, met voldoende stevige hopbitterheid om een gebalanceerde afdronk te bieden. De moutsmaak neigt naar een rijk, geroosterd karakter, zonder uitgesproken karamel-, koek- of roostsmaken. Vrij droge, zachte afdronk, met zowel rijke mout als hopbitterheid aanwezig in de nasmaak. Een lichte bloemige, kruidig of kruidige hopsmaak is optioneel. Zuiver gistingsprofiel.",
+  "mouthfeel": "Licht-medium tot medium body, met een zachte romigheid. Gematigde koolzuur. Soepel.",
+  "comments": "Een bier van standaardsterkte voor dagelijks gebruik, geen bier gebrouwen voor festivals. Veel traditionele voorbeelden zijn zoeter en meer met toevoegingen beladen geworden, en lijken nu meer op International Amber of Dark Lagers.",
+  "history": "Ontwikkeld door Anton Dreher in Wenen in 1841, werd populair in het midden tot eind van de 19e eeuw. De stijl werd naar Mexico gebracht door Santiago Graf en andere Oostenrijkse immigrantbrouwers in het eind van de 19e eeuw. Lijkt omarmd te worden als moderne craft-stijl in andere landen.",
+  "characteristicIngredients": "Traditioneel Vienna mout van de beste kwaliteit, maar kan ook Pils en München mouten gebruiken. Traditionele continentale hop. Zuivere Duitse lagergist. Mag kleine hoeveelheden specialiteitsmouten gebruiken voor kleur en zoetheid.",
+  "styleComparison": "Vergelijkbare moutsmaak als een Märzen, maar lichter in intensiteit en body, met iets meer bitterheid en droogheid in de balans. Lager alcoholgehalte dan Märzen of Festbier. Minder rijk, moutig en hoppig dan Czech Amber Lager.",
   "vitalStatistics": {
     "og": {
       "min": 1.048,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 4.7,
       "max": 5.5
+    },
+    "ebc": {
+      "min": 17,
+      "max": 30
     }
   },
   "commercialExamples": [
@@ -39,7 +43,7 @@
     "Figueroa Mountain Red Lager",
     "Heavy Seas Cutlass",
     "Ottakringer Wiener Original",
-    "Schell's Firebrick",
+    "Schell’s Firebrick",
     "Theresianer Vienna"
   ],
   "tags": [

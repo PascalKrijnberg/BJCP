@@ -31,6 +31,10 @@
     "abv": {
       "min": 3.9,
       "max": 6.0
+    },
+    "ebc": {
+      "min": 23,
+      "max": 40
     }
   },
   "commercialExamples": [
@@ -47,7 +51,6 @@
     "top-fermented",
     "britishisles",
     "traditional-style",
-    "amber-ale-family",
-    "malty BJCP Beer Style Guidelines – 2021 Edition"
+    "amber-ale-family"
   ]
 }

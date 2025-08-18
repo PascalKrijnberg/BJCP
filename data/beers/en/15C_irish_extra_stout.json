@@ -31,6 +31,10 @@
     "abv": {
       "min": 5.0,
       "max": 6.5
+    },
+    "ebc": {
+      "min": 59,
+      "max": 79
     }
   },
   "commercialExamples": [
@@ -46,7 +50,6 @@
     "british-isles",
     "traditional-style",
     "stout-family",
-    "bitter",
-    "roasty BJCP Beer Style Guidelines – 2021 Edition"
+    "bitter"
   ]
 }

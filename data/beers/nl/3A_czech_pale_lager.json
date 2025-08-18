@@ -1,16 +1,16 @@
 {
   "category": "3",
   "subcategory": "A",
-  "name": "Tsjechisch Licht Lager",
-  "overallImpression": "Een lichter gebouwd, rijk, verfrissend, hoppig, bitter licht Tsjechisch lager met de vertrouwde smaken van het sterkere Tsjechisch Premium Licht Lager (Pilsner-type) bier, maar in een lager alcohol, lichter gebouwd en iets minder intense vorm.",
-  "aroma": "Licht tot matig broodachtig-rijk mout gecombineerd met licht tot matig kruidig of kruiden hopboeket; de balans tussen mout en hop kan variëren. Een vage hint van karamel is acceptabel. Lichte (maar nooit opdringerige) diacetyl en lichte, fruitige esters zijn optioneel. Geen zwavel.",
-  "appearance": "Lichtgeel tot diep gouden kleur. Helder tot zeer helder, met een langdurig, romig wit schuim.",
-  "flavor": "Matig-lage tot matige broodachtig-rijke moutsmaak met een afgeronde, hoppige afdronk. Lage tot matig-hoge kruidige of kruiden hopsmaak. Bitterheid is prominent maar nooit scherp. Smaakrijk en verfrissend. Lage diacetyl of fruitige esters zijn optioneel, maar mogen nooit overheersend zijn.",
-  "mouthfeel": "Matig-lichte tot matige body. Matig koolzuur.",
+  "name": "Czech Pale Lager",
+  "overallImpression": "Een lichter gebouwde, rijke, verfrissende, hoppige, bittere bleke Tsjechische lager met de vertrouwde smaken van het sterkere Czech Premium Pale Lager (Pilsner-type) bier, maar in een lager alcoholgehalte, lichter gebouwd en iets minder intens formaat.",
+  "aroma": "Licht tot matig broodachtig-rijke mout gecombineerd met een licht tot matig kruidig of kruidachtig hopboeket; de balans tussen mout en hop kan variëren. Een vage hint van karamel is acceptabel. Lichte (maar nooit opdringerige) diacetyl en lichte, fruitige esters zijn optioneel. Geen zwavel.",
+  "appearance": "Lichtgele tot diep gouden kleur. Helder tot zeer helder, met een langdurig, romig wit schuim.",
+  "flavor": "Matig-lage tot matige broodachtig-rijke moutsmaak met een afgeronde, hoppige afdronk. Lage tot matig-hoge kruidige of kruidachtige hopsmaak. Bitterheid is prominent maar nooit hard. Smaakrijk en verfrissend. Lage diacetyl of fruitige esters zijn optioneel, maar mogen nooit overheersend zijn.",
+  "mouthfeel": "Matig-licht tot matig mondgevoel. Matige koolzuur.",
   "comments": "De Tsjechische naam van de stijl is světlé výčepní pivo.",
-  "history": "Josef Groll brouwde aanvankelijk twee soorten licht bier in 1842-3, een výčepní en een ležák, waarbij het kleinere bier twee keer zoveel productie had; Evan Rail speculeert dat dit waarschijnlijk 10 °P en 12 °P bieren waren, maar dat de výčepní zwakker had kunnen zijn. Dit is het meest geconsumeerde type bier in de Tsjechische Republiek op dit moment.",
-  "characteristicIngredients": "Zacht water met laag sulfaat- en carbonaatgehalte. Traditionele Tsjechische hop. Tsjechische Pilsner mout. Tsjechische lagergist. Water met lage ionen zorgt voor een kenmerkend zacht, afgerond hopprofiel ondanks hoge hoppingratio's.",
-  "styleComparison": "Een lichter gebouwde, lagere intensiteit, verfrissende, dagelijkse versie van Tsjechisch Premium Licht Lager. BJCP Beer Style Guidelines – 2021 Edition Vital Statistics: OG: 1.028 – 1.044 IBUs: 20 – 35 FG: 1.008 – 1.014 SRM: 3 – 6 ABV: 3.0 – 4.1%",
+  "history": "Josef Groll brouwde aanvankelijk twee soorten bleek bier in 1842-3, een výčepní en een ležák, waarbij het kleinere bier tweemaal de productie had; Evan Rail speculeert dat dit waarschijnlijk 10 °P en 12 °P bieren waren, maar dat de výčepní zwakker had kunnen zijn. Dit is momenteel het meest geconsumeerde type bier in de Tsjechische Republiek.",
+  "characteristicIngredients": "Zacht water met laag sulfaat- en carbonaatgehalte. Traditionele Tsjechische hop. Tsjechische Pilsner mout. Tsjechische lagergist. Laag-ionwater zorgt voor een kenmerkend zacht, afgerond hopprofiel ondanks hoge hopgiften.",
+  "styleComparison": "Een lichter gebouwde, minder intense, verfrissende, alledaagse versie van Czech Premium Pale Lager. BJCP Beer Style Guidelines – 2021 Edition Vital Statistics: OG: 1.028 – 1.044 IBUs: 20 – 35 FG: 1.008 – 1.014 SRM: 3 – 6 ABV: 3.0 – 4.1%",
   "vitalStatistics": {
     "og": {
       "min": 1.028,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 3.0,
       "max": 4.1
+    },
+    "ebc": {
+      "min": 5,
+      "max": 12
     }
   },
   "commercialExamples": [

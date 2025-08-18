@@ -2,15 +2,15 @@
   "category": "9",
   "subcategory": "B",
   "name": "Eisbock",
-  "overallImpression": "Een sterke, volmondige, rijke en moutige donkere Duitse lager, vaak met een stroperige kwaliteit en krachtige smaken. Hoewel de smaken geconcentreerd zijn, moet de alcohol soepel en verwarmend zijn, niet brandend.",
-  "aroma": "Gedomineerd door rijke, intense mout en een duidelijke alcoholpresentie. De mout kan broodachtige, geroosterde kwaliteiten hebben, met wat karamel of zwakke chocolade, vaak met donkere fruitnoten zoals pruimen of druiven. Geen hoparoma. Alcoholaroma's mogen niet scherp of oplosmiddelachtig zijn. Schoon gistingsprofiel.",
-  "appearance": "Diepe koperkleur tot donkerbruin van kleur, vaak met aantrekkelijke robijnrode accenten. Goede helderheid. Schuimvastheid kan matig tot slecht zijn. Gebroken wit tot diep ivoorkleurige schuimkraag. Uitgesproken benen zijn vaak zichtbaar.",
-  "flavor": "Rijk, zoet mout gebalanceerd door een significante alcoholaanwezigheid. Het mout kan Maillard-producten, geroosterde kwaliteiten, wat karamel, en soms een lichte chocoladesmaak bevatten. Kan significante mout-afgeleide donkere fruitesters hebben. Hopbitterheid compenseert precies genoeg de moutzoetheid om een kleverig karakter te vermijden. Geen hopsmaak. Alcohol helpt de sterke moutaanwezigheid te balanceren. De afdronk moet rijk van mout zijn met een zekere droogheid door de alcohol. Het mag niet kleverig, stroperig of kleverig zoet zijn. Schoon fermentatieprofiel.",
-  "mouthfeel": "Volmondig tot zeer volmondig. Lage koolzuurgraad. Merkbare alcoholwarmte zonder scherpe hitte. Zeer glad en zijdeachtig zonder ruwe randen van alcohol, bitterheid, fuseloliën of andere geconcentreerde smaken.",
-  "comments": "Verlengde lagering is vaak nodig na het bevriezen om de alcohol te verzachten en de mout- en alcoholbalans te verbeteren. Uitgesproken als \"ICE-bock.\"",
-  "history": "Ontstaan in Kulmbach in Franconië aan het einde van de 19e eeuw, hoewel de exacte oorsprong niet bekend is. Fabels beschrijven het als afkomstig van bier dat per ongeluk bevroor in een brouwerij.",
-  "characteristicIngredients": "Hetzelfde als Doppelbock. Geproduceerd door het bevriezen van een doppelbock-achtig bier en het verwijderen van ijs (\"vriesdistillatie\"), waardoor smaak en alcohol worden geconcentreerd, evenals eventuele aanwezige gebreken. Commerciële eisbocks worden over het algemeen geconcentreerd van 7% tot 33% per volume.",
-  "styleComparison": "Eisbocks zijn niet simpelweg sterkere Doppelbocks; de naam verwijst naar het proces van bevriezen en concentreren van het bier, en is geen uitspraak over alcoholpercentage; sommige Doppelbocks zijn sterker dan Eisbocks. Niet zo dik, rijk of zoet als een Wheatwine.",
+  "overallImpression": "Een sterke, volle, rijke en moutige donkere Duitse lager, vaak met een stroperige kwaliteit en krachtige smaken. Hoewel de smaken geconcentreerd zijn, moet de alcohol soepel en verwarmend zijn, niet brandend.",
+  "aroma": "Gedomineerd door rijke, intense mout en een duidelijke alcoholpresentie. De mout kan broodachtige, geroosterde kwaliteiten hebben, met wat karamel of lichte chocolade, vaak met donkere fruitnoten zoals pruimen of druiven. Geen hoparoma. Alcoholaroma's mogen niet scherp of oplosmiddelachtig zijn. Schoon gistingsprofiel.",
+  "appearance": "Diep koperkleurig tot donkerbruin van kleur, vaak met aantrekkelijke robijnrode glans. Goede helderheid. Schuimretentie kan matig tot slecht zijn. Gebroken wit tot diep ivoorkleurig schuim. Uitgesproken benen zijn vaak zichtbaar.",
+  "flavor": "Rijke, zoete mout gebalanceerd door een significante alcoholpresentie. De mout kan Maillard-producten hebben, geroosterde kwaliteiten, wat karamel en af en toe een lichte chocoladesmaak. Kan significante mout-afgeleide donkere fruitesters hebben. Hopbitterheid compenseert de moutzoetheid net genoeg om een kleverig karakter te vermijden. Geen hopsmaak. Alcohol helpt de sterke moutpresentie te balanceren. De afdronk moet rijk van mout zijn met een zekere droogheid van de alcohol. Het mag niet kleverig, stroperig of walgelijk zoet zijn. Schoon gistingsprofiel.",
+  "mouthfeel": "Vol tot zeer vol van body. Lage koolzuur. Significante alcoholwarmte zonder scherpe hitte. Zeer soepel en zijdeachtig zonder ruwe randen van alcohol, bitterheid, fuseloliën of andere geconcentreerde smaken.",
+  "comments": "Verlengde lagering is vaak nodig na het bevriezen om de alcohol glad te maken en de mout- en alcoholbalans te verbeteren. Uitgesproken \"ICE-bock\".",
+  "history": "Ontstaan in Kulmbach in Franken aan het einde van de 19e eeuw, hoewel de exacte oorsprong niet bekend is. Fabels beschrijven het als afkomstig van bier dat per ongeluk bevroor in een brouwerij.",
+  "characteristicIngredients": "Hetzelfde als Doppelbock. Geproduceerd door een doppelbock-achtig bier te bevriezen en ijs te verwijderen (\"vriesconcentratie\"), waardoor smaak en alcohol geconcentreerd worden, evenals eventuele aanwezige gebreken. Commerciële eisbocks zijn over het algemeen geconcentreerd van 7% tot 33% per volume.",
+  "styleComparison": "Eisbocks zijn niet simpelweg sterkere Doppelbocks; de naam verwijst naar het proces van bevriezen en concentreren van het bier, en is geen uitspraak over alcohol; sommige Doppelbocks zijn sterker dan Eisbocks. Niet zo dik, rijk of zoet als een Wheatwine.",
   "vitalStatistics": {
     "og": {
       "min": 1.078,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 9.0,
       "max": 14.0
+    },
+    "ebc": {
+      "min": 33,
+      "max": 60
     }
   },
   "commercialExamples": [

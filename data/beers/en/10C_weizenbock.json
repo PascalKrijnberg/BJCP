@@ -32,6 +32,10 @@
     "abv": {
       "min": 6.5,
       "max": 9.0
+    },
+    "ebc": {
+      "min": 11,
+      "max": 50
     }
   },
   "commercialExamples": [
@@ -51,7 +55,6 @@
     "top-fermented",
     "central-europe",
     "traditional-style",
-    "wheat-beer-family",
-    "malty BJCP Beer Style Guidelines – 2021 Edition"
+    "wheat-beer-family"
   ]
 }

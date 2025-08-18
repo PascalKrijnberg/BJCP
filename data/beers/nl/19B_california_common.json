@@ -2,15 +2,15 @@
   "category": "19",
   "subcategory": "B",
   "name": "California Common",
-  "overallImpression": "Een toastig en karamelig, redelijk bitter bier van standaardsterkte met een interessante fruitigheid en rustiek, houtig hopkarakter. Glad en goed gekoolzuurd.",
-  "aroma": "Matig tot hoge kruidachtige, harsachtige, bloemige of menthol hop. Lichte fruitigheid acceptabel. Lage tot matige karamel of toastige mout ondersteunt de hop.",
-  "appearance": "Middelamber tot licht koperen kleur. Over het algemeen helder. Matige gebroken witte schuimkraag met goede retentie.",
-  "flavor": "Matig moutig met een uitgesproken hopbitterheid. Het moutkarakter heeft gewoonlijk toast (geen roast) en karamelsmaak. Lage tot matig hoge hopsmaak, die meestal rustieke, traditionele Amerikaanse hopkwaliteiten toont (vaak kruidachtig, harsachtig, bloemig, menthol). Afdronk redelijk droog en fris, met een aanhoudende hopbitterheid en een stevige, graanachtige moutsmaak. Lichte fruitige esters zijn acceptabel, maar verder schoon.",
-  "mouthfeel": "Medium body. Matig tot matig hoog koolzuur.",
-  "comments": "Deze stijl is nauw gedefinieerd rond het prototypische Anchor Steam voorbeeld, hoewel andere typische ingrediënten van die tijd zijn toegestaan. Northern Brewer hop is geen strikte vereiste voor de stijl. Moderne Amerikaanse en Nieuwe Wereld-type hop (vooral citrusachtige) zijn ongepast.",
-  "history": "Amerikaans West Coast origineel, oorspronkelijk gebrouwen als Steam Beer tijdens de Gold Rush periode. Grote ondiepe open gistingsvaten (coolships) werden gebruikt om te compenseren voor het gebrek aan koeling en om te profiteren van de koele temperaturen in het San Francisco Bay gebied. Moderne versies zijn gebaseerd op Anchor Brewing die de stijl in de jaren 1970 opnieuw lanceerde.",
-  "characteristicIngredients": "Pale ale mout, niet-citrusachtige hop (vaak Northern Brewer), kleine hoeveelheden geroosterde mout of kristalmout. Lagergist; echter, sommige stammen (vaak met de vermelding van 'California' in de naam) werken beter dan andere bij de warmere gistingstemperaturen (55 tot 60 °F) die typisch gebruikt worden. Merk op dat sommige Duitse giststammen ongepast zwavelig karakter produceren.",
-  "styleComparison": "Oppervlakkig vergelijkbaar met een American Amber Ale, maar met specifieke keuzes voor mout en hop - de hopsmaak en aroma is traditioneel (niet modern) Amerikaanse hop, moutsmaken zijn toastiger, de hop is altijd assertief, en een warm-gegiste lagergist wordt gebruikt. Minder vergist, minder gekoolzuurd en minder fruitig dan Australian Sparkling ale.",
+  "overallImpression": "Een geroosterd en karamelachtig, redelijk bitter bier van standaardsterkte met een interessante fruitigheid en rustiek, houtig hopkarakter. Soepel en goed koolzuurhoudend.",
+  "aroma": "Matige tot hoge kruidige, harsachtige, bloemige of menthol-achtige hop. Lichte fruitigheid is acceptabel. Lage tot matige karamel- of geroosterde mout ondersteunt de hop.",
+  "appearance": "Middelamber tot licht koperkleurig. Over het algemeen helder. Matig crèmewit schuim met goede stabiliteit.",
+  "flavor": "Matig moutig met een uitgesproken hopbitterheid. Het moutkarakter heeft meestal geroosterde (niet gebrande) en karamelsmaak. Lage tot matig hoge hopsmaak, meestal met rustieke, traditionele Amerikaanse hopkwaliteiten (vaak kruidige, harsachtige, bloemige, menthol-achtige). Redelijk droge en frisse afdronk, met een aanhoudende hopbitterheid en een stevige, korrelige moutsmaak. Lichte fruitesters zijn acceptabel, maar verder schoon.",
+  "mouthfeel": "Medium body. Matige tot matig hoge koolzuurhouding.",
+  "comments": "Deze stijl is nauw gedefinieerd rond het prototypische Anchor Steam voorbeeld, hoewel andere typische ingrediënten uit die tijd zijn toegestaan. Northern Brewer hop is geen strikte vereiste voor de stijl. Moderne Amerikaanse en Nieuwe Wereld-type hop (vooral citrusachtige) zijn ongepast.",
+  "history": "Amerikaans West Coast origineel, oorspronkelijk gebrouwen als Steam Beer tijdens het Goudkoorts tijdperk. Grote ondiepe open gistingsvaten (coolships) werden gebruikt om te compenseren voor het gebrek aan koeling en om gebruik te maken van de koele temperaturen in het San Francisco Bay gebied. Moderne versies zijn gebaseerd op Anchor Brewing die de stijl in de jaren 1970 opnieuw lanceerde.",
+  "characteristicIngredients": "Pale ale mout, niet-citrusachtige hop (vaak Northern Brewer), kleine hoeveelheden geroosterde mout of kristalmout. Lagergist; echter, sommige stammen (vaak met de vermelding 'California' in de naam) werken beter dan andere bij de warmere gistingstemperaturen (55 tot 60 °F) die gewoonlijk worden gebruikt. Merk op dat sommige Duitse giststammen ongepast zwavelkarakter produceren.",
+  "styleComparison": "Oppervlakkig vergelijkbaar met een American Amber Ale, maar met specifieke keuzes voor mout en hop - de hopsmaak en aroma zijn traditioneel (niet modern) Amerikaanse hop, moutsmaken zijn meer geroosterd, de hop is altijd assertief, en een warm-gegiste lagergist wordt gebruikt. Minder uitvergist, minder koolzuurhoudend en minder fruitig dan Australian Sparkling ale.",
   "vitalStatistics": {
     "og": {
       "min": 1.048,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 4.5,
       "max": 5.5
+    },
+    "ebc": {
+      "min": 17,
+      "max": 28
     }
   },
   "commercialExamples": [

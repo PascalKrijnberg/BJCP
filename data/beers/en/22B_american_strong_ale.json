@@ -31,6 +31,10 @@
     "abv": {
       "min": 6.3,
       "max": 10.0
+    },
+    "ebc": {
+      "min": 13,
+      "max": 36
     }
   },
   "commercialExamples": [
@@ -47,7 +51,6 @@
     "northamerica",
     "craft-style",
     "strong-ale-family",
-    "bitter",
-    "hoppy BJCP Beer Style Guidelines – 2021 Edition 43"
+    "bitter"
   ]
 }

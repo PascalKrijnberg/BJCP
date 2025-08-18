@@ -2,14 +2,14 @@
   "category": "17",
   "subcategory": "C",
   "name": "Wee Heavy",
-  "overallImpression": "Rijke, zoete moutdiepte met karamel-, toffee- en fruitige smaken. Vol van body en kauwbaar, met verwarmend alcohol. Ingehouden bitterheid, maar niet kleverig of stroopachtig.",
-  "aroma": "Sterk broodachtig-geroosterd mout, met een hoog karamel- en toffee-aspect. Een breed scala aan ondersteunende gekarameliseerde suiker- en geroosterde broodachtige aroma's zijn mogelijk (geroosterde broodkruimels, lange vingers, Engelse biscuits, graham crackers, nougat, boterbabbelaar, etc.). Zweem van geroosterd wordt soms opgemerkt. Laag tot matig donkere of gedroogde fruitesters en alcohol. Zeer lage aardse, bloemige, sinaasappel-citrus, of kruidige hop optioneel.",
-  "appearance": "Licht koper tot donkerbruine kleur, vaak met diepe robijnrode gloed. Helder. Heeft gewoonlijk een grote geelbruine schuimkraag, die mogelijk niet blijft bestaan. Tranen kunnen zichtbaar zijn in sterkere versies.",
-  "flavor": "Rijke, broodachtige-geroosterde mout die vaak vol en zoet is op het gehemelte met karamel- en toffeesmaken, maar gebalanceerd door alcohol en een zweem van korrelig geroosterd in de afdronk. Het mout heeft vaak gekarameliseerde suiker- en geroosterde smaken van hetzelfde type als beschreven in het aroma. Matig tot laag alcohol en esters (pruimen, rozijnen, gedroogd fruit, etc.). Bitterheid laag in de balans, wat een zoete tot medium-droge afdronk geeft. Medium-lage hopsmaak optioneel, met vergelijkbare beschrijvingen als het aroma.",
-  "mouthfeel": "Medium-vol tot vol van body, soms met een dikke, kauwbare, soms romige viscositeit. Een gladde alcoholwarmte is gewoonlijk aanwezig en is wenselijk omdat het de moutige zoetheid balanceert. Matig koolzuur.",
-  "comments": "Een scala aan sterktes is toegestaan; niet alle versies zijn zeer sterk. Ook bekend als \"Strong Scotch Ale\", de term \"wee heavy\" betekent \"klein sterk\" en gaat terug naar het bier dat de term beroemd maakte, Fowler's Wee Heavy, een 12 Guinea Ale.",
-  "history": "Afstammeling van Edinburgh Ales, een sterker moutig bier gebrouwen in een scala van sterktes, vergelijkbaar met Burton Ale (hoewel met de helft van de hophoeveelheid). Moderne versies hebben twee hoofdvarianten, een bescheidener 5% ABV bier en het meer algemeen bekende 8-9% ABV bier. Naarmate de soortelijke gewichten in de loop van de tijd daalden, stopten sommige variaties met geproduceerd te worden.",
-  "characteristicIngredients": "Schots pale ale mout, een breed scala aan andere ingrediënten is mogelijk, inclusief toevoegingen. Sommige kunnen crystal mout of donkerder granen gebruiken voor kleur. Geen veengerookte mout.",
+  "overallImpression": "Rijke, zoete moutdiepte met karamel-, toffee- en fruitige smaken. Vol van body en kauwbaar, met verwarmende alcohol. Ingehouden bitterheid, maar niet kleverig of stroperig.",
+  "aroma": "Sterk broodachtig-geroosterd mout, met een hoog karamel- en toffee-aspect. Een breed scala aan ondersteunende gekarameliseerde suiker- en geroosterde broodachtige aroma's is mogelijk (geroosterde broodkruimels, lange vingers, Engelse koekjes, graham crackers, nougat, boterschotch, enz.). Zweem van roost wordt soms opgemerkt. Laag tot matig donkere of gedroogde fruitesters en alcohol. Zeer laag aardse, bloemen-, sinaasappel-citrus- of kruidige hop optioneel.",
+  "appearance": "Licht koper tot donkerbruine kleur, vaak met diepe robijn highlights. Helder. Heeft gewoonlijk een grote bruine schuimkraag, die mogelijk niet blijft bestaan. Benen kunnen zichtbaar zijn in sterkere versies.",
+  "flavor": "Rijke, broodachtig-geroosterde mout die vaak vol en zoet is aan het gehemelte met karamel- en toffeesmaken, maar gebalanceerd door alcohol en een hint van korrelige roost in de afdronk. De mout heeft vaak gekarameliseerde suiker- en geroosterde smaken van hetzelfde type als beschreven in het aroma. Matig tot lage alcohol en esters (pruimen, rozijnen, gedroogd fruit, enz.). Bitterheid laag in de balans, wat een zoete tot medium-droge afdronk geeft. Medium-lage hopsmaak optioneel, met vergelijkbare descriptoren als het aroma.",
+  "mouthfeel": "Medium-vol tot vol van body, soms met een dikke, kauwbare, soms romige viscositeit. Een zachte alcoholwarmte is gewoonlijk aanwezig en is wenselijk omdat het de moutige zoetheid balanceert. Matige koolzuur.",
+  "comments": "Een scala aan sterktes is toegestaan; niet alle versies zijn zeer sterk. Ook bekend als 'Strong Scotch Ale', de term 'wee heavy' betekent 'klein sterk' en verwijst naar het bier dat de term beroemd maakte, Fowler's Wee Heavy, een 12 Guinea Ale.",
+  "history": "Afstammeling van Edinburgh Ales, een sterker moutig bier gebrouwen in een scala aan sterktes, vergelijkbaar met Burton Ale (hoewel met de helft van de hoppingsratio). Moderne versies hebben twee hoofdvarianten, een bescheidener 5% ABV bier en het bekendere 8-9% ABV bier. Naarmate de dichtheden in de loop der tijd afnamen, werden sommige variaties niet meer geproduceerd.",
+  "characteristicIngredients": "Schots pale ale mout, een breed scala aan andere ingrediënten is mogelijk, inclusief toevoegingen. Sommige kunnen kristalmout of donkerdere granen gebruiken voor kleur. Geen turf-gerookte mout.",
   "styleComparison": "Enigszins vergelijkbaar met een English Barley Wine, maar vaak donkerder en meer karamelachtig.",
   "vitalStatistics": {
     "og": {
@@ -31,12 +31,16 @@
     "abv": {
       "min": 6.5,
       "max": 10.0
+    },
+    "ebc": {
+      "min": 27,
+      "max": 50
     }
   },
   "commercialExamples": [
     "Belhaven Wee Heavy",
     "Broughton Old Jock",
-    "McEwan's Scotch Ale",
+    "McEwan’s Scotch Ale",
     "Orkney Skull Splitter",
     "Traquair House Ale",
     "The Duck-Rabbit Wee Heavy Scotch-Style Ale"

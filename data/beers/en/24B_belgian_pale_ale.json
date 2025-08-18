@@ -31,6 +31,10 @@
     "abv": {
       "min": 4.8,
       "max": 5.5
+    },
+    "ebc": {
+      "min": 15,
+      "max": 28
     }
   },
   "commercialExamples": [
@@ -45,7 +49,6 @@
     "top-fermented",
     "western-europe",
     "traditional-style",
-    "pale-ale-family",
-    "balanced BJCP Beer Style Guidelines – 2021 Edition 49"
+    "pale-ale-family"
   ]
 }

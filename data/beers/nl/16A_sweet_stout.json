@@ -2,14 +2,14 @@
   "category": "16",
   "subcategory": "A",
   "name": "Sweet Stout",
-  "overallImpression": "Een zeer donkere, zoete, volmondige, licht geroosterde stout die koffie-met-room of gezoete espresso kan suggereren.",
+  "overallImpression": "Een zeer donkere, zoete, volmondige, licht geroosterde stout die koffie-en-room of gezoete espresso kan suggereren.",
   "aroma": "Mild geroosterd graanaroma, soms met koffie- of chocoladenoten. Een indruk van roomachtige zoetheid is vaak aanwezig. Fruitigheid kan laag tot matig hoog zijn. Laag diacetyl optioneel. Laag bloemig of aards hoparoma optioneel.",
-  "appearance": "Zeer donkerbruin tot zwart van kleur. Helder, indien niet ondoorzichtig. Romig beige tot bruin schuim.",
-  "flavor": "Donkere, geroosterde, koffie- of chocoladesmaken domineren het gehemelte. Laag tot matige fruitesters. Matige bitterheid. Matige tot hoge zoetheid biedt een tegenwicht tegen het geroosterde karakter en de bitterheid, doorlopend in de afdronk. De balans tussen donkere granen of mouten en zoetheid kan variëren, van behoorlijk zoet tot matig droog en enigszins geroosterd. Laag diacetyl optioneel. Laag bloemige of aardse hopsmaak optioneel.",
-  "mouthfeel": "Matig-vol tot volmondig en romig. Laag tot matig koolzuur. Hoge resterende zoetheid van ongegiste suikers versterkt het volsmakende mondgevoel.",
-  "comments": "Soortelijke gewichten zijn laag in Groot-Brittannië (soms lager dan onderstaande statistieken), hoger in geëxporteerde en Amerikaanse producten. Variaties bestaan, waarbij het niveau van resterende zoetheid, de intensiteit van het geroosterde karakter, en de balans tussen beide de variabelen zijn die het meest onderhevig zijn aan interpretatie.",
-  "history": "Een Engelse stoutstijl ontwikkeld in de vroege jaren 1900. Historisch bekend als 'Milk' of 'Cream' stouts, wettelijk is deze benaming niet langer toegestaan in Engeland maar kan elders acceptabel zijn. De 'melk' naam is afgeleid van het gebruik van melksuiker lactose als zoetstof. Oorspronkelijk op de markt gebracht als versterkend middel voor zieken en zogende moeders.",
-  "characteristicIngredients": "Basis van lichte mout met donkere mouten of granen. Kan graan- of suikeradditieven gebruiken. Lactose wordt vaak toegevoegd om extra resterende zoetheid te bieden.",
+  "appearance": "Zeer donkerbruin tot zwart van kleur. Helder, zo niet ondoorzichtig. Romig geelbruin tot bruin schuim.",
+  "flavor": "Donkere, geroosterde, koffie- of chocoladesmaken domineren het gehemelte. Laag tot matige fruitige esters. Matige bitterheid. Matige tot hoge zoetheid biedt een tegenwicht aan het geroosterde karakter en de bitterheid, die aanhoudt tot in de afdronk. De balans tussen donkere granen of mouten en zoetheid kan variëren, van vrij zoet tot matig droog en enigszins geroosterd. Laag diacetyl optioneel. Laag bloemige of aardse hopsmaak optioneel.",
+  "mouthfeel": "Matig vol tot volmondig en romig. Laag tot matige koolzuur. Hoge resterende zoetheid van ongegiste suikers versterkt het volsmakende mondgevoel.",
+  "comments": "Soortelijke gewichten zijn laag in Groot-Brittannië (soms lager dan de onderstaande statistieken), hoger in geëxporteerde en Amerikaanse producten. Variaties bestaan, waarbij het niveau van resterende zoetheid, de intensiteit van het geroosterde karakter en de balans tussen beide de variabelen zijn die het meest onderhevig zijn aan interpretatie.",
+  "history": "Een Engelse stoutstijl ontwikkeld in de vroege jaren 1900. Historisch bekend als \"Melk\"- of \"Room\"stouts, is deze benaming wettelijk niet langer toegestaan in Engeland maar kan elders acceptabel zijn. De naam \"melk\" is afgeleid van het gebruik van melksuiker lactose als zoetstof. Oorspronkelijk op de markt gebracht als tonicum voor zieken en zogende moeders.",
+  "characteristicIngredients": "Basis van bleke mout met donkere mouten of granen. Kan graan- of suikeradditieven gebruiken. Lactose wordt vaak toegevoegd om extra resterende zoetheid te verschaffen.",
   "styleComparison": "Veel zoeter en minder bitter van smaak dan andere stouts, behalve de sterkere Tropical Stout. Het geroosterde karakter is mild, niet verbrand zoals andere stouts. Kan vergelijkbaar zijn in balans met Oatmeal Stout, zij het met meer zoetheid.",
   "vitalStatistics": {
     "og": {
@@ -31,6 +31,10 @@
     "abv": {
       "min": 4.0,
       "max": 6.0
+    },
+    "ebc": {
+      "min": 59,
+      "max": 79
     }
   },
   "commercialExamples": [
@@ -39,7 +43,7 @@
     "Left Hand Milk Stout",
     "Lancaster Milk Stout",
     "Mackeson's XXX Stout",
-    "Marston's Pearl Jet Stout"
+    "Marston’s Pearl Jet Stout"
   ],
   "tags": [
     "standard-strength",

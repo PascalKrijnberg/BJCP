@@ -32,6 +32,10 @@
     "abv": {
       "min": 2.8,
       "max": 4.2
+    },
+    "ebc": {
+      "min": 3,
+      "max": 6
     }
   },
   "commercialExamples": [

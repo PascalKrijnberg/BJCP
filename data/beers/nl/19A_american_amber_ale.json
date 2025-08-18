@@ -2,15 +2,15 @@
   "category": "19",
   "subcategory": "A",
   "name": "American Amber Ale",
-  "overallImpression": "Een amber, hoppig, matig sterk Amerikaans craft bier met een moutige karamelsmaak. De balans kan behoorlijk variëren, waarbij sommige versies vrij moutig zijn en anderen agressief hoppig. Hoppige en bittere versies mogen geen botsende smaken hebben met het karamelmoutteprofiel.",
-  "aroma": "Laag tot matig hoparoma dat Amerikaanse of Nieuwe Wereld hopvariëteiten weergeeft (citrus, bloemig, dennen, hars, kruidig, tropisch fruit, steenfruit, bes, of meloen). Een citrushopkarakter komt veel voor, maar is niet vereist. Matig-laag tot matig-hoog moutigheid, meestal met een matig karamelkarakter, dat de hoppresentatie kan ondersteunen, balanceren, of soms maskeren. Esters variëren van matig tot geen.",
+  "overallImpression": "Een amberkleurig, hoppig, matig sterk Amerikaans craft bier met een moutige karamelsmaak. De balans kan behoorlijk variëren, waarbij sommige versies vrij moutig zijn en andere agressief hoppig. Hoppige en bittere versies mogen geen botsende smaken hebben met het karamelmoutprofiel.",
+  "aroma": "Laag tot matig hoparoma dat Amerikaanse of Nieuwe Wereld hopvariëteiten weergeeft (citrus, bloemig, dennenboom, hars, kruiden, tropisch fruit, steenfruit, bes, of meloen). Een citrushopkarakter is gebruikelijk, maar niet vereist. Matig-laag tot matig-hoog moutigheid, meestal met een matig karamelkarakter, dat de hoppresentatie kan ondersteunen, balanceren, of soms maskeren. Esters variëren van matig tot afwezig.",
   "appearance": "Diep amber tot koperbruin van kleur, soms met een roodachtige tint. Matig groot gebroken wit schuim met goede retentie. Over het algemeen vrij helder.",
-  "flavor": "Matige tot hoge hopsmaak met vergelijkbare kenmerken als het aroma. Moutsmaken zijn matig tot sterk, en tonen meestal een aanvankelijke moutige zoetheid gevolgd door een matige karamelsmaak en soms toastige of biscuitachtige moutsmaken in mindere mate. Donkere of geroosterde moutsmaken afwezig. Matige tot matig-hoge bitterheid. Balans kan variëren van enigszins moutig tot enigszins bitter. Fruitige esters kunnen matig tot geen zijn. Karamelzoetheid, hopsmaak, en bitterheid kunnen enigszins aanhouden in de medium tot volle maar droge afdronk.",
-  "mouthfeel": "Medium tot medium-vol lichaam. Medium tot hoog koolzuur. Over het algemeen gladde afdronk zonder adstringentie. Sterkere versies kunnen een lichte alcoholwarmte hebben.",
-  "comments": "Kan overlappen in kleur met donkerdere American Pale Ales, maar met een andere moutsmaak en balans. Een scala aan balans bestaat in deze stijl, van gebalanceerd en moutig tot meer agressief gehopt.",
-  "history": "Een moderne Amerikaanse craft bierstijl ontwikkeld als variatie op American Pale Ales. Mendocino Red Tail Ale werd voor het eerst gemaakt in 1983, en was regionaal bekend als een Red Ale. Dit diende als voorloper van Double Reds (American Strong Ale), Red IPAs, en andere hoppige, karamelachtige bieren.",
-  "characteristicIngredients": "Neutrale pale ale mout. Medium tot donkere kristalmout. Amerikaanse of Nieuwe Wereld hop, vaak met citrussmaak, komen veel voor maar anderen kunnen ook gebruikt worden. Neutrale tot licht esterige gist.",
-  "styleComparison": "Donkerder, meer karamelachtig, meer lichaam, en over het algemeen minder bitter in de balans dan American Pale Ales. Minder alcohol, bitterheid, en hopkarakter dan Red IPAs. Minder sterkte, mout, en hopkarakter dan American Strong Ales. Minder chocolade en donkere karamel dan een American Brown Ale.",
+  "flavor": "Matige tot hoge hopsmaak met vergelijkbare kenmerken als het aroma. Moutsmaken zijn matig tot sterk, en tonen meestal een aanvankelijke moutige zoetheid gevolgd door een matige karamelsmaak en soms geroosterde of beschuitachtige moutsmaken in mindere mate. Donkere of geroosterde moutsmaken afwezig. Matige tot matig-hoge bitterheid. Balans kan variëren van enigszins moutig tot enigszins bitter. Fruitige esters kunnen matig tot afwezig zijn. Karamelzoetheid, hopsmaak, en bitterheid kunnen enigszins naleven in de matige tot volle maar droge afdronk.",
+  "mouthfeel": "Matig tot matig-vol mondgevoel. Matige tot hoge koolzuurvorming. Algemeen gladde afdronk zonder samentrekkendheid. Sterkere versies kunnen een lichte alcoholwarmte hebben.",
+  "comments": "Kan overlappen in kleur met donkerdere American Pale Ales, maar met een andere moutsmaak en balans. Er bestaat een scala aan balans in deze stijl, van gebalanceerd en moutig tot meer agressief gehopt.",
+  "history": "Een moderne Amerikaanse craft bierstijl ontwikkeld als variatie op American Pale Ales. Mendocino Red Tail Ale werd voor het eerst gemaakt in 1983, en stond regionaal bekend als een Red Ale. Dit diende als de voorloper van Double Reds (American Strong Ale), Red IPAs, en andere hoppige, karamelige bieren.",
+  "characteristicIngredients": "Neutrale pale ale mout. Matige tot donkere kristalmout. Amerikaanse of Nieuwe Wereld hop, vaak met citrussmaken, zijn gebruikelijk maar andere kunnen ook gebruikt worden. Neutrale tot licht esterige gist.",
+  "styleComparison": "Donkerder, meer karamelig, meer body, en over het algemeen minder bitter in de balans dan American Pale Ales. Minder alcohol, bitterheid, en hopkarakter dan Red IPAs. Minder sterkte, mout, en hopkarakter dan American Strong Ales. Minder chocolade en donkere karamel dan een American Brown Ale.",
   "vitalStatistics": {
     "og": {
       "min": 1.045,
@@ -31,11 +31,15 @@
     "abv": {
       "min": 4.5,
       "max": 6.2
+    },
+    "ebc": {
+      "min": 19,
+      "max": 34
     }
   },
   "commercialExamples": [
     "Anderson Valley Boont Amber Ale",
-    "Bell's Amber Ale",
+    "Bell’s Amber Ale",
     "Full Sail Amber",
     "North Coast Red Seal Ale",
     "Saint Arnold Amber Ale",

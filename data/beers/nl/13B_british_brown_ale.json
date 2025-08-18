@@ -2,14 +2,14 @@
   "category": "13",
   "subcategory": "B",
   "name": "British Brown Ale",
-  "overallImpression": "Een moutige, karamelachtige, bruine Britse ale zonder de geroosterde smaken van een Porter. Gebalanceerd en smaakrijk, maar gewoonlijk iets sterker dan de meeste gemiddelde Britse bieren.",
+  "overallImpression": "Een moutig, karamelachtig, bruin Brits bier zonder de geroosterde smaken van een Porter. Evenwichtig en vol van smaak, maar gewoonlijk iets sterker dan de meeste gemiddelde Britse bieren.",
   "aroma": "Licht, zoet moutaroma met toffee-, nootachtige of lichte chocoladenoten, en een lichte tot zware karamelkwaliteit. Een licht maar aantrekkelijk bloemig of aards hoparoma kan ook worden opgemerkt. Een licht fruitig aroma kan aanwezig zijn, maar mag niet domineren.",
   "appearance": "Donkeramber tot donker roodbruine kleur. Helder. Laag tot matig gebroken wit tot lichtbruine schuimkraag.",
-  "flavor": "Zachte tot matige moutzoetheid, met een licht tot zwaar karamelkarakter, en een medium tot droge afdronk. Mout kan ook een nootachtig, geroosterd, biscuitachtig, toffee- of licht chocoladekarakter hebben. Medium tot medium-lage bitterheid. Mout-hopbalans varieert van evenwichtig tot moutgericht. Laag bloemig of aards hopkarakter optioneel. Lage tot matige fruitige esters optioneel.",
-  "mouthfeel": "Medium-licht tot medium body. Medium tot medium-hoog koolzuur.",
-  "comments": "Een breed categorie met verschillende interpretaties mogelijk, variërend van lichter van kleur tot hoppig tot dieper, donkerder en karamelgericht; echter, geen van de versies heeft sterk geroosterde smaken. Een sterkere Double Brown Ale was populairder in het verleden, maar is nu zeer moeilijk te vinden. Hoewel London Brown Ales op de markt worden gebracht onder de naam Brown Ale, vermelden we die als een andere beoordelingsstijl vanwege het significante verschil in balans (vooral zoetheid) en alcoholsterkte; dat betekent niet dat ze niet tot dezelfde familie behoren.",
-  "history": "Brown ale heeft een lange geschiedenis in Groot-Brittannië, hoewel verschillende producten die naam op verschillende tijden gebruikten. Moderne brown ale is een 20e-eeuwse creatie; het is niet hetzelfde als historische producten met dezelfde naam. Een breed scala aan soortelijke gewichten werd gebrouwen, maar moderne brown ales zijn over het algemeen van de sterkere (volgens huidige Britse standaarden) interpretatie. Deze stijl is gebaseerd op de moderne sterkere Britse brown ales, niet op historische versies of de zoetere London Brown Ale beschreven in de Historische Bier categorie. Overwegend maar niet uitsluitend momenteel een gebotteld product.",
-  "characteristicIngredients": "Britse mild ale of pale ale moutbasis met karamelmout. Kan ook kleine hoeveelheden donkerdere mouten hebben (bijv. chocolademout) om kleur en het nootachtige karakter te verschaffen. Engelse hopvariëteiten zijn het meest authentiek.",
+  "flavor": "Zachte tot matige moutzoetheid, met een licht tot zwaar karamelkarakter, en een medium tot droge afdronk. Mout kan ook een nootachtig, geroosterd, beschuitachtig, toffee- of licht chocoladekarakter hebben. Medium tot medium-lage bitterheid. Mout-hopbalans varieert van evenwichtig tot moutgericht. Lage bloemige of aardse hopsmaak optioneel. Lage tot matige fruitige esters optioneel.",
+  "mouthfeel": "Medium-licht tot medium body. Medium tot medium-hoge koolzuur.",
+  "comments": "Een brede categorie met verschillende mogelijke interpretaties, variërend van lichter gekleurd tot hoppig tot dieper, donkerder en karamelgericht; echter, geen van de versies heeft sterk geroosterde smaken. Een sterkere Double Brown Ale was in het verleden populairder, maar is nu zeer moeilijk te vinden. Hoewel London Brown Ales op de markt worden gebracht onder de naam Brown Ale, vermelden wij die als een andere beoordelingsstijl vanwege het significante verschil in balans (vooral zoetheid) en alcoholsterkte; dat betekent niet dat ze niet tot dezelfde familie behoren.",
+  "history": "Brown ale heeft een lange geschiedenis in Groot-Brittannië, hoewel verschillende producten die naam op verschillende tijden gebruikten. Modern brown ale is een 20e-eeuwse creatie; het is niet hetzelfde als historische producten met dezelfde naam. Een breed scala aan soortelijke gewichten werd gebrouwen, maar moderne brown ales zijn over het algemeen van de sterkere (volgens huidige Britse standaarden) interpretatie. Deze stijl is gebaseerd op de moderne sterkere Britse brown ales, niet op historische versies of de zoetere London Brown Ale beschreven in de Historische Biercategorie. Momenteel overwegend maar niet uitsluitend een gebotteld product.",
+  "characteristicIngredients": "Britse mild ale of pale ale moutbasis met karamelmout. Kan ook kleine hoeveelheden donkerdere mouten (bijv. chocolade) bevatten om kleur en het nootachtige karakter te verschaffen. Engelse hopvariëteiten zijn het meest authentiek.",
   "styleComparison": "Meer moutige balans dan British Bitters, met meer moutsmaken van donkerdere granen. Sterker dan een Dark Mild. Minder geroosterd dan een English Porter. Sterker en veel minder zoet dan London Brown Ale.",
   "vitalStatistics": {
     "og": {
@@ -31,6 +31,10 @@
     "abv": {
       "min": 4.2,
       "max": 5.9
+    },
+    "ebc": {
+      "min": 23,
+      "max": 44
     }
   },
   "commercialExamples": [
@@ -39,7 +43,7 @@
     "Maxim Double Maxim",
     "Newcastle Brown Ale",
     "Riggwelter Yorkshire Ale",
-    "Samuel Smith's Nut Brown Ale"
+    "Samuel Smith’s Nut Brown Ale"
   ],
   "tags": [
     "standard-strength",

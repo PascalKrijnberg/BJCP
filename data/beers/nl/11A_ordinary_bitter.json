@@ -2,15 +2,15 @@
   "category": "11",
   "subcategory": "A",
   "name": "Ordinary Bitter",
-  "overallImpression": "Lage dichtheid, alcohol en koolzuur maken dit een makkelijk drinkbaar sessiebier. Het moutprofiel kan variëren in smaak en intensiteit, maar mag nooit de algehele bittere indruk overheersen. Drinkbaarheid is een cruciaal onderdeel van deze stijl.",
-  "aroma": "Laag tot matig moutaroma, vaak (maar niet altijd) met een lichte karamelkwaliteit. Broodachtige, biscuitachtige of licht geroosterde moutcomplexiteit komt veel voor. Milde tot matige fruitigheid. Hoparoma kan variëren van matig tot afwezig, doorgaans met een bloemig, aards, harsig of fruitig karakter. Over het algemeen geen diacetyl, hoewel zeer lage niveaus toegestaan zijn.",
-  "appearance": "Licht amber tot licht koperkleurig. Goede tot briljante helderheid. Laag tot matig wit tot gebroken wit schuim. Kan zeer weinig schuim hebben door laag koolzuur.",
-  "flavor": "Matige tot matig hoge bitterheid. Matig lage tot matig hoge fruitige esters. Matige tot lage hopsmaak, doorgaans met een aards, harsig, fruitig of bloemig karakter. Laag tot matige moutigheid met een droge afdronk. Het moutprofiel is doorgaans broodachtig, biscuitachtig of licht geroosterd. Lage tot matige karamel- of toffeesmaken zijn optioneel. De balans is vaak uitgesproken bitter, hoewel de bitterheid de moutsmaak, esters en hopsmaak niet volledig mag overheersen. Over het algemeen geen diacetyl, hoewel zeer lage niveaus toegestaan zijn.",
-  "mouthfeel": "Licht tot matig-licht lichaam. Laag koolzuur, hoewel gebottelde voorbeelden matig koolzuur kunnen hebben.",
-  "comments": "Het laagste dichtheidslid van de British Bitter familie, doorgaans bij consumenten bekend als simpelweg \"bitter\" (hoewel brouwers het meestal Ordinary Bitter noemen om het te onderscheiden van andere familieleden).",
-  "history": "Zie opmerkingen in categorie-introductie.",
-  "characteristicIngredients": "Pale ale, amber of kristalmout. Mag een vleugje donkere mout gebruiken voor kleurcorrectie. Mag suiker toevoegingsmiddelen, maïs of tarwe gebruiken. Engelse afwerkingshop is het meest traditioneel, maar alle hop is toegestaan; als Amerikaanse hop wordt gebruikt, is een lichte aanraking vereist. Karaktervolle Britse gist.",
-  "styleComparison": "Sommige moderne varianten worden uitsluitend gebrouwen met pale mout en staan bekend als golden ales, zomeraales of golden bitters. De nadruk ligt op de bitterende hoptoevoeging in tegenstelling tot de agressieve midden- en late hoptoevoeging die in Amerikaanse ales wordt gezien.",
+  "overallImpression": "Laag soortelijk gewicht, alcohol en koolzuur maken dit een gemakkelijk drinkbaar session bier. Het moutprofiel kan variëren in smaak en intensiteit, maar mag nooit de algehele bittere indruk overheersen. Drinkbaarheid is een kritisch onderdeel van de stijl.",
+  "aroma": "Laag tot matig moutaroma, vaak (maar niet altijd) met een lichte karamelkwaliteit. Broodachtige, koekjesachtige of licht getoaste moutcomplexiteit komt veel voor. Milde tot matige fruitigheid. Hoparoma kan variëren van matig tot afwezig, typisch met een bloemig, aards, harsachtig of fruitig karakter. Over het algemeen geen diacetyl, hoewel zeer lage niveaus toegestaan zijn.",
+  "appearance": "Lichtamber tot licht koperkleurig. Goede tot briljante helderheid. Laag tot matig wit tot gebroken wit schuim. Kan zeer weinig schuim hebben vanwege lage koolzuurvorming.",
+  "flavor": "Matige tot matig hoge bitterheid. Matig lage tot matig hoge fruitige esters. Matige tot lage hopsmaak, typisch met een aards, harsachtig, fruitig of bloemig karakter. Lage tot matige moutigheid met een droge afdronk. Het moutprofiel is typisch broodachtig, koekjesachtig of licht getoast. Lage tot matige karamel- of toffeesmaken zijn optioneel. De balans is vaak nadrukkelijk bitter, hoewel de bitterheid de moutsmaak, esters en hopsmaak niet volledig mag overheersen. Over het algemeen geen diacetyl, hoewel zeer lage niveaus toegestaan zijn.",
+  "mouthfeel": "Licht tot matig-licht mondgevoel. Lage koolzuurvorming, hoewel gebottelde voorbeelden matige koolzuurvorming kunnen hebben.",
+  "comments": "Het laagste soortelijk gewicht lid van de British Bitter familie, typisch bij consumenten eenvoudigweg bekend als \"bitter\" (hoewel brouwers het vaak Ordinary Bitter noemen om het te onderscheiden van andere leden van de familie).",
+  "history": "Zie opmerkingen in de categorie-introductie.",
+  "characteristicIngredients": "Pale ale, amber of kristalmout. Mag een vleugje donkere mout gebruiken voor kleurcorrectie. Mag suikeradditieven, maïs of tarwe gebruiken. Engelse afwerkingshop is het meest traditioneel, maar elke hop is toegestaan; als Amerikaanse hop wordt gebruikt, is een lichte toets vereist. Karaktervolle Britse gist.",
+  "styleComparison": "Sommige moderne varianten worden exclusief gebrouwen met pale mout en staan bekend als golden ales, summer ales of golden bitters. De nadruk ligt op de bitterhop toevoeging in tegenstelling tot de agressieve midden- en late hoptoevoeging die wordt gezien in Amerikaanse ales.",
   "vitalStatistics": {
     "og": {
       "min": 1.03,
@@ -31,15 +31,19 @@
     "abv": {
       "min": 3.2,
       "max": 3.8
+    },
+    "ebc": {
+      "min": 15,
+      "max": 28
     }
   },
   "commercialExamples": [
-    "Bateman's XB",
+    "Bateman’s XB",
     "Brains Bitter",
     "Brakspear Gravity",
     "Fuller's Chiswick Bitter",
     "Greene King IPA",
-    "Tetley's Original Bitter"
+    "Tetley’s Original Bitter"
   ],
   "tags": [
     "session-strength",
@@ -48,44 +52,6 @@
     "britishisles",
     "traditional-style",
     "amber-ale-family",
-    "bitter Algehele Indruk: Een smaakvolle",
-    "maar verfrissende",
-    "sessiebier. Sommige voorbeelden kunnen meer mout gebalanceerd zijn",
-    "maar dit mag de algehele bittere indruk niet overheersen. Drinkbaarheid is een cruciaal onderdeel van de stijl. Aroma: Laag tot matig moutaroma",
-    "vaak (maar niet altijd) met een lage tot matig-lage karamelkwaliteit. Broodachtige",
-    "biscuit",
-    "of licht geroosterde moutcomplexiteit komt veel voor. Milde tot matige fruitigheid. Hoparoma kan variëren van matig tot afwezig",
-    "doorgaans met een bloemig",
-    "aards",
-    "harsig",
-    "of fruitig karakter. Over het algemeen geen diacetyl",
-    "hoewel zeer lage niveaus toegestaan zijn. Verschijning: Licht amber tot matig koperkleur. Goede tot briljante helderheid. Laag tot matig wit tot gebroken wit schuim. Kan zeer weinig schuim hebben door laag koolzuur. Smaak: Matige tot matig hoge bitterheid. Matig lage tot matig hoge fruitige esters. Matige tot lage hopsmaak",
-    "doorgaans met een aards",
-    "harsig",
-    "fruitig",
-    "of bloemig karakter. Laag tot matige moutigheid met een droge afdronk. Het moutprofiel is doorgaans broodachtig",
-    "biscuitachtig",
-    "of licht geroosterd. Lage tot matige karamel- of toffeesmaken zijn optioneel. De balans is vaak uitgesproken bitter",
-    "hoewel de bitterheid de moutsmaak niet volledig mag overheersen",
-    "esters en hopsmaak. Over het algemeen geen diacetyl",
-    "hoewel zeer lage niveaus toegestaan zijn. Mondgevoel: Matig-licht tot matig lichaam. Laag koolzuur",
-    "hoewel gebottelde voorbeelden matig koolzuur kunnen hebben. Opmerkingen: Meer evident moutsmaak dan in een ordinary bitter; dit is een sterker",
-    "sessie-sterkte ale. Geschiedenis: Zie opmerkingen in categorie-introductie. Karakteristieke Ingrediënten: Pale ale",
-    "amber",
-    "of kristalmout. De meeste bevatten suiker. Mag een vleugje karamel of donkere mout gebruiken voor kleurcorrectie. Mag maïs of tarwe gebruiken. Engelse afwerkingshop is het meest traditioneel",
-    "maar alle hop is toegestaan; als Amerikaanse hop wordt gebruikt",
-    "is een lichte aanraking vereist. Karaktervolle Britse gist. Stijlvergelijking: Meer alcohol dan een ordinary bitter",
-    "en vaak met ingrediënten van hogere kwaliteit. Minder alcohol dan een strong bitter. Meer karamel of basismoutkarakter en kleur dan een British Golden Ale. De nadruk ligt op de bitterende hoptoevoeging in tegenstelling tot de agressieve midden- en late hoptoevoeging die in Amerikaanse ales wordt gezien. Vitale Statistieken: OG: 1.040 – 1.048 IBUs: 25 – 40 FG: 1.008 – 1.012 SRM: 8 – 16 ABV: 3.8 – 4.6% Commerciële Voorbeelden: Adnams Southwold Bitter",
-    "Fuller's London Pride",
-    "Harvey's Sussex Best Bitter",
-    "Salopian Darwin's Origin",
-    "Surrey Hills Shere Drop",
-    "Timothy Taylor Landlord Tags: standard-strength",
-    "amber-color",
-    "top-fermented",
-    "britishisles",
-    "traditional-style",
-    "amber-ale-family",
-    "bitter BJCP Beer Style Guidelines – 2021 Edition 19"
+    "bitter"
   ]
 }

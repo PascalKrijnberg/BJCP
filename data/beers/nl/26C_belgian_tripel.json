@@ -2,15 +2,15 @@
   "category": "26",
   "subcategory": "C",
   "name": "Belgian Tripel",
-  "overallImpression": "Een sterk, licht, enigszins kruidig Belgisch bier met een aangename afgeronde moutsmaak, stevige bitterheid en droge afdronk. Zeer aromatisch, met kruidig, fruitige en lichte alcoholnoten die combineren met het ondersteunende, zuivere moutkarakter om een verrassend drinkbaar bier te produceren gezien het hoge alcoholgehalte.",
-  "aroma": "Complex maar naadloos boeket van matige tot aanzienlijke kruidigheid, matige fruitige esters, lage alcohol, lage hop en lichte mout. Royale kruidig, peperig, soms kruidnagelachitige fenolen. Esters doen vaak denken aan citrusvruchten, zoals sinaasappels of citroenen, maar kunnen soms een licht rijp banaan karakter hebben. Een laag maar onderscheidend kruidig, bloemig, soms parfumachtig hopkarakter is optioneel. Alcoholen zijn zacht, kruidig en laag in intensiteit. Het moutkarakter is licht, met een zachte, licht korrelig-zoete of licht honingachtige indruk.",
-  "appearance": "Diep geel tot licht amber van kleur. Goede helderheid. Bruisend. Lang aanhoudend, romig, rotsachtig, wit schuim resulterend in karakteristiek Belgisch kant op het glas terwijl het wegtrekt.",
-  "flavor": "Smaakprofiel vergelijkbaar met aroma (dezelfde beschrijvingen gelden) voor mout, esters, fenolen, alcohol en hop. Esters laag tot matig, fenolen laag tot matig, hop laag tot matig, alcohol laag, allemaal goed gecombineerd in een coherente presentatie. Matige tot hoge bitterheid, geaccentueerd door een droge afdronk. Matige bitterheid in de nasmaak met aanzienlijk kruidig-fruitig gistkarakter. Mag niet zoet zijn.",
-  "mouthfeel": "Licht-medium tot medium body, hoewel lichter dan het aanzienlijke soortelijk gewicht zou doen vermoeden. Hoog gekoolzuurde. Het alcoholgehalte is misleidend en heeft weinig tot geen duidelijke verwarmende sensatie. Bruisend. Mag niet zwaar zijn.",
-  "comments": "Hoog alcoholgehalte maar smaakt niet sterk naar alcohol. De beste voorbeelden zijn verraderlijk, niet voor de hand liggend. Hoge koolzuurvorming en vergisting helpt de vele smaken naar voren te brengen en de perceptie van een droge afdronk te vergroten. De meeste traditionele versies hebben minstens 30 IBU's en zijn zeer droog.",
-  "history": "Populair gemaakt door het klooster van Westmalle, voor het eerst gebrouwen in 1931.",
-  "characteristicIngredients": "Pilsener mout, vaak lichte suiker toevoegingen. Continentale hop. Kruidig-fruitige Belgische giststammen. Kruidentoevoegingen zijn over het algemeen niet traditioneel, en indien gebruikt, zouden alleen een achtergrondkarakter moeten hebben. Vrij zacht water.",
-  "styleComparison": "Kan lijken op een Belgian Golden Strong Ale maar iets donkerder en wat voller van body, met meer nadruk op fenolen en minder op esters, en minder late hop. Zou niet moeten lijken op een blonde Barleywine.",
+  "overallImpression": "Een sterk, licht, enigszins kruidig Belgisch bier met een aangename afgeronde moutsmaak, stevige bitterheid en droge afdronk. Zeer aromatisch, met kruidige, fruitige en lichte alcoholnoten die zich combineren met het ondersteunende heldere moutkarakter om een verrassend drinkbaar bier te produceren gezien het hoge alcoholgehalte.",
+  "aroma": "Complex maar naadloos boeket van matige tot significante kruidigheid, matige fruitige esters, lage alcohol, lage hop en lichte mout. Royale kruidige, peperige, soms kruidnagel-achtige fenolen. Esters doen vaak denken aan citrusvruchten zoals sinaasappels of citroenen, maar kunnen soms een licht rijp banaan karakter hebben. Een laag maar onderscheidend kruidig, bloemig, soms parfumachtig hopkarakter is optioneel. Alcoholen zijn zacht, kruidig en laag in intensiteit. Het moutkarakter is licht, met een zachte, licht graanzoete of licht honingachtige indruk.",
+  "appearance": "Diepgeel tot lichtamber van kleur. Goede helderheid. Bruisend. Langdurige, romige, rotsachtige, witte schuimkraag die resulteert in karakteristiek Belgisch kant op het glas terwijl het wegtrekt.",
+  "flavor": "Smaakprofiel vergelijkbaar met aroma (dezelfde beschrijvingen gelden) voor mout, esters, fenolen, alcohol en hop. Esters laag tot matig, fenolen laag tot matig, hop laag tot matig, alcohol laag, allemaal goed gecombineerd in een coherente presentatie. Matige tot hoge bitterheid, geaccentueerd door een droge afdronk. Matige bitterheid in de nasmaak met substantieel kruidig-fruitig gistkarakter. Mag niet zoet zijn.",
+  "mouthfeel": "Licht- tot middelzwaar mondgevoel, hoewel lichter dan het substantiële soortelijk gewicht zou doen vermoeden. Zeer koolzuurhoudend. Het alcoholgehalte is misleidend en heeft weinig tot geen duidelijke verwarmende sensatie. Bruisend. Mag niet zwaar zijn.",
+  "comments": "Hoog alcoholgehalte maar smaakt niet sterk naar alcohol. De beste voorbeelden zijn verraderlijk, niet voor de hand liggend. Hoge koolzuur en vergisting helpt de vele smaken naar voren te brengen en verhoogt de perceptie van een droge afdronk. De meeste traditionele versies hebben minstens 30 IBU's en zijn zeer droog.",
+  "history": "Gepopulariseerd door het klooster van Westmalle, voor het eerst gebrouwen in 1931.",
+  "characteristicIngredients": "Pilsner mout, vaak lichte suiker toevoegingen. Continentale hop. Kruidig-fruitige Belgische gistrassen. Kruidentoevoegingen zijn over het algemeen niet traditioneel, en indien gebruikt, zouden alleen een achtergrondkarakter moeten hebben. Vrij zacht water.",
+  "styleComparison": "Kan lijken op een Belgian Golden Strong Ale maar iets donkerder en wat voller van smaak, met meer nadruk op fenolen en minder op esters, en minder late hop. Mag niet lijken op een blonde Barleywine.",
   "vitalStatistics": {
     "og": {
       "min": 1.075,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 7.5,
       "max": 9.5
+    },
+    "ebc": {
+      "min": 8,
+      "max": 14
     }
   },
   "commercialExamples": [

@@ -32,6 +32,10 @@
     "abv": {
       "min": 6.0,
       "max": 8.5
+    },
+    "ebc": {
+      "min": 7,
+      "max": 16
     }
   },
   "commercialExamples": [
@@ -44,6 +48,6 @@
   ],
   "tags": [
     "specialty-beer",
-    "fruit BJCP Beer Style Guidelines – 2021 Edition 67"
+    "fruit"
   ]
 }

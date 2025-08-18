@@ -31,6 +31,10 @@
     "abv": {
       "min": 5.0,
       "max": 7.5
+    },
+    "ebc": {
+      "min": 11,
+      "max": 28
     }
   },
   "commercialExamples": [
@@ -48,7 +52,6 @@
     "british-isles",
     "traditional-style",
     "ipa-family",
-    "bitter",
-    "hoppy BJCP Beer Style Guidelines – 2021 Edition"
+    "bitter"
   ]
 }

@@ -31,6 +31,10 @@
     "abv": {
       "min": 5.0,
       "max": 6.5
+    },
+    "ebc": {
+      "min": 5,
+      "max": 12
     }
   },
   "commercialExamples": [
@@ -50,23 +54,6 @@
     "westerneurope",
     "traditional-style",
     "wheat-beer-family",
-    "sour more palatable to a wider audience. These guidelines describe the traditional dry product. Characteristic Ingredients: Same as Lambic",
-    "except that one-",
-    "two-",
-    "and three-year old Lambics are blended",
-    "then cellared. Style Comparison: More complex and carbonated than a Lambic. The sourness isn’t necessarily stronger",
-    "but it tends to have more of a well-developed wild character. Vital Statistics: OG: 1.040 – 1.054 IBUs: 0 – 10 FG: 1.000 – 1.006 SRM: 5 – 6 ABV: 5.0 – 8.0% Commercial Examples: 3 Fonteinen Oud Gueuze",
-    "Cantillon Classic Gueuze 100% Lambic",
-    "Girardin Gueuze 1882 (Black label)",
-    "Hanssens Oude Gueuze",
-    "Lindemans Gueuze Cuvée René",
-    "Oude Gueuze Boon Tags: high-strength",
-    "pale-color",
-    "wild-fermented",
-    "westerneurope",
-    "traditional-style",
-    "wheat-beer-family",
-    "aged",
     "sour"
   ]
 }

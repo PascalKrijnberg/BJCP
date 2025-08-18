@@ -2,15 +2,15 @@
   "category": "18",
   "subcategory": "A",
   "name": "Blonde Ale",
-  "overallImpression": "Gemakkelijk drinkbaar, toegankelijk, moutgeoriënteerd Amerikaans craft bier, vaak met interessante fruit-, hop- of karaktermoutnoten. Goed gebalanceerd en schoon, is een verfrissend pintje zonder agressieve smaken.",
-  "aroma": "Licht tot matig moutig aroma, over het algemeen neutraal of graanachtig, mogelijk met een lichte brood- of karamelnoot. Laag tot matig fruitigheid is optioneel, maar acceptabel. Kan een laag tot matig hoparoma hebben, en kan bijna elke hopvariëteit weerspiegelen hoewel citrus-, bloemige, fruitige en kruidige noten gebruikelijk zijn. Schoon gistingsprofiel.",
-  "appearance": "Lichtgeel tot diepgoud van kleur. Helder tot briljant. Laag tot matig wit schuim met redelijke tot goede retentie.",
-  "flavor": "Aanvankelijke zachte moutigheid, maar kan ook lichte karaktermoutsmaak hebben (bijv. brood, toast, biscuit, tarwe). Karamelsmaken gewoonlijk afwezig; indien aanwezig, zijn dit typisch lichtgekleurde karamel- of honingnoten. Laag tot matig fruitige esters optioneel, maar zijn welkom. Lichte tot matige hopsmaak (elke variëteit), maar zou niet overdreven agressief moeten zijn. Matig-lage tot matige bitterheid, maar de balans is normaal richting de mout of zelfs tussen mout en hop. Eindigt matig-droog tot licht moutig; een indruk van zoetheid is vaak een uiting van lagere bitterheid dan werkelijke restzoetheid. Schoon gistingsprofiel.",
-  "mouthfeel": "Matig-licht tot matig lichaam. Matig tot hoog koolzuur. Glad zonder zwaar te zijn.",
-  "comments": "Geoxideerde versies kunnen karamel- of honingnoten ontwikkelen, die niet moeten worden aangezien voor vergelijkbare moutafgeleide smaken. Soms bekend als Golden Ale of simpelweg een Gold.",
-  "history": "Een Amerikaanse craft bierstijl geproduceerd als een sneller geproduceerd alternatief voor standaard Amerikaanse lagers. Voor het eerst geproduceerd in 1987 bij Catamount. Vaak gepositioneerd als instapniveau house ale.",
-  "characteristicIngredients": "Over het algemeen volledig mout, maar kan tarwemout of suikertoevoegingen bevatten. Elke hopvariëteit kan worden gebruikt. Schone Amerikaanse, licht fruitige Engelse, of Kölsch gist. Kan ook worden gemaakt met lagergist, of koudgeconditioneerd.",
-  "styleComparison": "Heeft typisch meer smaak dan American Lager en Cream Ale. Minder bitterheid dan een American Pale Ale. Misschien vergelijkbaar met enkele moutigere voorbeelden van Kölsch.",
+  "overallImpression": "Gemakkelijk drinkbaar, toegankelijk, moutgeoriënteerd Amerikaans craft bier, vaak met interessante fruit-, hop- of karaktermoutnoten. Goed gebalanceerd en zuiver, is een verfrissend pintje zonder agressieve smaken.",
+  "aroma": "Licht tot matig moutig aroma, over het algemeen neutraal of graanachtig, mogelijk met een lichte brood- of karamelnoot. Lage tot matige fruitigheid is optioneel, maar acceptabel. Kan een laag tot matig hoparoma hebben, en kan bijna elke hopvariëteit weerspiegelen hoewel citrusachtige, bloemige, fruitige en kruidig noten veel voorkomen. Zuiver gistingsprofiel.",
+  "appearance": "Lichtgeel tot diepgouden kleur. Helder tot briljant. Laag tot matig wit schuim met redelijke tot goede houdbaarheid.",
+  "flavor": "Aanvankelijke zachte moutigheid, maar kan ook lichte karaktermoutsmaak hebben (bijv. brood, toast, beschuit, tarwe). Karamelsmaken meestal afwezig; indien aanwezig, zijn het typisch lage-kleur karamel- of honingnoten. Lage tot matige fruitige esters optioneel, maar zijn welkom. Lichte tot matige hopsmaak (elke variëteit), maar mag niet overdreven agressief zijn. Matig-lage tot matige bitterheid, maar de balans ligt normaal gesproken naar de mout of zelfs tussen mout en hop. Eindigt matig-droog tot licht moutig; een indruk van zoetheid is vaak een uiting van lagere bitterheid dan werkelijke resterende zoetheid. Zuiver gistingsprofiel.",
+  "mouthfeel": "Matig-licht tot matig mondgevoel. Matige tot hoge koolzuurgraad. Soepel zonder zwaar te zijn.",
+  "comments": "Geoxideerde versies kunnen karamel- of honingnoten ontwikkelen, die niet verward moeten worden met vergelijkbare mout-afgeleide smaken. Soms bekend als Golden Ale of simpelweg een Gold.",
+  "history": "Een Amerikaanse craft bierstijl geproduceerd als een sneller geproduceerd alternatief voor standaard Amerikaanse lagers. Naar verluidt voor het eerst geproduceerd in 1987 bij Catamount. Vaak gepositioneerd als instapniveau huisale.",
+  "characteristicIngredients": "Over het algemeen volledig mout, maar kan tarwemout of suiker hulpstoffen bevatten. Elke hopvariëteit kan gebruikt worden. Zuivere Amerikaanse, licht fruitige Engelse, of Kölsch gist. Kan ook gemaakt worden met lagergist, of koud geconditioneerd.",
+  "styleComparison": "Heeft typisch meer smaak dan American Lager en Cream Ale. Minder bitterheid dan een American Pale Ale. Mogelijk vergelijkbaar met enkele moutigere voorbeelden van Kölsch.",
   "vitalStatistics": {
     "og": {
       "min": 1.038,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 3.8,
       "max": 5.5
+    },
+    "ebc": {
+      "min": 5,
+      "max": 12
     }
   },
   "commercialExamples": [

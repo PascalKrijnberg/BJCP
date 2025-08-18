@@ -2,14 +2,14 @@
   "category": "20",
   "subcategory": "A",
   "name": "American Porter",
-  "overallImpression": "Een moutig, bitter en vaak enigszins hoppig donker bier met een gebalanceerd, geroosterd en vaak chocoladeachtig karakter.",
-  "aroma": "Middelmatig-licht tot middelmatig-sterk roosteraroma, vaak met een chocolade-, lichte koffie- of licht verbrande karakter, soms met een achtergrond van karamel- of toffeezoetheid, of een moutige rijkdom. Het harsachtige, aardse of bloemige hopkarakter kan variëren van laag tot hoog. Gematigde fruitige esters zijn optioneel. Mag niet scherp, bijtend of zuur lijken. De mout-hopbalans kan variëren, maar moet altijd een geroosterd moutaroma hebben.",
-  "appearance": "Middelbruin tot zeer donkerbruin, vaak met robijn- of granaat-achtige accenten. Kan zwart van kleur benaderen. Helder, indien niet ondoorzichtig. Volle, taankleurige schuimkraag met redelijk goede schuimretentie.",
-  "flavor": "Middelmatig sterke geroosterde smaak, vaak met een chocolade- en licht verbrand karakter, soms met een zoete karamel- of moutige rijkdom als ondersteuning. Middelmatige tot hoge bitterheid, en een droge tot middelmatig-zoete afdronk. Donkere mouten kunnen deze indruk verscherpen, maar mogen geen bijtende, verbrande of harde smaak toevoegen. Lage tot hoge harsachtige, aardse of bloemige hopsmaak, die niet mag botsen met de donkere mout. Dry-hopped versies kunnen een frisse hop- of harsachtige smaak hebben. Gematigde fruitige esters zijn optioneel. Mag geen zure bijt hebben.",
-  "mouthfeel": "Middelmatige tot middelmatig-volle body. Gematigd laag tot gematigd hoog koolzuur. Sterkere versies kunnen een lichte alcoholwarmte hebben. Kan een lichte donkere mout-astringentie hebben, maar dit karakter mag niet sterk zijn.",
-  "comments": "Soms Robust Porter genoemd, wordt steeds moeilijker te vinden. Een vrij brede stijl die open staat voor interpretatie door de brouwer. Donkere mout-intensiteit en smaak kunnen aanzienlijk variëren. Kan al dan niet een sterk hopkarakter hebben, of significante fermentatiebijproducten; kan dus een 'Amerikaans' of 'Brits' karakter lijken te hebben.",
+  "overallImpression": "Een moutig, bitter en vaak enigszins hoppig donker bier met een gebalanceerd, geroosterd en frequent chocoladeachtig karakter.",
+  "aroma": "Matig-licht tot matig-sterk geroosterd aroma, vaak met een chocolade-, lichte koffie- of licht verbrande karakter, soms met een achtergrond van karamel- of toffeezoetheid, of een moutige rijkdom. Het harsachtige, aardse of bloemige hopkarakter kan variëren van laag tot hoog. Matige fruitige esters zijn optioneel. Mag niet scherp, bijtend of zuur lijken. De mout-hopbalans kan variëren, maar moet altijd een geroosterd moutaroma hebben.",
+  "appearance": "Middelbruin tot zeer donkerbruin, vaak met robijn- of granaat-achtige highlights. Kan zwart van kleur naderen. Helder, indien niet ondoorzichtig. Volle, geelbruine schuimkraag met matig goede schuimretentie.",
+  "flavor": "Matig sterke geroosterde smaak, vaak met een chocolade- en licht verbrande karakter, soms met een zoete karamel- of moutige rijkdom ter ondersteuning. Matige tot hoge bitterheid, en een droge tot matig-zoete afdronk. Donkere mouten kunnen deze indruk verscherpen, maar mogen geen bijtende, verbrande of harde smaak toevoegen. Lage tot hoge harsachtige, aardse of bloemige hopsmaak, die niet mag botsen met de donkere mout. Dry-hopped versies kunnen een frisse hop- of harsachtige smaak hebben. Matige fruitige esters zijn optioneel. Mag geen zure bite hebben.",
+  "mouthfeel": "Matig tot matig-vol mondgevoel. Matig lage tot matig hoge koolzuur. Sterkere versies kunnen een lichte alcoholwarmte hebben. Kan een lichte donkere mout-adstringentie hebben, maar dit karakter mag niet sterk zijn.",
+  "comments": "Soms Robust Porter genoemd, wordt steeds moeilijker te vinden. Een vrij brede stijl die open staat voor interpretatie door de brouwer. Donkere moutintensiteit en smaak kunnen significant variëren. Kan al dan niet een sterk hopkarakter hebben, of significante fermentatiebijproducten; kan dus een 'Amerikaans' of 'Brits' karakter lijken te hebben.",
   "history": "Een sterkere, meer agressieve versie van eerdere Pre-Prohibition Porters of English Porters, voor het eerst gebrouwen in het moderne craft beer tijdperk (geïntroduceerd in 1974). Deze stijl beschrijft de moderne craft versie; zie Historical Beer: Pre-Prohibition Porter voor de oudere Amerikaanse versie.",
-  "characteristicIngredients": "Lichte basismout, vaak kristalmout. Donkere mouten, vaak zwarte mout of chocolademout. Amerikaanse hop wordt typisch gebruikt voor bitterheid, maar Amerikaanse of Britse afwerkingshop kunnen worden gebruikt. Ale-gist kan zowel schone Amerikaanse versies als karaktervolle Engelse variëteiten zijn.",
+  "characteristicIngredients": "Bleke basismout, frequent kristalmout. Donkere mouten, vaak zwarte mout of chocolademout. Amerikaanse hop typisch gebruikt voor verbittering, maar Amerikaanse of Britse finishing hops kunnen worden gebruikt. Gist kan ofwel schone Amerikaanse versies zijn of karaktervolle Engelse variëteiten.",
   "styleComparison": "Bitterder en vaak sterker met meer donkere moutkwaliteiten en droogheid dan English Porters of Pre-Prohibition Porters. Minder sterk en assertief dan American Stouts.",
   "vitalStatistics": {
     "og": {
@@ -31,34 +31,29 @@
     "abv": {
       "min": 4.8,
       "max": 6.5
+    },
+    "ebc": {
+      "min": 43,
+      "max": 79
     }
   },
   "commercialExamples": [
     "Anchor Porter",
-    "Bell's Porter",
+    "Bell’s Porter",
     "Deschutes Black Butte Porter",
     "Great Lakes Edmund Fitzgerald Porter",
     "Sierra Nevada Porter",
     "Smuttynose Robust Porter"
   ],
   "tags": [
-    "standaard-sterkte",
-    "donkere-kleur",
-    "bovengegist",
-    "noord-amerika",
-    "craft-stijl",
-    "porter-familie",
+    "standard-strength",
+    "dark-color",
+    "top-fermented",
+    "northamerica",
+    "craft-style",
+    "porter-family",
     "bitter",
-    "roosterig",
-    "hoppig",
-    "hoge-sterkte",
-    "donkere-kleur",
-    "bovengegist",
-    "noord-amerika",
-    "craft-stijl",
-    "stout-familie",
-    "bitter",
-    "roosterig",
-    "hoppig"
+    "roasty",
+    "hoppy"
   ]
 }

@@ -2,15 +2,15 @@
   "category": "25",
   "subcategory": "C",
   "name": "Belgian Golden Strong Ale",
-  "overallImpression": "Een zeer licht, sterk vergist, sterk Belgisch bier dat meer fruitig en hoppig is dan kruidig. Complex en delicaat, de droge afdronk, lichte body en hoge koolzuur accentueren het gist- en hopkarakter. Sprankelend koolzuur en bruisend, vormend een rotsachtige witte schuimkraag.",
-  "aroma": "Een complex boeket van fruitige esters, kruidig hop en peperige alcohol over een bijna neutrale moutbasis. De esters zijn gematigd tot hoog, vaak steenvrucht, vooral peer. Hop is kruidig, bloemig of kruidig, laag tot gematigd. Alcohol en fenolen hebben vaak een peperige of parfumachtige kwaliteit, laag tot gematigd. Alcoholperceptie moet zacht zijn, niet heet of oplosmiddelachtig. Bijna neutrale mout, mogelijk licht graanachtig-zoet.",
-  "appearance": "Bleekgeel tot goudkleurig. Goede helderheid. Bruisend. Massieve, langdurige, rotsachtige, witte schuimkraag resulterend in karakteristiek Belgisch kant op het glas wanneer het wegtrekt.",
-  "flavor": "Smaakprofiel vergelijkbaar met aroma (dezelfde beschrijvingen en intensiteiten gelden) voor esters, hop, mout, fenolen en alcohol. De peerachtige esters, peperige alcohol, kruidig hop en zachte moutsmaken dragen door het gehemelte naar de lange, droge afdronk en nasmaak. Gemiddelde tot hoge bitterheid, geaccentueerd door de droge afdronk en hoge koolzuur, houdt aan in de nasmaak.",
-  "mouthfeel": "Zeer hoog koolzuurgehalte. Bruisend. Lichte tot gemiddelde body, lichter dan het substantiële soortelijk gewicht zou suggereren. Koolzuur accentueert de perceptie van lichtheid. Glad maar merkbare alcoholwarmte, niet heet of oplosmiddelachtig.",
-  "comments": "Verwijzingen naar de duivel zijn opgenomen in de namen van veel commerciële voorbeelden van deze stijl, verwijzend naar hun krachtige alcoholsterkte en als eerbetoon aan het oorspronkelijke voorbeeld (Duvel). Traditioneel fles-geconditioneerd.",
+  "overallImpression": "Een zeer bleek, sterk vergist, sterk Belgisch bier dat meer fruitig en hoppig is dan kruidig. Complex en delicaat, waarbij de droge afdronk, lichte body en hoge koolzuurvorming het gist- en hopkarakter accentueren. Sprankelende koolzuurvorming en bruisend, vormend een rotsachtige witte schuimkraag.",
+  "aroma": "Een complex boeket van fruitige esters, kruidige hop en peperige alcohol over een bijna neutrale moutbasis. De esters zijn matig tot hoog, vaak kernfruit, vooral peer. Hop is kruidig, bloemig of pikant, laag tot matig. Alcohol en fenolen hebben vaak een peperige of parfumachtige kwaliteit, laag tot matig. Alcoholperceptie moet zacht zijn, niet heet of oplosmiddelachtig. Bijna neutrale mout, mogelijk licht graanzoet.",
+  "appearance": "Bleekgeel tot goud van kleur. Goede helderheid. Bruisend. Massieve, langdurige, rotsachtige, witte schuimkraag resulterend in karakteristiek Belgisch kant op het glas terwijl het wegtrekt.",
+  "flavor": "Smaakprofiel vergelijkbaar met aroma (dezelfde beschrijvers en intensiteiten gelden) voor esters, hop, mout, fenolen en alcohol. De peerachtige esters, peperige alcohol, kruidige hop en zachte moutsmaken dragen door het gehemelte naar de lange, droge afdronk en nasmaak. Matige tot hoge bitterheid, geaccentueerd door de droge afdronk en hoge koolzuurvorming, houdt aan in de nasmaak.",
+  "mouthfeel": "Zeer hoog koolzuurhoudend. Bruisend. Lichte tot medium body, lichter dan het substantiële soortelijk gewicht zou doen vermoeden. Koolzuurvorming accentueert de perceptie van lichtheid. Gladde maar merkbare alcoholwarmte, niet heet of oplosmiddelachtig.",
+  "comments": "Verwijzingen naar de duivel zijn opgenomen in de namen van veel commerciële voorbeelden van deze stijl, verwijzend naar hun krachtige alcoholsterkte en als eerbetoon aan het originele voorbeeld (Duvel). Traditioneel fles-gegist.",
   "history": "Ontwikkeld door brouwerij Moortgat na WOI als reactie op de groeiende populariteit van Pilsner bieren. Oorspronkelijk een donkerder bier, bereikte het zijn moderne vorm tegen de jaren 1970.",
-  "characteristicIngredients": "Pilsner mout met substantiële suikerachtige adjuncten. Continentale hop. Fruitige Belgische gist. Vrij zacht water. Kruiden niet traditioneel.",
-  "styleComparison": "Vaak verward met Belgian Tripel, maar is meestal lichter, lichter van body, frisser en droger. Heeft de neiging gist te gebruiken die esterontwikkeling (vooral steenvrucht) begunstigt boven kruidigheid in de balans, en heeft meer van een laat hopkarakter.",
+  "characteristicIngredients": "Pilsner mout met substantiële suikerachtige hulpstoffen. Continentale hop. Fruitige Belgische gist. Redelijk zacht water. Kruiding niet traditioneel.",
+  "styleComparison": "Vaak verward met Belgian Tripel, maar is meestal bleker, lichter van body, knapperiger en droger. Heeft de neiging gist te gebruiken die esterontwikkeling (vooral kernfruit) boven kruidigheid in de balans begunstigt, en heeft meer van een laat hopkarakter.",
   "vitalStatistics": {
     "og": {
       "min": 1.07,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 7.5,
       "max": 10.5
+    },
+    "ebc": {
+      "min": 5,
+      "max": 12
     }
   },
   "commercialExamples": [
@@ -46,7 +50,6 @@
     "pale-color",
     "top-fermented",
     "westerneurope",
-    "traditional-style",
-    "bitter BJCP Beer Style Guidelines – 2021 Edition"
+    "traditional-style"
   ]
 }

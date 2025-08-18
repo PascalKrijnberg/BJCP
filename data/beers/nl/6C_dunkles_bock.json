@@ -2,15 +2,15 @@
   "category": "6",
   "subcategory": "C",
   "name": "Dunkles Bock",
-  "overallImpression": "Een sterk, donker, moutig Duits lagerbier dat de mout-rijke en enigszins geroosterde kwaliteiten van continentale mouten benadrukt zonder zoet te zijn in de afdronk.",
-  "aroma": "Middelmatig tot middelmatig-hoog rijk broodachtig-moutig aroma, vaak met matige hoeveelheden rijke Maillard-producten of geroosterde ondertonen. Vrijwel geen hoparoma. Enige alcohol kan merkbaar zijn. Zuiver lagerkarakter, hoewel een licht donker fruitkarakter toelaatbaar is.",
-  "appearance": "Licht koperkleurig tot bruine kleur, vaak met aantrekkelijke granaatrode accenten. Goede helderheid ondanks de donkere kleur. Grote, romige, persistente, gebroken witte schuimkraag.",
-  "flavor": "Middelmatig tot middelmatig-hoog complex, rijk moutigheid wordt gedomineerd door geroosterd-rijke Maillard-producten. Enkele donkere karamelnoten kunnen aanwezig zijn. Hopbitterheid is over het algemeen alleen hoog genoeg om de moutsmaken te ondersteunen, waardoor een beetje moutige zoetheid kan blijven hangen in de afdronk. Goed uitgegist, niet kleverig. Zuiver gistingsprofiel, hoewel de mout een licht donker fruitkarakter kan bieden. Geen hopsmaak. Geen geroosterd, verbrand of droog biscuitkarakter.",
-  "mouthfeel": "Middelmatig tot middelmatig-vol lichaam. Matig tot matig laag koolzuur. Enige alcoholwarmte kan worden aangetroffen, maar mag nooit heet zijn. Glad, zonder scherpheid of samentrekkendheid.",
-  "comments": "Decoctiebrouwen speelt een belangrijke rol in smaakontweikkeling, omdat het de karamel- en Maillard-smaakaspecten van de mout versterkt.",
-  "history": "Ontstaan in de Noord-Duitse stad Einbeck, die een brouwcentrum was en populaire exporteur in de dagen van de Hanze (14e tot 17e eeuw). Opnieuw gecreëerd in München vanaf de 17e eeuw. \"Bock\" vertaalt naar \"Ram\" in het Duits, wat verklaart waarom het dier vaak wordt gebruikt in logo's en advertenties.",
-  "characteristicIngredients": "München en Weense mouten, zelden een klein beetje donkere geroosterde mouten voor kleurcorrectie, nooit enige niet-mout toevoegingen. Continentaal Europese hopvariëteiten worden gebruikt. Zuivere Duitse lagergist.",
-  "styleComparison": "Donkerder, met een rijkere moutige smaak en minder waarneembare bitterheid dan een Helles Bock. Minder alcohol en moutige rijkdom dan een Doppelbock. Sterkere moutsmaken en hoger alcohol dan een Märzen. Rijker, minder uitgegist en minder hoppig dan een Tsjechische Amber Lager.",
+  "overallImpression": "Een sterk, donker, moutig Duits lagerbier dat de moutrijke en enigszins geroosterde kwaliteiten van continentale mouten benadrukt zonder zoet te zijn in de afdronk.",
+  "aroma": "Medium tot medium-hoog rijk broodachtig-moutig aroma, vaak met matige hoeveelheden rijke Maillard-producten of geroosterde ondertonen. Vrijwel geen hoparoma. Enige alcohol kan merkbaar zijn. Schoon lagerkarakter, hoewel een licht donker fruitkarakter toelaatbaar is.",
+  "appearance": "Licht koperkleurig tot bruin van kleur, vaak met aantrekkelijke granaatrode accenten. Goede helderheid ondanks de donkere kleur. Grote, romige, blijvende, gebroken witte schuimkraag.",
+  "flavor": "Medium tot medium-hoge complexe, rijke moutigheid wordt gedomineerd door geroosterd-rijke Maillard-producten. Enkele donkere karamelnoten kunnen aanwezig zijn. Hopbitterheid is over het algemeen alleen hoog genoeg om de moutsmaken te ondersteunen, waardoor een beetje moutige zoetheid kan blijven hangen in de afdronk. Goed uitgegist, niet kleverig. Schoon gistingsprofiel, hoewel de mout een licht donker fruitkarakter kan bieden. Geen hopsmaak. Geen geroosterd, verbrand of droog beschuitachtig karakter.",
+  "mouthfeel": "Medium tot medium-vol van body. Matig tot matig laag koolzuurgehalte. Enige alcoholwarmte kan worden aangetroffen, maar mag nooit heet zijn. Glad, zonder scherpte of samentrekkendheid.",
+  "comments": "Decoctiebeslag speelt een belangrijke rol in de smaalontwikkeling, omdat het de karamel- en Maillard-smaakaspecten van de mout versterkt.",
+  "history": "Ontstaan in de Noord-Duitse stad Einbeck, die een brouwcentrum was en populaire exporteur in de tijd van de Hanze (14e tot 17e eeuw). Nagemaakt in München vanaf de 17e eeuw. 'Bock' betekent 'Ram' in het Duits, daarom wordt het dier vaak gebruikt in logo's en advertenties.",
+  "characteristicIngredients": "München- en Wenenmouten, zelden een heel klein beetje donker geroosterde mouten voor kleurcorrectie, nooit niet-mout hulpstoffen. Continentaal Europese hopvariëteiten worden gebruikt. Schone Duitse lagergist.",
+  "styleComparison": "Donkerder, met een rijkere moutige smaak en minder merkbare bitterheid dan een Helles Bock. Minder alcohol en moutige rijkdom dan een Doppelbock. Sterkere moutsmaken en hoger alcoholgehalte dan een Märzen. Rijker, minder uitgegist en minder hoppig dan een Tsjechisch Amber Lager.",
   "vitalStatistics": {
     "og": {
       "min": 1.064,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 6.3,
       "max": 7.2
+    },
+    "ebc": {
+      "min": 27,
+      "max": 44
     }
   },
   "commercialExamples": [
@@ -38,7 +42,7 @@
     "Einbecker Ur-Bock Dunkel",
     "Kneitinger Bock",
     "Lindeboom Bock",
-    "Schell's Bock",
+    "Schell’s Bock",
     "Penn Brewery St. Nikolaus Bock"
   ],
   "tags": [
@@ -48,7 +52,6 @@
     "lagered",
     "central-europe",
     "traditional-style",
-    "bock-family",
-    "malty BJCP Beer Style Guidelines – 2021 Edition"
+    "bock-family"
   ]
 }

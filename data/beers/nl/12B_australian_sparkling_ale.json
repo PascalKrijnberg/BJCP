@@ -1,17 +1,17 @@
 {
   "category": "1",
   "subcategory": "2",
-  "name": "Australische Sparkling Ale",
-  "overallImpression": "Een sterk koolzuurhoudend, zeer licht bier met bijna geen smaak, ontworpen om heel koud gedronken te worden. Zeer verfrissend en dorstlessend.",
-  "aroma": "Lage moutaroma optioneel, maar kan worden waargenomen als graanachtig, zoet of maisachtig, indien aanwezig. Lichte kruidig, bloemige of kruidige hoparoma optioneel. Hoewel een schoon gistingsprofiel wenselijk is, is een lichte hoeveelheid gistkarakter geen fout.",
-  "appearance": "Zeer lichtgele tot bleekgele kleur. Witte, schuimige kraag blijft zelden lang bestaan. Zeer helder.",
-  "flavor": "Relatief neutraal smaakprofiel met een krokante, droge afdronk en een lage tot zeer lage graanachtige of maisachtige smaak die als zoetheid kan worden ervaren vanwege de lage bitterheid. Lage bloemige, kruidig of kruidige hopsmaak optioneel, maar is zelden sterk genoeg om te detecteren. Lage tot zeer lage bitterheid. Balans kan variëren van licht moutig tot licht bitter, maar is meestal bijna gelijk. Hoog koolzuurgehalte kan de krokanttheid van de droge afdronk accentueren. Schoon gistingsprofiel.",
-  "mouthfeel": "Zeer licht, soms waterig mondgevoel. Zeer sterk koolzuurhoudend met lichte koolzuurbeet op de tong.",
-  "comments": "Ontworpen om te appelleren aan zo breed mogelijk publiek. Sterke smaken zijn een fout. Met weinig mout- of hopsmaak is het gistkarakter vaak wat de meeste merken onderscheidt.",
-  "history": "Coors maakte kort een licht lager in de vroege jaren 1940. Moderne versies werden voor het eerst geproduceerd door Rheingold in 1967 om dieetbewuste drinkers aan te spreken, maar werden pas populair vanaf 1973 nadat Miller Brewing het recept verwierf en het bier intensief op de markt bracht bij sportfans met de 'tastes great, less filling' campagne. Bieren van dit genre werden de grootste verkopers in de Verenigde Staten in de jaren 1990.",
-  "characteristicIngredients": "Twee- of zesrij gerst met tot 40% rijst of maïs als hulpgranen. Extra enzymen kunnen het lichaam verder verlichten en koolhydraten verlagen. Lagergist. Verwaarloosbare hop.",
-  "styleComparison": "Een lichter, lager alcohol, lagere calorie versie van een American Lager. Minder hopkarakter en bitterheid dan een Duitse Leichtbier.",
-  "entryInstructions": "Deelnemer mag regionale variaties specificeren, indien gewenst (Mexicaans lager, Nederlands lager, etc.).",
+  "name": "Australian Sparkling Ale",
+  "overallImpression": "Een zeer koolzuurrijke, zeer lichtvoetige, vrijwel smaakloze lager die ontworpen is om zeer koud geconsumeerd te worden. Zeer verfrissend en dorstlessend.",
+  "aroma": "Laag moutaroma optioneel, maar kan worden waargenomen als graanachtig, zoet, of maïsachtig, indien aanwezig. Licht kruidig, bloemig, of kruidige hoparoma optioneel. Hoewel een schoon gistingsprofiel wenselijk is, is een lichte hoeveelheid gistkarakter geen fout.",
+  "appearance": "Zeer licht strookleurig tot lichtgeel van kleur. Wit, schuimig schuim houdt zelden stand. Zeer helder.",
+  "flavor": "Relatief neutraal gehemelte met een knapperige, droge afdronk en een lage tot zeer lage graanachtige of maïsachtige smaak die als zoetheid kan worden waargenomen door de lage bitterheid. Lage bloemige, kruidige, of kruidige hopsmaak optioneel, maar is zelden sterk genoeg om te detecteren. Lage tot zeer lage bitterheid. Balans kan variëren van licht moutig tot licht bitter, maar is meestal bijna gelijk. Hoog koolzuurgehalte kan de knapperigheid van de droge afdronk accentueren. Schoon gistingsprofiel.",
+  "mouthfeel": "Zeer licht, soms waterig lichaam. Zeer hoog koolzuurgehalte met lichte koolzuurbeet op de tong.",
+  "comments": "Ontworpen om zo breed mogelijk deel van het algemene publiek aan te spreken. Sterke smaken zijn een fout. Met weinig mout- of hopsmaak is het gistkarakter vaak wat de meeste merken onderscheidt.",
+  "history": "Coors maakte kort een lichte lager in de vroege jaren 1940. Moderne versies werden voor het eerst geproduceerd door Rheingold in 1967 om dieetbewuste drinkers aan te spreken, maar werden pas populair vanaf 1973 nadat Miller Brewing het recept verwierf en het bier zwaar op de markt bracht naar sportfans met de 'tastes great, less filling' campagne. Bieren van dit genre werden de grootste verkopers in de Verenigde Staten in de jaren 1990.",
+  "characteristicIngredients": "Twee- of zesrijige gerst met tot 40% rijst of maïs als hulpstoffen. Aanvullende enzymen kunnen het lichaam verder verlichten en koolhydraten verlagen. Lagergist. Verwaarloosbare hop.",
+  "styleComparison": "Een lichter lichaam, lager alcohol, lagere calorie versie van een American Lager. Minder hopkarakter en bitterheid dan een German Leichtbier.",
+  "entryInstructions": "Entrant may specify regional variations, if desired (Mexican lager, Dutch lager, etc.).",
   "vitalStatistics": {
     "og": {
       "min": 1.028,
@@ -32,6 +32,10 @@
     "abv": {
       "min": 2.8,
       "max": 4.2
+    },
+    "ebc": {
+      "min": 3,
+      "max": 6
     }
   },
   "commercialExamples": [

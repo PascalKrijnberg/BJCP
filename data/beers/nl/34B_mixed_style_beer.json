@@ -1,19 +1,19 @@
 {
   "category": "34",
   "subcategory": "B",
-  "name": "Gemengde Stijl Bier",
-  "overallImpression": "Gebaseerd op de aangegeven Basisstijlen, methoden en ingrediënten. Zoals bij alle Specialiteit-Type Bieren moet de resulterende combinatie van bierstijlen harmonieus en evenwichtig zijn, en aangenaam om te drinken.",
+  "name": "Mixed-Style Beer",
+  "overallImpression": "Gebaseerd op de aangegeven Basisstijlen, methoden en ingrediënten. Zoals bij alle Specialiteit-Type Bieren, moet de resulterende combinatie van bierstijlen harmonieus en evenwichtig zijn, en aangenaam om te drinken.",
   "aroma": "Gebaseerd op de aangegeven Basisstijlen.",
   "appearance": "Gebaseerd op de aangegeven Basisstijlen.",
   "flavor": "Gebaseerd op de aangegeven Basisstijlen.",
   "mouthfeel": "Gebaseerd op de aangegeven Basisstijlen.",
-  "comments": "Zie voorwoord voor doelstelling.",
-  "entryInstructions": "De deelnemer moet de gebruikte Basisstijl of -stijlen specificeren, evenals eventuele speciale ingrediënten, processen of variaties. De deelnemer kan een aanvullende beschrijving geven van het sensorische profiel van het bier of de vitale statistieken van het resulterende bier.",
+  "comments": "Zie inleiding voor de bedoeling.",
+  "entryInstructions": "The entrant must specify the Base Style or Styles being used, and any special ingredients, processes, or variations involved. The entrant may provide an additional description of the sensory profile of the beer or the vital statistics of the resulting beer.",
   "vitalStatistics": {},
   "commercialExamples": [
     "Birrificio Italiano Tipopils",
     "Firestone Walker Pivo Pils",
-    "Jack's Abby Hoponius Union",
+    "Jack’s Abby Hoponius Union",
     "Ommegang Helles Superior"
   ],
   "tags": [

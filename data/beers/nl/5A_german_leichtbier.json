@@ -2,15 +2,15 @@
   "category": "5",
   "subcategory": "A",
   "name": "German Leichtbier",
-  "overallImpression": "Een licht, sterk vergist, lichaamsloos Duits lager met lager alcohol en calorieën dan bieren van standaardsterkte. Matig bitter met merkbare mout- en hopsmaken, het bier is nog steeds interessant om te drinken.",
-  "aroma": "Laag tot matig hoparoma, met een kruidig, kruiden- of bloemig karakter. Laag tot matig-laag graanachtig-zoet of licht knapperig moutaroma. Schoon gistingsprofiel.",
-  "appearance": "Licht strogeel tot diep geel van kleur. Briljante helderheid. Matig wit schuim met gemiddelde tot beneden gemiddelde persistentie.",
-  "flavor": "Aanvankelijk lage tot matige graanachtig-zoete moutsmaak. Matige hopbitterheid. Lage tot matige hopsmaak, met een kruidig, kruiden- of bloemig karakter. Schoon gistingskarakter, goed gelagerd. Droge afdronk met een lichte moutige en hoppige nasmaak.",
-  "mouthfeel": "Licht tot zeer licht lichaam. Matig tot hoog koolzuur. Glad, goed vergist.",
-  "comments": "Voornamelijk op de markt gebracht als een diëet-georiënteerd bier met lagere koolhydraten, alcohol en calorieën. Uitgesproken als 'LYESHT-beer.' Kan ook bekend zijn als een Diat Pils of Helles, deze stijl valt in de schankbier zwaarteklasse. Andere variaties van Leicht klasse bieren kunnen gemaakt worden van Weissbier, Kölsch en Altbier; die bieren worden het best ingediend als 34B Mixed-Style Beer.",
-  "history": "Traditionele versies bestonden als dranken voor fysieke arbeiders in fabrieken of velden, maar moderne versies zijn meer gebaseerd op populaire Amerikaanse producten in dezelfde klasse en gericht op gezondheids- of fitnessbewuste consumenten. Wordt in de huidige markt steeds meer verdrongen door alcoholvrije bieren en radlers.",
+  "overallImpression": "Een bleek, sterk uitgegist, lichtvoetig Duits lager met lager alcohol- en caloriegehalte dan bieren van standaardsterkte. Matig bitter met merkbare mout- en hoparoma's, het bier blijft interessant om te drinken.",
+  "aroma": "Laag tot matig hoparoma, met een kruidig, kruidachtig of bloemig karakter. Laag tot matig-laag graanzoet of licht krakend moutaroma. Schoon gistingsprofiel.",
+  "appearance": "Bleek strogeel tot diep geel van kleur. Briljante helderheid. Matig wit schuim met gemiddelde tot ondergemiddelde persistentie.",
+  "flavor": "Aanvankelijk laag tot matig graanzoet moutsmaak. Matige hopbitterheid. Lage tot matige hopsmaak, met een kruidig, kruidachtig of bloemig karakter. Schoon gistingskarakter, goed gelagerd. Droge afdronk met een lichte moutige en hoppige nasmaak.",
+  "mouthfeel": "Licht tot zeer licht lichaam. Matig tot hoog koolzuurgehalte. Soepel, goed uitgegist.",
+  "comments": "Voornamelijk op de markt gebracht als een dieetgericht bier met lagere koolhydraten, alcohol en calorieën. Uitgesproken als 'LYESHT-beer.' Kan ook bekend zijn als een Diät Pils of Helles, deze stijl valt in de schankbier zwaartekrachtklasse. Andere variaties van Leicht-klasse bieren kunnen gemaakt worden van Weissbier, Kölsch en Altbier; die bieren worden het best ingedeeld als 34B Gemengde Stijl Bier.",
+  "history": "Traditionele versies bestonden als dranken voor fysieke arbeiders in fabrieken of velden, maar moderne versies zijn meer gebaseerd op populaire Amerikaanse producten in dezelfde klasse en gericht op gezondheids- of fitnessbewuste consumenten. Wordt steeds meer verdrongen in de huidige markt door alcoholvrije bieren en radlers.",
   "characteristicIngredients": "Continentale Pils mout. Duitse lagergist. Traditionele Duitse hop.",
-  "styleComparison": "Als een lager-alcohol, lichter lichaam, iets minder agressief Duits Pils of Munich Helles. Bitterder en smaakvoller dan een American Light Lager.",
+  "styleComparison": "Zoals een lager-alcohol, lichter, iets minder agressieve Duitse Pils of Munich Helles. Bitterder en smaakvoller dan een American Light Lager.",
   "vitalStatistics": {
     "og": {
       "min": 1.026,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 2.4,
       "max": 3.6
+    },
+    "ebc": {
+      "min": 2,
+      "max": 8
     }
   },
   "commercialExamples": [

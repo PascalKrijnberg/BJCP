@@ -31,6 +31,10 @@
     "abv": {
       "min": 6.5,
       "max": 9.5
+    },
+    "ebc": {
+      "min": 33,
+      "max": 60
     }
   },
   "commercialExamples": [
@@ -48,7 +52,6 @@
     "lagered",
     "eastern-europe",
     "traditional-style",
-    "porter-family",
-    "malty BJCP Beer Style Guidelines – 2021 Edition"
+    "porter-family"
   ]
 }

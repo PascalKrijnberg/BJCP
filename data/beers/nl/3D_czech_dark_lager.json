@@ -1,16 +1,16 @@
 {
   "category": "3",
   "subcategory": "D",
-  "name": "Tsjechisch Donker Lager",
-  "overallImpression": "Een rijke, donkere, moutige Tsjechische lager met een geroosterd karakter dat kan variëren van bijna afwezig tot behoorlijk prominent. Moutige balans en een interessant en complex smaakprofiel, met variabele hopniveaus die een scala aan mogelijke interpretaties bieden.",
-  "aroma": "Middelmatig tot middelmatig-hoge rijke, diepe, soms zoete moutigheid, met optionele kwaliteiten zoals broodkorsten, toast, noten, cola, donker fruit, of karamel. Geroosterde moutkarakters zoals chocolade of gezoete koffie kunnen variëren van matig tot geen, maar mogen het basismoutkarakter niet overheersen. Lage tot matige kruidige hoparoma optioneel. Lage diacetyl en lage tot matige fruitige esters (pruimen of bessen) kunnen aanwezig zijn.",
-  "appearance": "Donker koper tot bijna zwarte kleur, vaak met een rode of granaat tint. Helder tot heldere helderheid. Grote, gebroken witte tot taankleurige, persistente schuimkraag.",
-  "flavor": "Middelmatige tot middelmatig-hoge diepe, complexe moutigheid domineert, typisch met mout-rijke Maillard-producten en een lichte tot matige resterende moutzoetheid. Moutsmaken zoals karamel, toast, noten, drop, gedroogd donker fruit, chocolade, of koffie kunnen ook aanwezig zijn, met zeer laag tot matig geroosterd karakter. Lage tot matige kruidige hopsmaak. Matige tot middelmatig-lage bitterheid, maar moet waarneembaar zijn. Balans kan variëren van moutig tot relatief goed gebalanceerd tot zachtjes hop-voorwaarts. Lage tot matige diacetyl en lichte pruim- of bessenesters kunnen aanwezig zijn.",
-  "mouthfeel": "Middelmatig tot middelmatig-vol lichaam, aanzienlijke mondgevoel zonder zwaar of kleverig te zijn. Matig romige textuur. Glad. Matige tot lage koolzuur. Kan een lichte alcoholwarmte hebben in sterkere versies.",
+  "name": "Czech Dark Lager",
+  "overallImpression": "Een rijke, donkere, moutige Tsjechische lager met een roostkarakter dat kan variëren van bijna afwezig tot vrij prominent. Moutige balans en een interessant en complex smaakprofiel, met variabele hopniveaus die een scala aan mogelijke interpretaties bieden.",
+  "aroma": "Medium tot medium-hoge rijke, diepe, soms zoete moutigheid, met optionele kwaliteiten zoals broodkorsten, toast, noten, cola, donker fruit of karamel. Geroosterde moutkarakters zoals chocolade of gezoete koffie kunnen variëren van matig tot afwezig maar mogen het basismoutkarakter niet overheersen. Lage tot matige kruidig hoparoma optioneel. Lage diacetyl en lage tot matige fruitige esters (pruimen of bessen) kunnen aanwezig zijn.",
+  "appearance": "Donkere koper tot bijna zwarte kleur, vaak met een rode of granaatrode tint. Helder tot stralende helderheid. Grote, gebroken witte tot geelbruine, persistente schuimkraag.",
+  "flavor": "Medium tot medium-hoge diepe, complexe moutigheid domineert, typisch met mout-rijke Maillard-producten en een lichte tot matige resterende moutzoetheid. Moutsmaken zoals karamel, toast, noten, drop, gedroogd donker fruit, chocolade of koffie kunnen ook aanwezig zijn, met zeer laag tot matig roostkarakter. Lage tot matige kruidig hopsmaak. Matige tot medium-lage bitterheid, maar moet waarneembaar zijn. Balans kan variëren van moutig tot relatief goed gebalanceerd tot zacht hop-dominant. Lage tot matige diacetyl en lichte pruim- of bessenesters kunnen aanwezig zijn.",
+  "mouthfeel": "Medium tot medium-vol lichaam, aanzienlijk mondgevoel zonder zwaar of kleverig te zijn. Matig romige textuur. Glad. Matige tot lage koolzuur. Kan een lichte alcoholwarmte hebben in sterkere versies.",
   "comments": "Deze stijl is een combinatie van de Tsjechische stijlen tmavý ležák (11-12,9 °P) en tmavé speciální pivo (13-14,9 °P). Modernere voorbeelden zijn droger en hebben hogere bitterheid terwijl traditionele versies vaak IBU's in het 18-20 bereik hebben met een zoetere balans.",
   "history": "De U Fleků brouwerij is sinds 1499 actief in Praag en produceert de bekendste versie. Veel kleine, nieuwe brouwerijen brouwen deze stijl.",
-  "characteristicIngredients": "Pilsner en donkere karamelmout met toevoeging van onverbitterde geroosterde mouten zijn het meest gebruikelijk, maar toevoegingen van Weense of Münchener mout zijn ook geschikt. Water met laag mineraalgehalte. Traditionele Tsjechische hop. Tsjechische lagergist.",
-  "styleComparison": "Het bier is het Tsjechische equivalent van een donker lager dat in karakter varieert van München Dunkel tot Schwarzbier, maar typisch met meer moutrijkdom en hoparoma, -smaak en -bitterheid.",
+  "characteristicIngredients": "Pilsner en donkere karamelmout met toevoeging van ontbitterde geroosterde mouten zijn het meest gebruikelijk, maar toevoegingen van Vienna of Munich mout zijn ook geschikt. Water met laag mineraalgehalte. Traditionele Tsjechische hop. Tsjechische lagergist.",
+  "styleComparison": "Het bier is het Tsjechische equivalent van een donkere lager variërend in karakter van Munich Dunkel tot Schwarzbier, maar typisch met meer moutrijkdom en hoparoma, smaak en bitterheid.",
   "vitalStatistics": {
     "og": {
       "min": 1.044,
@@ -31,6 +31,10 @@
     "abv": {
       "min": 4.4,
       "max": 5.8
+    },
+    "ebc": {
+      "min": 33,
+      "max": 69
     }
   },
   "commercialExamples": [
@@ -49,7 +53,6 @@
     "lagered",
     "central-europe",
     "traditional-style",
-    "dark-lager-family",
-    "balanced BJCP Beer Style Guidelines – 2021 Edition"
+    "dark-lager-family"
   ]
 }

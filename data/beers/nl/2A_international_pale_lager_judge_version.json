@@ -1,0 +1,60 @@
+{
+  "activeForBKG": true,
+  "category": "2",
+  "subcategory": "A",
+  "name": "International Pale Lager",
+  "overallImpression": "Een sterk uitgegiste lichte lager zonder sterke smaken, meestal goed gebalanceerd en sterk koolzuurhoudend. Koud geserveerd is het verfrissend en dorstlessend.",
+  "aroma": "Laag tot medium-laag graanachtig-moutig of licht maïszoet moutaroma. Zeer laag tot medium kruidig, bloemig of kruidachtig hoparoma. Schoon gistingsprofiel.",
+  "appearance": "Lichtgele tot gouden kleur. Witte schuimkraag die mogelijk niet lang standhoudt. Zeer helder.",
+  "flavor": "Lage tot matige graanachtig-moutige smaak, medium-lage tot medium bitterheid, met een knapperige, droge, goed uitgegiste afdronk. Het graankarakter kan enigszins neutraal zijn, of een lichte broodachtig-krakende kwaliteit tonen. Matige maïsachtige of moutige zoetheid optioneel. Medium bloemige, kruidige of kruidachtige hopsmaak optioneel. Balans kan variëren van licht moutig tot licht bitter, maar is meestal relatief dicht bij evenwichtig. Neutrale nasmaak met lichte mout- en soms hopsmaken.",
+  "mouthfeel": "Licht tot medium body. Matig hoog tot sterk koolzuurhoudend. Kan een lichte koolzuurbeet op de tong hebben.",
+  "comments": "Heeft de neiging minder toevoegingen te hebben dan Amerikaanse Lagers. Ze kunnen volledig mout zijn, hoewel sterke smaken nog steeds een fout zijn. Een brede categorie van internationale massa-markt lagers variërend van luxe Amerikaanse lagers tot de typische \"import\" of \"groene fles\" internationale bieren die in Amerika en veel exportmarkten worden gevonden. Vaak verwarrend gelabeld als \"Pilsner.\" Elke skunkachtigheid in commerciële bieren is een behandelfout, geen karakteristiek van de stijl.",
+  "history": "In de Verenigde Staten ontwikkeld als een premium versie van de standaard Amerikaanse lager, met een vergelijkbare geschiedenis. Buiten de VS ontwikkeld als een imitatie van Amerikaanse lagers, of als een toegankelijkere (en vaak drogere en minder bittere) versie van een Pilsner-type bier. Vaak zwaar gemarkeerd en geëxporteerd door grote industriële of multinationale brouwerijen.",
+  "characteristicIngredients": "Twee- of zesrijige gerst. Mag rijst, maïs of suiker als toevoegingen gebruiken, maar zijn over het algemeen volledig mout.",
+  "styleComparison": "Over het algemeen bitterder en vullender dan Amerikaanse Lager. Minder hopachtig en bitter dan een Duitse Pils. Minder body, moutsmaak en hopkarakter dan een Tsjechische Premium Pale Lager. Robuustere versies kunnen een Munich Helles in smaak benaderen, maar met meer van een toevoegingskwaliteit.",
+  "entryInstructions": "Deelnemer mag regionale varianten specificeren indien gewenst (Mexicaanse lager, Nederlandse lager, etc.).",
+  "vitalStatistics": {
+    "og": {
+      "min": 1.042,
+      "max": 1.05
+    },
+    "fg": {
+      "min": 1.008,
+      "max": 1.012
+    },
+    "ibu": {
+      "min": 18,
+      "max": 25
+    },
+    "srm": {
+      "min": 2.0,
+      "max": 6.0
+    },
+    "abv": {
+      "min": 4.5,
+      "max": 6.0
+    },
+    "ebc": {
+      "min": 3,
+      "max": 12
+    }
+  },
+  "commercialExamples": [
+    "Asahi Super Dry",
+    "Birra Moretti",
+    "Corona Extra",
+    "Devils Backbone Gold Leaf Lager",
+    "Full Sail Session Premium Lager",
+    "Heineken",
+    "Red Stripe",
+    "Singha"
+  ],
+  "tags": [
+    "standard-strength",
+    "pale-color",
+    "bottom-fermented",
+    "lagered",
+    "traditional-style",
+    "pale-lager-family"
+  ]
+}

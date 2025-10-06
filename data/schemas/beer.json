@@ -251,6 +251,11 @@
     "entryInstructions": {
       "type": "string",
       "description": "Instructions for entering this style in competitions"
+    },
+    "activeForBKG": {
+      "type": "boolean",
+      "description": "Indicates whether this beer style is active for BKG use",
+      "default": false
     }
   },
   "additionalProperties": false
